@@ -1,0 +1,1522 @@
+GENDER,Car_Owner,Propert_Owner,Annual_income,Type_Income,EDUCATION,Marital_status,Housing_type,Employed_days,Family_Members,target
+M,Y,Y,180000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Rejected
+F,Y,N,315000.0,Commercial associate,Higher education,Married,House / apartment,-586,2,Rejected
+F,Y,N,315000.0,Commercial associate,Higher education,Married,House / apartment,-586,2,Rejected
+F,Y,N,186372.5036820885,Commercial associate,Higher education,Married,House / apartment,-586,2,Rejected
+F,Y,N,315000.0,Commercial associate,Higher education,Married,House / apartment,-586,2,Rejected
+F,Y,N,186372.5036820885,Commercial associate,Higher education,Married,House / apartment,-586,2,Rejected
+F,N,N,315000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,Y,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-678,3,Rejected
+M,Y,Y,450000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-678,3,Rejected
+M,Y,Y,450000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-678,1,Rejected
+F,Y,Y,450000.0,Working,Secondary / secondary special,Married,House / apartment,-1002,2,Rejected
+F,Y,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-1002,2,Rejected
+F,Y,Y,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-1002,2,Rejected
+M,N,N,90000.0,Pensioner,Higher education,Married,With parents,-913,3,Rejected
+M,N,Y,472500.0,Working,Secondary / secondary special,Married,House / apartment,-248,2,Rejected
+M,N,Y,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-248,2,Rejected
+F,N,Y,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2470,1,Rejected
+F,N,Y,126000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2470,1,Rejected
+M,N,Y,126000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-1644,2,Rejected
+M,N,N,90000.0,Working,Higher education,Single / not married,House / apartment,-4327,1,Rejected
+M,Y,Y,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-1674,2,Rejected
+M,N,Y,202500.0,Commercial associate,Higher education,Civil marriage,House / apartment,-1086,2,Rejected
+F,N,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-925,4,Rejected
+F,N,Y,112500.0,Working,Higher education,Married,House / apartment,-854,2,Rejected
+F,Y,Y,180000.0,Commercial associate,Higher education,Married,House / apartment,-185,2,Rejected
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,N,N,186372.5036820885,Commercial associate,Higher education,Married,House / apartment,-691,2,Rejected
+F,N,Y,189620.55230667387,Working,Lower secondary,Single / not married,Rented apartment,-4770,2,Rejected
+F,N,N,90000.0,Working,Higher education,Single / not married,House / apartment,-2394,1,Rejected
+F,Y,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-384,3,Rejected
+M,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3647,2,Rejected
+M,Y,N,135000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-1546,2,Rejected
+M,Y,Y,180000.0,Working,Higher education,Married,House / apartment,-808,2,Rejected
+F,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,Y,Y,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1285,2,Rejected
+M,Y,Y,76500.0,Commercial associate,Higher education,Separated,House / apartment,-855,1,Rejected
+F,Y,N,215100.0,State servant,Higher education,Married,House / apartment,-7369,4,Rejected
+F,N,Y,450000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Rejected
+F,N,Y,270000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Rejected
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Rejected
+F,N,Y,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2269,3,Rejected
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-2269,3,Rejected
+F,N,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4114,3,Rejected
+M,Y,N,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1161,3,Rejected
+M,Y,N,67500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1161,3,Rejected
+M,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-7288,2,Rejected
+M,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-7288,2,Rejected
+M,N,N,157500.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-166,1,Rejected
+M,Y,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-866,3,Rejected
+M,Y,N,171000.0,Working,Secondary / secondary special,Married,House / apartment,-866,3,Rejected
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-564,2,Rejected
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-564,2,Rejected
+M,Y,Y,103500.0,Working,Secondary / secondary special,Married,House / apartment,-3366,2,Rejected
+M,Y,Y,103500.0,Working,Secondary / secondary special,Married,House / apartment,-3366,2,Rejected
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-3366,2,Rejected
+F,Y,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2150,2,Rejected
+M,N,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1458,3,Rejected
+M,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1458,1,Rejected
+F,N,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-8369,4,Rejected
+F,N,N,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8369,4,Rejected
+F,N,Y,180000.0,Pensioner,Higher education,Separated,House / apartment,365243,1,Rejected
+F,N,Y,180000.0,Pensioner,Higher education,Separated,House / apartment,365243,1,Rejected
+M,N,Y,99000.0,Pensioner,Higher education,Separated,House / apartment,365243,1,Rejected
+F,N,Y,198386.44819593136,Pensioner,Higher education,Separated,House / apartment,365243,1,Rejected
+M,N,N,99000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-508,1,Rejected
+M,N,N,99000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-508,1,Rejected
+M,N,N,391500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-508,1,Rejected
+M,N,Y,391500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Rejected
+M,N,Y,391500.0,Pensioner,Lower secondary,Married,House / apartment,365243,2,Rejected
+F,N,Y,65250.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Rejected
+F,N,Y,72900.0,Commercial associate,Higher education,Married,House / apartment,-1567,3,Rejected
+M,N,N,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-137,2,Rejected
+M,N,Y,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-137,2,Rejected
+F,Y,Y,180000.0,Working,Higher education,Married,House / apartment,-3974,2,Rejected
+F,N,N,186372.5036820885,Commercial associate,Secondary / secondary special,Married,House / apartment,-1570,2,Rejected
+F,Y,N,202500.0,Working,Higher education,Married,Rented apartment,-2878,3,Rejected
+F,Y,Y,157500.0,Working,Higher education,Separated,House / apartment,-140,2,Rejected
+F,Y,N,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2576,2,Rejected
+F,Y,Y,270000.0,Commercial associate,Higher education,Married,House / apartment,-1724,2,Rejected
+F,Y,Y,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-1724,2,Rejected
+M,N,Y,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-1328,2,Rejected
+F,N,N,256500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4987,4,Rejected
+F,N,Y,256500.0,Working,Incomplete higher,Separated,House / apartment,-3496,3,Rejected
+F,N,Y,157500.0,Working,Incomplete higher,Separated,House / apartment,-3496,3,Rejected
+M,Y,N,225000.0,Working,Secondary / secondary special,Married,With parents,-1394,2,Rejected
+M,Y,N,180000.0,Working,Secondary / secondary special,Married,With parents,-1394,2,Rejected
+M,Y,N,180000.0,Working,Secondary / secondary special,Married,With parents,-1394,2,Rejected
+M,Y,Y,202500.0,Commercial associate,Higher education,Married,House / apartment,-1265,2,Rejected
+F,Y,N,202500.0,Working,Higher education,Married,House / apartment,-2531,2,Rejected
+M,N,Y,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-2105,3,Rejected
+F,N,Y,315000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-860,2,Rejected
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-217,2,Rejected
+M,Y,Y,126000.0,Working,Secondary / secondary special,Married,House / apartment,-217,2,Rejected
+F,N,N,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,N,N,135000.0,State servant,Secondary / secondary special,Married,Municipal apartment,-6866,3,Rejected
+F,N,N,247500.0,Working,Secondary / secondary special,Widow,Co-op apartment,-584,1,Rejected
+F,N,N,103500.0,Working,Secondary / secondary special,Widow,Co-op apartment,-584,1,Rejected
+F,N,Y,85500.0,Working,Lower secondary,Widow,House / apartment,-2227,1,Rejected
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-8161,2,Rejected
+M,Y,N,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-613,1,Rejected
+M,N,Y,180000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Rejected
+M,Y,N,121500.0,Commercial associate,Higher education,Single / not married,Municipal apartment,-606,1,Rejected
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6944,2,Rejected
+M,N,N,225000.0,Working,Secondary / secondary special,Widow,Municipal apartment,-346,1,Rejected
+F,N,N,198386.44819593136,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Rejected
+F,Y,N,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,N,N,225000.0,Working,Incomplete higher,Married,Rented apartment,-1808,3,Rejected
+M,N,N,67500.0,Working,Incomplete higher,Married,Rented apartment,-1808,3,Rejected
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3420,2,Rejected
+F,N,Y,130500.0,Working,Secondary / secondary special,Married,House / apartment,-3420,2,Rejected
+F,N,Y,130500.0,Working,Secondary / secondary special,Married,House / apartment,-3420,2,Rejected
+F,N,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-3420,2,Rejected
+F,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3420,2,Rejected
+M,Y,Y,202500.0,Working,Higher education,Single / not married,House / apartment,-863,1,Rejected
+M,Y,Y,202500.0,Working,Higher education,Single / not married,House / apartment,-863,1,Rejected
+F,N,Y,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-7413,6,Rejected
+F,N,Y,126000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+F,N,Y,126000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,Y,Y,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-7553,2,Rejected
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3931,3,Rejected
+F,N,N,198386.44819593136,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Rejected
+F,N,N,211500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Rejected
+F,N,N,157500.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Rejected
+F,N,N,81000.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Rejected
+F,N,N,81000.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Rejected
+F,N,N,112500.0,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,365243,2,Rejected
+M,N,N,112500.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Rejected
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1039,2,Rejected
+F,N,N,112500.0,Working,Secondary / secondary special,Separated,House / apartment,-134,2,Rejected
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+F,Y,Y,72000.0,Working,Lower secondary,Married,House / apartment,-622,2,Rejected
+F,Y,Y,202500.0,Working,Lower secondary,Married,House / apartment,-622,2,Rejected
+M,N,Y,148500.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-1595,1,Rejected
+M,Y,N,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1626,3,Rejected
+F,N,Y,135000.0,Commercial associate,Lower secondary,Civil marriage,With parents,-1868,4,Rejected
+M,N,Y,270000.0,Commercial associate,Higher education,Married,House / apartment,-555,2,Rejected
+M,N,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-555,2,Rejected
+M,N,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-555,2,Rejected
+F,N,Y,192709.34979501247,State servant,Higher education,Single / not married,Municipal apartment,-1935,1,Rejected
+F,N,Y,112500.0,State servant,Higher education,Single / not married,Municipal apartment,-1935,1,Rejected
+M,Y,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-931,2,Rejected
+F,N,Y,112500.0,Commercial associate,Higher education,Single / not married,House / apartment,-900,2,Rejected
+F,N,Y,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-900,2,Rejected
+M,Y,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-4305,4,Rejected
+M,Y,Y,195750.0,Commercial associate,Higher education,Married,House / apartment,-4305,4,Rejected
+M,Y,Y,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-925,3,Rejected
+F,N,N,450000.0,Commercial associate,Higher education,Separated,House / apartment,-499,1,Rejected
+F,N,Y,450000.0,Commercial associate,Higher education,Separated,House / apartment,-499,1,Rejected
+F,N,Y,112500.0,Commercial associate,Higher education,Separated,House / apartment,-499,1,Rejected
+M,N,N,112500.0,Working,Secondary / secondary special,Married,Municipal apartment,-2418,3,Rejected
+F,N,Y,67500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Rejected
+F,N,Y,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Rejected
+M,Y,Y,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-189,1,Rejected
+F,N,Y,216000.0,Working,Secondary / secondary special,Married,House / apartment,-1132,3,Rejected
+F,N,Y,306000.0,Working,Secondary / secondary special,Married,House / apartment,-1770,2,Rejected
+F,N,Y,90000.0,Working,Secondary / secondary special,Widow,House / apartment,-919,1,Rejected
+M,Y,N,225000.0,Working,Secondary / secondary special,Married,Office apartment,-1081,2,Rejected
+M,Y,N,108000.0,Working,Secondary / secondary special,Married,Office apartment,-1081,2,Rejected
+M,Y,N,135000.0,Working,Higher education,Married,House / apartment,-502,3,Rejected
+M,Y,N,135000.0,Working,Higher education,Married,House / apartment,-502,3,Rejected
+M,Y,Y,108000.0,Working,Secondary / secondary special,Married,House / apartment,-2420,2,Rejected
+F,N,Y,108000.0,Commercial associate,Higher education,Married,House / apartment,-1325,2,Rejected
+F,N,Y,450000.0,Pensioner,Higher education,Married,House / apartment,-1325,2,Rejected
+F,N,Y,450000.0,Working,Secondary / secondary special,Married,Municipal apartment,-6367,3,Approved
+M,Y,N,186372.5036820885,Commercial associate,Secondary / secondary special,Married,House / apartment,-2484,2,Approved
+F,N,Y,315000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-341,2,Approved
+F,N,Y,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-9422,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3054,3,Approved
+F,N,Y,81000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2987,3,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2128,2,Approved
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,135000.0,Working,Higher education,Married,House / apartment,-820,2,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,Y,63000.0,Working,Secondary / secondary special,Married,House / apartment,-141,3,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,112500.0,Working,Lower secondary,Married,House / apartment,-1692,3,Approved
+M,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-1674,2,Approved
+F,N,Y,45000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-693,1,Approved
+F,N,Y,186372.5036820885,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-567,1,Approved
+F,N,N,202500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-885,1,Approved
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,198386.44819593136,Pensioner,Secondary / secondary special,Married,Rented apartment,365243,2,Approved
+F,N,N,256500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,90000.0,Working,Academic degree,Single / not married,House / apartment,-2769,2,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1547,2,Approved
+M,Y,Y,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,N,135000.0,Commercial associate,Secondary / secondary special,Civil marriage,Rented apartment,-3179,2,Approved
+F,N,Y,126000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,126000.0,Working,Secondary / secondary special,Married,With parents,-5204,2,Approved
+F,N,Y,337500.0,Working,Lower secondary,Widow,House / apartment,-3072,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-320,4,Approved
+M,N,Y,131400.0,Commercial associate,Higher education,Separated,House / apartment,-2469,1,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-583,2,Approved
+M,Y,N,247500.0,Working,Secondary / secondary special,Married,House / apartment,-834,2,Approved
+F,Y,N,121500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1085,2,Approved
+F,Y,N,117000.0,Commercial associate,Incomplete higher,Married,House / apartment,-1399,4,Approved
+F,N,N,90000.0,Working,Secondary / secondary special,Married,House / apartment,-7310,2,Approved
+M,N,Y,445500.0,Working,Secondary / secondary special,Married,House / apartment,-1748,3,Approved
+F,Y,Y,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-2479,2,Approved
+M,Y,Y,112500.0,State servant,Secondary / secondary special,Married,Municipal apartment,-875,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2805,4,Approved
+M,Y,Y,157500.0,Working,Higher education,Married,House / apartment,-2477,4,Approved
+F,N,Y,117000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1477,2,Approved
+F,N,Y,234000.0,Working,Higher education,Single / not married,House / apartment,-1782,2,Approved
+F,N,Y,247500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,N,144000.0,Working,Secondary / secondary special,Married,Municipal apartment,-1416,2,Approved
+F,N,N,180000.0,Pensioner,Higher education,Separated,House / apartment,365243,1,Approved
+M,N,N,189620.55230667387,Working,Incomplete higher,Married,House / apartment,-263,4,Approved
+M,Y,N,216000.0,Commercial associate,Higher education,Separated,House / apartment,-2349,1,Approved
+F,N,Y,90000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,Y,171000.0,Working,Higher education,Married,House / apartment,-412,2,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-7068,4,Approved
+F,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1787,2,Approved
+F,Y,N,225000.0,Working,Secondary / secondary special,Widow,House / apartment,-1345,1,Approved
+F,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-3717,2,Approved
+F,N,N,67050.0,Working,Secondary / secondary special,Married,House / apartment,-1048,2,Approved
+F,Y,N,270000.0,State servant,Higher education,Married,House / apartment,-2667,3,Approved
+M,Y,Y,73350.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2606,2,Approved
+M,Y,Y,112500.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-2135,1,Approved
+F,Y,Y,144000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2479,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Separated,House / apartment,-1534,1,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2531,2,Approved
+F,Y,Y,292500.0,Working,Higher education,Married,House / apartment,-2311,3,Approved
+F,N,N,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1323,4,Approved
+M,Y,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-5061,2,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Separated,House / apartment,-925,1,Approved
+M,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-4509,3,Approved
+F,N,Y,135000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-1552,2,Approved
+M,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-1569,2,Approved
+M,Y,N,202500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,N,Y,193500.0,Working,Secondary / secondary special,Married,House / apartment,-1679,3,Approved
+F,N,N,192709.34979501247,State servant,Secondary / secondary special,Married,House / apartment,-8684,2,Approved
+F,Y,Y,108000.0,Commercial associate,Higher education,Married,House / apartment,-6337,4,Approved
+F,N,Y,292500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1222,1,Approved
+M,Y,N,270000.0,Working,Secondary / secondary special,Single / not married,With parents,-531,1,Approved
+F,N,Y,270000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,292500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-7591,2,Approved
+M,N,Y,292500.0,State servant,Higher education,Married,House / apartment,-5639,4,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1776,2,Approved
+F,Y,Y,76500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-5498,2,Approved
+F,Y,N,180000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+M,N,Y,135000.0,Commercial associate,Lower secondary,Married,Rented apartment,-1935,2,Approved
+F,Y,N,112500.0,State servant,Secondary / secondary special,Widow,House / apartment,-5880,1,Approved
+F,Y,Y,360000.0,Working,Higher education,Married,House / apartment,-460,4,Approved
+F,N,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1569,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-4532,2,Approved
+M,Y,N,112500.0,Working,Secondary / secondary special,Single / not married,With parents,-3309,1,Approved
+F,Y,Y,121500.0,State servant,Secondary / secondary special,Married,House / apartment,-3873,2,Approved
+F,N,Y,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,112500.0,Working,Higher education,Married,House / apartment,-344,2,Approved
+M,Y,N,135000.0,State servant,Higher education,Married,House / apartment,-1923,2,Approved
+F,N,N,103500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-604,3,Approved
+M,Y,Y,157500.0,Working,Higher education,Separated,House / apartment,-584,1,Approved
+F,N,Y,337500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,180000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-1922,3,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1496,3,Approved
+F,Y,Y,157500.0,State servant,Higher education,Married,House / apartment,-708,3,Approved
+F,N,N,360000.0,State servant,Secondary / secondary special,Separated,House / apartment,-12332,1,Approved
+M,N,N,135000.0,Working,Secondary / secondary special,Married,With parents,-622,2,Approved
+F,N,N,337500.0,Commercial associate,Higher education,Single / not married,House / apartment,-5209,1,Approved
+F,Y,Y,135000.0,Pensioner,Higher education,Widow,House / apartment,365243,1,Approved
+F,N,Y,360000.0,Pensioner,Lower secondary,Married,House / apartment,365243,2,Approved
+F,N,Y,186372.5036820885,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-6273,1,Approved
+M,Y,N,450000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2722,2,Approved
+F,N,N,270000.0,State servant,Secondary / secondary special,Married,With parents,-9363,2,Approved
+F,N,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-746,2,Approved
+F,N,N,270000.0,Working,Secondary / secondary special,Single / not married,With parents,-1039,1,Approved
+M,Y,N,450000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1322,1,Approved
+F,N,Y,157500.0,Commercial associate,Incomplete higher,Married,House / apartment,-3458,2,Approved
+M,N,N,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-158,2,Approved
+F,Y,Y,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2457,2,Approved
+F,N,Y,112500.0,Commercial associate,Incomplete higher,Separated,House / apartment,-2811,3,Approved
+F,N,N,247500.0,Working,Higher education,Married,House / apartment,-7018,5,Approved
+M,Y,Y,157500.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,-2026,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-188,2,Approved
+F,N,Y,94500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-2967,3,Approved
+F,N,N,81000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-3166,2,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-5107,3,Approved
+M,Y,N,198000.0,Working,Secondary / secondary special,Married,House / apartment,-1649,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3694,3,Approved
+F,N,Y,315000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-3697,4,Approved
+F,Y,Y,67500.0,Working,Secondary / secondary special,Married,House / apartment,-4596,3,Approved
+M,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1748,3,Approved
+M,N,N,202500.0,Working,Secondary / secondary special,Married,Municipal apartment,-5674,4,Approved
+F,N,N,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1682,2,Approved
+F,N,N,306000.0,Working,Higher education,Married,House / apartment,-196,2,Approved
+F,N,N,90000.0,Commercial associate,Secondary / secondary special,Single / not married,With parents,-530,1,Approved
+M,Y,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1696,2,Approved
+F,Y,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2168,2,Approved
+F,N,N,234000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,171000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,N,94500.0,Working,Secondary / secondary special,Married,House / apartment,-1649,2,Approved
+F,N,Y,117000.0,State servant,Higher education,Married,House / apartment,-13382,2,Approved
+M,N,Y,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1509,1,Approved
+F,N,Y,202500.0,Commercial associate,Higher education,Separated,Rented apartment,-1347,1,Approved
+M,N,Y,54000.0,Working,Secondary / secondary special,Married,House / apartment,-1405,2,Approved
+F,Y,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-227,2,Approved
+F,N,Y,85500.0,Working,Secondary / secondary special,Widow,House / apartment,-9975,1,Approved
+M,N,N,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-1505,1,Approved
+M,Y,N,166500.0,Working,Higher education,Married,House / apartment,-5084,2,Approved
+F,Y,N,157500.0,Working,Higher education,Married,House / apartment,-2905,2,Approved
+F,Y,N,247500.0,Working,Incomplete higher,Married,House / apartment,-2213,4,Approved
+M,Y,Y,180000.0,Working,Higher education,Married,House / apartment,-356,2,Approved
+F,N,N,72000.0,Working,Secondary / secondary special,Married,House / apartment,-1719,2,Approved
+F,N,Y,202500.0,Working,Secondary / secondary special,Married,Municipal apartment,-3680,2,Approved
+F,Y,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-962,2,Approved
+F,N,N,270000.0,Working,Higher education,Separated,House / apartment,-3000,1,Approved
+M,Y,N,202500.0,State servant,Secondary / secondary special,Married,House / apartment,-4275,2,Approved
+F,N,Y,360000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,270000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,270000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,Y,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-110,2,Approved
+F,N,Y,189620.55230667387,Working,Secondary / secondary special,Widow,House / apartment,-2078,1,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-8377,2,Approved
+M,N,N,202500.0,Commercial associate,Higher education,Married,House / apartment,-110,3,Approved
+F,N,Y,99000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,162000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,N,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-4392,2,Approved
+F,N,Y,72000.0,Commercial associate,Higher education,Married,House / apartment,-126,3,Approved
+M,Y,Y,135000.0,Working,Higher education,Separated,With parents,-7640,1,Approved
+F,N,Y,315000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-3153,1,Approved
+F,N,Y,167400.0,Working,Secondary / secondary special,Civil marriage,With parents,-139,2,Approved
+F,Y,N,180000.0,Working,Higher education,Widow,House / apartment,-4023,2,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,99000.0,Working,Secondary / secondary special,Married,House / apartment,-4888,2,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,153000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,N,423000.0,Working,Secondary / secondary special,Married,House / apartment,-14887,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Separated,House / apartment,-3319,1,Approved
+F,N,Y,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1966,3,Approved
+F,Y,Y,247500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-200,3,Approved
+F,N,Y,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6123,4,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Married,With parents,-117,3,Approved
+M,Y,Y,90000.0,Working,Higher education,Married,Office apartment,-2625,3,Approved
+F,N,Y,90000.0,Working,Higher education,Married,House / apartment,-1763,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-3689,3,Approved
+F,N,N,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3414,3,Approved
+F,N,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2910,3,Approved
+F,N,Y,315000.0,Commercial associate,Secondary / secondary special,Married,With parents,-3412,2,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1107,1,Approved
+F,N,Y,450000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8036,2,Approved
+F,N,Y,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-3608,2,Approved
+F,Y,Y,180000.0,Working,Incomplete higher,Married,House / apartment,-101,4,Approved
+F,Y,Y,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-3231,2,Approved
+M,Y,N,243000.0,Working,Higher education,Married,Rented apartment,-203,3,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-1682,2,Approved
+F,N,N,234000.0,Working,Secondary / secondary special,Married,House / apartment,-1589,3,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3577,2,Approved
+F,N,N,121500.0,Working,Secondary / secondary special,Married,House / apartment,-735,3,Approved
+M,N,Y,121500.0,State servant,Secondary / secondary special,Separated,Co-op apartment,-8737,1,Approved
+M,Y,Y,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1617,2,Approved
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,90000.0,Working,Higher education,Married,House / apartment,-1591,3,Approved
+F,Y,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-979,2,Approved
+F,Y,Y,247500.0,Working,Higher education,Single / not married,House / apartment,-422,3,Approved
+F,N,Y,76500.0,Working,Secondary / secondary special,Married,House / apartment,-655,2,Approved
+F,Y,Y,85500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,N,Y,202500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-3653,1,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1261,2,Approved
+F,N,Y,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-7346,2,Approved
+F,Y,Y,225000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,Y,Y,283500.0,Commercial associate,Higher education,Civil marriage,House / apartment,-3810,2,Approved
+F,N,Y,90000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,186372.5036820885,Commercial associate,Secondary / secondary special,Married,House / apartment,-1190,3,Approved
+M,Y,Y,252000.0,Working,Secondary / secondary special,Married,House / apartment,-3246,2,Approved
+M,Y,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1649,2,Approved
+F,N,Y,315000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-7676,1,Approved
+F,N,N,450000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1353,4,Approved
+F,N,Y,180000.0,State servant,Secondary / secondary special,Married,House / apartment,-3715,2,Approved
+F,N,Y,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1113,3,Approved
+M,Y,Y,495000.0,Working,Secondary / secondary special,Married,House / apartment,-508,3,Approved
+M,Y,N,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2722,2,Approved
+F,Y,Y,306000.0,Working,Secondary / secondary special,Married,House / apartment,-992,2,Approved
+F,N,Y,157500.0,Working,Higher education,Married,House / apartment,-2289,4,Approved
+F,N,Y,180000.0,Working,Higher education,Separated,House / apartment,-12621,1,Approved
+F,N,N,36000.0,Working,Secondary / secondary special,Married,With parents,-869,2,Approved
+F,N,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2174,4,Approved
+F,N,N,292500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-5336,2,Approved
+F,Y,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3535,2,Approved
+F,Y,Y,202500.0,Working,Higher education,Married,House / apartment,-4407,3,Approved
+M,Y,Y,292500.0,Working,Higher education,Married,House / apartment,-412,2,Approved
+M,N,Y,315000.0,Working,Incomplete higher,Married,House / apartment,-453,2,Approved
+M,Y,N,135000.0,Working,Incomplete higher,Married,With parents,-960,2,Approved
+F,Y,Y,337500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-4711,1,Approved
+F,Y,Y,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1965,3,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2543,3,Approved
+F,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-1393,3,Approved
+F,Y,Y,157500.0,Commercial associate,Higher education,Married,House / apartment,-460,3,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2234,2,Approved
+M,Y,N,139500.0,Working,Higher education,Married,House / apartment,-1631,4,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1619,2,Approved
+F,Y,Y,133650.0,Working,Higher education,Separated,House / apartment,-5981,2,Approved
+F,N,N,427500.0,Working,Secondary / secondary special,Married,House / apartment,-3153,2,Approved
+M,Y,Y,81000.0,Commercial associate,Higher education,Married,House / apartment,-2682,2,Approved
+F,N,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-3443,3,Approved
+F,N,N,126000.0,Working,Secondary / secondary special,Married,House / apartment,-2330,2,Approved
+M,N,Y,135000.0,Working,Incomplete higher,Married,House / apartment,-413,2,Approved
+F,N,Y,94500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+M,Y,Y,180000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-6645,3,Approved
+F,N,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-505,4,Approved
+F,N,N,252000.0,Working,Higher education,Civil marriage,With parents,-201,2,Approved
+F,N,N,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,117000.0,Commercial associate,Higher education,Married,House / apartment,-3273,2,Approved
+M,Y,Y,247500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,With parents,-1462,3,Approved
+M,Y,Y,180000.0,Working,Higher education,Married,House / apartment,-2609,2,Approved
+M,Y,N,180000.0,State servant,Secondary / secondary special,Married,House / apartment,-521,2,Approved
+M,Y,N,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1321,2,Approved
+M,Y,N,135000.0,State servant,Higher education,Married,House / apartment,-2467,3,Approved
+F,N,Y,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-716,4,Approved
+F,Y,Y,202500.0,Working,Incomplete higher,Married,House / apartment,-101,4,Approved
+F,Y,Y,90000.0,Working,Incomplete higher,Married,House / apartment,-1632,2,Approved
+F,N,N,247500.0,Working,Higher education,Married,House / apartment,-614,4,Approved
+F,N,Y,99000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1904,1,Approved
+F,N,N,247500.0,State servant,Secondary / secondary special,Widow,House / apartment,-351,1,Approved
+F,N,N,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-7310,1,Approved
+M,Y,Y,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,121500.0,Working,Secondary / secondary special,Married,House / apartment,-7260,3,Approved
+M,Y,Y,157500.0,Commercial associate,Higher education,Married,With parents,-626,4,Approved
+M,Y,Y,121500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6853,2,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-458,5,Approved
+F,Y,Y,180000.0,State servant,Higher education,Married,House / apartment,-1628,3,Approved
+F,Y,Y,144000.0,State servant,Secondary / secondary special,Married,House / apartment,-6094,4,Approved
+M,Y,Y,126000.0,Working,Secondary / secondary special,Married,House / apartment,-734,2,Approved
+F,N,Y,225000.0,Pensioner,Lower secondary,Married,House / apartment,365243,2,Approved
+M,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-657,3,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2700,2,Approved
+M,N,N,270000.0,Working,Secondary / secondary special,Married,House / apartment,-880,3,Approved
+F,N,N,261000.0,Working,Higher education,Single / not married,With parents,-157,1,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-135,3,Approved
+F,Y,Y,202500.0,Working,Higher education,Widow,House / apartment,-1497,1,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1266,2,Approved
+F,N,Y,103500.0,State servant,Higher education,Single / not married,Municipal apartment,-1935,1,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-515,2,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1023,2,Approved
+M,N,Y,231750.0,Working,Secondary / secondary special,Married,House / apartment,-2129,2,Approved
+F,N,Y,202500.0,Working,Incomplete higher,Single / not married,House / apartment,-575,1,Approved
+F,N,Y,247500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,N,135000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-3262,1,Approved
+F,N,N,135000.0,Commercial associate,Incomplete higher,Married,With parents,-430,2,Approved
+F,N,Y,112500.0,Commercial associate,Incomplete higher,Married,House / apartment,-2207,5,Approved
+M,Y,Y,117000.0,Working,Lower secondary,Married,With parents,-1866,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-4568,2,Approved
+F,N,N,135000.0,Commercial associate,Higher education,Married,House / apartment,-309,2,Approved
+F,N,Y,103500.0,Working,Higher education,Married,House / apartment,-578,2,Approved
+M,Y,Y,315000.0,Working,Higher education,Married,House / apartment,-6908,2,Approved
+M,Y,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1931,3,Approved
+F,N,Y,247500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-8033,3,Approved
+F,N,N,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2257,3,Approved
+M,N,Y,315000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,N,247500.0,Working,Secondary / secondary special,Married,House / apartment,-3776,5,Approved
+F,Y,Y,157500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,N,Y,189620.55230667387,Working,Secondary / secondary special,Civil marriage,House / apartment,-140,3,Approved
+F,N,Y,247500.0,Working,Incomplete higher,Married,House / apartment,-4583,2,Approved
+F,N,Y,166500.0,Working,Secondary / secondary special,Married,House / apartment,-4404,3,Approved
+M,Y,N,112500.0,Working,Higher education,Married,House / apartment,-727,4,Approved
+F,N,Y,90900.0,Working,Secondary / secondary special,Married,House / apartment,-3805,3,Approved
+F,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-2316,2,Approved
+F,N,Y,45900.0,Working,Higher education,Married,House / apartment,-1455,3,Approved
+M,N,N,126000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5422,3,Approved
+M,N,Y,103500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-581,1,Approved
+M,Y,N,119250.0,Working,Incomplete higher,Married,House / apartment,-893,2,Approved
+F,N,Y,202500.0,Working,Incomplete higher,Married,House / apartment,-1860,4,Approved
+F,N,Y,157500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,112500.0,Commercial associate,Higher education,Separated,House / apartment,-6317,1,Approved
+M,N,Y,315000.0,Working,Secondary / secondary special,Married,House / apartment,-1000,2,Approved
+F,Y,Y,270000.0,Working,Higher education,Separated,House / apartment,-140,2,Approved
+F,Y,Y,162000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,N,Y,270000.0,Working,Higher education,Separated,House / apartment,-4766,2,Approved
+F,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2259,3,Approved
+F,N,Y,58500.0,Working,Secondary / secondary special,Married,House / apartment,-1344,2,Approved
+F,N,N,94500.0,Commercial associate,Higher education,Married,With parents,-4690,2,Approved
+M,N,N,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8290,1,Approved
+F,Y,N,270000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,N,99000.0,Working,Secondary / secondary special,Married,House / apartment,-2052,2,Approved
+F,N,N,315000.0,Working,Secondary / secondary special,Married,House / apartment,-5004,4,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-923,1,Approved
+M,N,N,180000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-1193,1,Approved
+F,Y,Y,211500.0,Commercial associate,Higher education,Married,House / apartment,-6337,4,Approved
+F,N,Y,202500.0,Commercial associate,Higher education,Married,House / apartment,-793,2,Approved
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,144000.0,Working,Secondary / secondary special,Married,With parents,-5453,2,Approved
+F,N,Y,144000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,270000.0,State servant,Higher education,Civil marriage,House / apartment,-88,3,Approved
+F,N,Y,148500.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-5495,1,Approved
+F,Y,Y,157500.0,Working,Higher education,Single / not married,House / apartment,-593,1,Approved
+F,N,Y,90000.0,State servant,Secondary / secondary special,Married,House / apartment,-3715,2,Approved
+F,N,Y,148500.0,Working,Higher education,Married,House / apartment,-4816,2,Approved
+F,N,Y,99000.0,Pensioner,Higher education,Single / not married,Municipal apartment,365243,1,Approved
+F,N,N,315000.0,Working,Higher education,Separated,House / apartment,-3000,1,Approved
+F,N,Y,162000.0,State servant,Secondary / secondary special,Married,House / apartment,-9422,2,Approved
+F,N,Y,202500.0,Working,Higher education,Married,House / apartment,-1586,2,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,292500.0,Working,Secondary / secondary special,Separated,House / apartment,-2104,1,Approved
+F,N,Y,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1032,1,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-9698,2,Approved
+M,Y,N,135000.0,State servant,Higher education,Married,House / apartment,-1923,2,Approved
+F,N,Y,67500.0,Working,Higher education,Single / not married,House / apartment,-1131,2,Approved
+M,N,Y,144000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1175,2,Approved
+F,Y,Y,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-8375,2,Approved
+M,Y,Y,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-2199,2,Approved
+M,N,N,135000.0,Commercial associate,Secondary / secondary special,Married,With parents,-1912,3,Approved
+M,Y,Y,360000.0,Working,Secondary / secondary special,Married,House / apartment,-926,4,Approved
+M,Y,Y,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-2499,3,Approved
+M,Y,N,225000.0,Working,Higher education,Married,House / apartment,-2654,2,Approved
+M,N,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1174,4,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-230,2,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-962,2,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2276,3,Approved
+F,N,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2197,4,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-2468,2,Approved
+F,N,Y,328500.0,Working,Secondary / secondary special,Married,House / apartment,-11448,2,Approved
+F,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-932,2,Approved
+M,Y,N,135000.0,Commercial associate,Higher education,Married,House / apartment,-2956,2,Approved
+F,N,Y,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1345,2,Approved
+M,Y,Y,157500.0,Working,Higher education,Married,House / apartment,-619,2,Approved
+M,Y,N,193500.0,Working,Secondary / secondary special,Married,House / apartment,-3787,4,Approved
+F,Y,Y,103500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1253,3,Approved
+M,Y,N,90000.0,State servant,Secondary / secondary special,Married,House / apartment,-3242,2,Approved
+F,N,N,198000.0,State servant,Secondary / secondary special,Married,With parents,-196,2,Approved
+M,N,N,202500.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-298,1,Approved
+M,Y,Y,225000.0,Commercial associate,Higher education,Married,House / apartment,-1748,3,Approved
+M,Y,Y,72000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-124,3,Approved
+F,N,N,202500.0,Working,Secondary / secondary special,Separated,House / apartment,-4082,2,Approved
+F,N,Y,247500.0,State servant,Higher education,Married,House / apartment,-1431,2,Approved
+F,Y,N,157500.0,Commercial associate,Secondary / secondary special,Civil marriage,With parents,-5330,2,Approved
+M,N,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1266,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Separated,With parents,-1017,2,Approved
+F,N,Y,450000.0,Working,Secondary / secondary special,Married,House / apartment,-1128,2,Approved
+M,N,N,180000.0,Working,Higher education,Civil marriage,House / apartment,-3088,4,Approved
+F,N,Y,108000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-693,1,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Separated,House / apartment,-1689,15,Approved
+M,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3003,2,Approved
+M,N,Y,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4039,2,Approved
+M,Y,Y,186372.5036820885,Commercial associate,Higher education,Single / not married,House / apartment,-588,1,Approved
+F,Y,N,225000.0,Working,Higher education,Married,Municipal apartment,-282,2,Approved
+F,N,Y,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4491,2,Approved
+M,Y,Y,72000.0,Working,Higher education,Married,House / apartment,-1155,2,Approved
+F,Y,Y,225000.0,State servant,Secondary / secondary special,Married,House / apartment,-1220,4,Approved
+F,N,N,157500.0,Pensioner,Higher education,Single / not married,Municipal apartment,365243,1,Approved
+F,Y,N,360000.0,Working,Secondary / secondary special,Married,House / apartment,-657,2,Approved
+F,N,Y,450000.0,State servant,Higher education,Married,House / apartment,-1203,2,Approved
+M,Y,N,216000.0,Working,Secondary / secondary special,Separated,House / apartment,-712,1,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2844,2,Approved
+F,Y,Y,315000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+M,Y,N,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4031,2,Approved
+F,N,N,135000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2878,2,Approved
+F,N,Y,157500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,N,234000.0,Working,Higher education,Married,House / apartment,-6693,4,Approved
+F,N,N,99000.0,Commercial associate,Incomplete higher,Married,With parents,-2760,3,Approved
+F,N,N,225000.0,Commercial associate,Higher education,Married,House / apartment,-2532,3,Approved
+M,Y,Y,292500.0,Commercial associate,Secondary / secondary special,Married,With parents,-1646,2,Approved
+F,Y,N,198000.0,Working,Secondary / secondary special,Married,House / apartment,-11542,2,Approved
+F,Y,N,90000.0,Working,Higher education,Single / not married,With parents,-5408,2,Approved
+F,Y,Y,247500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-1374,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3092,2,Approved
+M,N,Y,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-351,2,Approved
+F,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2379,4,Approved
+F,N,N,225000.0,Working,Secondary / secondary special,Married,Municipal apartment,-1281,2,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-7804,2,Approved
+M,Y,N,135000.0,Working,Higher education,Married,House / apartment,-3002,4,Approved
+F,Y,N,112500.0,Commercial associate,Higher education,Married,House / apartment,-825,2,Approved
+M,Y,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2128,3,Approved
+F,Y,Y,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2057,1,Approved
+M,N,N,112500.0,State servant,Incomplete higher,Single / not married,House / apartment,-1611,1,Approved
+M,N,Y,117000.0,Working,Secondary / secondary special,Married,House / apartment,-652,3,Approved
+M,Y,Y,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2537,1,Approved
+M,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-992,4,Approved
+M,Y,N,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-2331,2,Approved
+F,N,Y,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,243000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,121500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-4710,3,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1191,3,Approved
+F,Y,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,N,225000.0,State servant,Secondary / secondary special,Married,House / apartment,-1162,3,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-923,1,Approved
+M,N,Y,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3900,3,Approved
+F,N,Y,337500.0,Pensioner,Lower secondary,Married,House / apartment,365243,2,Approved
+M,Y,N,103500.0,Working,Higher education,Married,House / apartment,-219,3,Approved
+F,N,Y,99000.0,Working,Incomplete higher,Married,House / apartment,-223,2,Approved
+F,N,N,67500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-900,3,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3034,2,Approved
+F,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-3329,3,Approved
+M,Y,N,315000.0,Working,Secondary / secondary special,Married,House / apartment,-235,3,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3503,2,Approved
+F,N,Y,180000.0,Commercial associate,Higher education,Married,House / apartment,-1324,4,Approved
+F,N,Y,225000.0,State servant,Higher education,Married,House / apartment,-3112,4,Approved
+F,N,Y,85500.0,Working,Secondary / secondary special,Married,House / apartment,-2959,2,Approved
+F,N,Y,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-234,2,Approved
+F,N,N,119700.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-719,3,Approved
+F,N,N,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,153000.0,Working,Secondary / secondary special,Married,House / apartment,-217,2,Approved
+F,N,Y,216000.0,Commercial associate,Incomplete higher,Married,House / apartment,-2616,3,Approved
+F,N,N,202500.0,Working,Secondary / secondary special,Married,House / apartment,-2330,2,Approved
+F,N,Y,90000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-4410,2,Approved
+F,N,Y,108000.0,Working,Secondary / secondary special,Married,House / apartment,-1587,4,Approved
+F,N,Y,270000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,N,76500.0,Working,Secondary / secondary special,Single / not married,With parents,-1537,1,Approved
+F,Y,Y,69372.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1430,1,Approved
+M,N,Y,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-1928,1,Approved
+F,Y,Y,117000.0,Working,Incomplete higher,Civil marriage,House / apartment,-2753,3,Approved
+F,N,N,202500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,126000.0,Working,Secondary / secondary special,Married,House / apartment,-867,3,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2134,1,Approved
+M,Y,N,225000.0,Commercial associate,Higher education,Married,House / apartment,-460,4,Approved
+F,N,Y,81000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,5,Approved
+F,Y,N,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3232,2,Approved
+M,N,N,225000.0,Commercial associate,Higher education,Single / not married,House / apartment,-1505,1,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-95,1,Approved
+M,N,Y,103500.0,Working,Higher education,Married,House / apartment,-3690,3,Approved
+F,N,N,202500.0,Working,Secondary / secondary special,Married,House / apartment,-9870,2,Approved
+F,N,Y,37800.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4979,2,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3396,4,Approved
+M,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-461,1,Approved
+F,Y,N,180000.0,State servant,Incomplete higher,Single / not married,House / apartment,-5206,1,Approved
+F,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3173,4,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-732,3,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2531,4,Approved
+F,N,N,387000.0,Commercial associate,Higher education,Separated,With parents,-432,1,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2102,3,Approved
+M,N,N,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-6583,2,Approved
+M,Y,Y,126000.0,Commercial associate,Higher education,Married,House / apartment,-156,2,Approved
+M,Y,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2199,3,Approved
+M,N,Y,202500.0,Working,Higher education,Married,House / apartment,-5460,3,Approved
+F,N,N,225000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-1589,1,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2506,1,Approved
+F,N,Y,202500.0,Commercial associate,Incomplete higher,Married,House / apartment,-3397,2,Approved
+F,Y,N,247500.0,Working,Secondary / secondary special,Married,House / apartment,-3792,4,Approved
+F,N,N,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3230,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2464,2,Approved
+F,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-1682,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3334,2,Approved
+M,Y,N,207000.0,Working,Secondary / secondary special,Civil marriage,Office apartment,-3110,2,Approved
+F,Y,Y,270000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,3,Approved
+F,N,N,315000.0,State servant,Secondary / secondary special,Married,House / apartment,-2966,2,Approved
+F,Y,Y,315000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-3694,2,Approved
+F,Y,Y,121500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-2257,1,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,N,Y,225000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2728,3,Approved
+F,N,N,157500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,Y,Y,225000.0,Pensioner,Lower secondary,Married,House / apartment,365243,2,Approved
+M,Y,Y,135000.0,Commercial associate,Higher education,Separated,House / apartment,-855,1,Approved
+F,N,N,225000.0,Working,Secondary / secondary special,Separated,House / apartment,-4161,1,Approved
+M,Y,Y,270000.0,Commercial associate,Higher education,Married,House / apartment,-1000,4,Approved
+F,Y,Y,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-8377,2,Approved
+M,Y,Y,135000.0,Working,Higher education,Married,House / apartment,-7494,2,Approved
+F,N,N,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,450000.0,Working,Higher education,Married,House / apartment,-4280,2,Approved
+M,N,Y,202500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-5891,1,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-609,1,Approved
+F,N,Y,337500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2381,1,Approved
+M,Y,Y,94500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1613,1,Approved
+M,N,Y,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3533,2,Approved
+F,N,Y,157500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6218,2,Approved
+F,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2874,3,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,270000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,112500.0,Working,Higher education,Married,With parents,-1654,3,Approved
+F,N,Y,225000.0,Pensioner,Higher education,Widow,House / apartment,365243,1,Approved
+F,Y,N,54000.0,Working,Higher education,Civil marriage,House / apartment,-2433,2,Approved
+F,N,N,189000.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-4534,1,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1131,2,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-521,2,Approved
+F,N,N,121500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-522,2,Approved
+F,Y,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2269,2,Approved
+F,N,N,121500.0,Working,Secondary / secondary special,Separated,House / apartment,-798,1,Approved
+M,Y,Y,225000.0,State servant,Secondary / secondary special,Married,House / apartment,-2620,2,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1613,1,Approved
+M,Y,Y,315000.0,State servant,Higher education,Married,House / apartment,-145,3,Approved
+M,N,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4039,2,Approved
+M,Y,Y,90000.0,Working,Higher education,Civil marriage,House / apartment,-663,2,Approved
+F,Y,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-2299,2,Approved
+M,N,Y,45000.0,Working,Higher education,Single / not married,House / apartment,-3153,1,Approved
+F,N,Y,180000.0,Working,Higher education,Married,House / apartment,-1812,2,Approved
+M,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2589,2,Approved
+M,Y,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-130,2,Approved
+M,Y,N,360000.0,Working,Secondary / secondary special,Married,House / apartment,-5056,2,Approved
+F,N,N,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-796,2,Approved
+M,N,Y,99000.0,Working,Secondary / secondary special,Married,House / apartment,-7341,2,Approved
+F,N,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2728,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1130,4,Approved
+M,Y,Y,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-5436,2,Approved
+M,Y,Y,180000.0,State servant,Higher education,Married,House / apartment,-2368,2,Approved
+F,N,Y,315000.0,Working,Secondary / secondary special,Married,House / apartment,-1889,4,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Separated,House / apartment,-1315,1,Approved
+F,Y,N,108000.0,Commercial associate,Higher education,Married,House / apartment,-1678,2,Approved
+F,N,Y,180000.0,Working,Higher education,Married,House / apartment,-2939,2,Approved
+F,Y,Y,225000.0,Commercial associate,Higher education,Married,House / apartment,-1616,3,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8405,1,Approved
+F,N,N,292500.0,Working,Secondary / secondary special,Married,House / apartment,-3476,4,Approved
+F,Y,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3453,2,Approved
+M,Y,N,135000.0,Commercial associate,Incomplete higher,Married,House / apartment,-3769,3,Approved
+F,N,Y,315000.0,Working,Higher education,Married,House / apartment,-1359,3,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2990,2,Approved
+F,N,Y,333000.0,Working,Secondary / secondary special,Married,House / apartment,-2321,2,Approved
+F,N,Y,171000.0,Working,Secondary / secondary special,Married,House / apartment,-4267,3,Approved
+F,N,Y,130500.0,Working,Secondary / secondary special,Married,With parents,-1386,3,Approved
+F,N,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-645,2,Approved
+M,Y,Y,202500.0,State servant,Higher education,Single / not married,House / apartment,-886,1,Approved
+M,N,N,126000.0,Commercial associate,Higher education,Married,House / apartment,-1823,2,Approved
+M,Y,N,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4965,2,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1868,1,Approved
+F,Y,Y,105750.0,Working,Secondary / secondary special,Married,House / apartment,-3716,3,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1344,2,Approved
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+M,Y,Y,360000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1557,1,Approved
+F,N,N,157500.0,Commercial associate,Higher education,Married,House / apartment,-3761,2,Approved
+F,Y,Y,90000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-3716,2,Approved
+M,Y,Y,112500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,N,180000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-2993,2,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1981,5,Approved
+M,N,N,67500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-102,2,Approved
+M,N,N,270000.0,Working,Incomplete higher,Civil marriage,With parents,-288,2,Approved
+F,N,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-2147,2,Approved
+M,Y,Y,144000.0,Working,Higher education,Married,House / apartment,-6908,2,Approved
+M,Y,Y,207000.0,State servant,Secondary / secondary special,Married,House / apartment,-3929,3,Approved
+F,Y,Y,180000.0,Working,Higher education,Widow,House / apartment,-1497,1,Approved
+F,N,N,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-424,1,Approved
+M,N,Y,202500.0,Working,Secondary / secondary special,Separated,House / apartment,-1069,1,Approved
+M,N,Y,180000.0,State servant,Secondary / secondary special,Married,Rented apartment,-2323,2,Approved
+M,Y,N,126000.0,Working,Secondary / secondary special,Married,House / apartment,-2174,2,Approved
+F,N,Y,157500.0,State servant,Incomplete higher,Married,House / apartment,-3332,2,Approved
+F,N,Y,225000.0,State servant,Higher education,Single / not married,With parents,-553,2,Approved
+F,Y,Y,202500.0,Working,Secondary / secondary special,Separated,House / apartment,-375,1,Approved
+M,N,N,103500.0,Working,Secondary / secondary special,Separated,House / apartment,-6352,1,Approved
+M,Y,N,90000.0,Working,Secondary / secondary special,Separated,House / apartment,-1056,2,Approved
+F,N,N,135000.0,Pensioner,Higher education,Separated,House / apartment,365243,1,Approved
+F,N,N,67500.0,Commercial associate,Secondary / secondary special,Married,With parents,-1172,3,Approved
+F,N,N,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,N,382500.0,Working,Secondary / secondary special,Married,House / apartment,-4663,2,Approved
+M,Y,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-678,3,Approved
+F,N,Y,202500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,N,Y,292500.0,Working,Secondary / secondary special,Married,House / apartment,-4532,2,Approved
+F,N,N,225000.0,State servant,Higher education,Married,House / apartment,-5587,2,Approved
+F,N,N,135000.0,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,365243,1,Approved
+F,Y,Y,76500.0,Working,Secondary / secondary special,Separated,House / apartment,-1406,1,Approved
+F,Y,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-8966,2,Approved
+M,N,Y,450000.0,Working,Secondary / secondary special,Married,House / apartment,-6860,5,Approved
+F,N,Y,90000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,306000.0,Working,Secondary / secondary special,Married,House / apartment,-346,2,Approved
+F,N,Y,90000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-1463,1,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-157,2,Approved
+M,Y,N,193500.0,Working,Secondary / secondary special,Married,With parents,-561,4,Approved
+M,Y,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3661,2,Approved
+F,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-505,2,Approved
+M,Y,Y,112500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,N,Y,202500.0,Pensioner,Incomplete higher,Widow,House / apartment,365243,1,Approved
+F,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1787,2,Approved
+M,Y,Y,139500.0,Working,Higher education,Married,House / apartment,-6764,2,Approved
+F,N,Y,135000.0,Working,Higher education,Single / not married,House / apartment,-10600,1,Approved
+M,Y,N,202500.0,Working,Higher education,Married,House / apartment,-3999,3,Approved
+F,N,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3960,4,Approved
+F,Y,N,126000.0,Commercial associate,Higher education,Married,House / apartment,-2065,3,Approved
+M,Y,Y,193500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,N,112500.0,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,365243,1,Approved
+M,Y,N,337500.0,Working,Higher education,Married,With parents,-2227,2,Approved
+F,N,Y,157500.0,Working,Higher education,Civil marriage,House / apartment,-1205,2,Approved
+M,Y,N,193500.0,Working,Secondary / secondary special,Married,Municipal apartment,-1135,4,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-5190,2,Approved
+M,Y,N,315000.0,Working,Higher education,Married,House / apartment,-3720,2,Approved
+F,Y,Y,180000.0,Working,Secondary / secondary special,Widow,House / apartment,-2633,1,Approved
+F,N,Y,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,3,Approved
+M,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-1000,4,Approved
+M,Y,N,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-158,1,Approved
+F,N,N,135000.0,Commercial associate,Higher education,Married,With parents,-3272,3,Approved
+F,N,N,315000.0,State servant,Higher education,Married,House / apartment,-2500,3,Approved
+F,N,Y,112500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,135000.0,Working,Higher education,Married,House / apartment,-4327,2,Approved
+F,N,Y,99000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-6033,2,Approved
+F,N,N,270000.0,Working,Incomplete higher,Civil marriage,House / apartment,-278,2,Approved
+M,Y,N,112500.0,Working,Higher education,Married,House / apartment,-3062,2,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,Office apartment,-8157,2,Approved
+M,Y,Y,141750.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2653,4,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1953,2,Approved
+F,Y,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-5457,2,Approved
+M,N,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1997,2,Approved
+F,N,Y,270000.0,Commercial associate,Higher education,Married,House / apartment,-3435,2,Approved
+F,N,N,202500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,N,135000.0,Working,Higher education,Married,House / apartment,-1504,3,Approved
+M,Y,N,292500.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-2696,2,Approved
+F,N,Y,202500.0,Pensioner,Higher education,Married,House / apartment,365243,3,Approved
+F,N,Y,99000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,202500.0,Commercial associate,Higher education,Single / not married,House / apartment,-13735,1,Approved
+F,N,N,306000.0,Commercial associate,Higher education,Single / not married,With parents,-227,1,Approved
+M,Y,Y,148500.0,Working,Secondary / secondary special,Married,House / apartment,-132,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-6621,4,Approved
+F,N,N,180000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,180000.0,Commercial associate,Higher education,Married,House / apartment,-2481,3,Approved
+M,N,N,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-2818,2,Approved
+M,Y,Y,247500.0,Working,Secondary / secondary special,Married,House / apartment,-11906,2,Approved
+F,Y,N,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-1077,2,Approved
+F,N,Y,180000.0,Working,Higher education,Married,House / apartment,-9258,2,Approved
+F,Y,Y,103500.0,Commercial associate,Secondary / secondary special,Married,Office apartment,-2277,2,Approved
+F,Y,Y,198000.0,Working,Higher education,Widow,House / apartment,-1497,1,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2422,2,Approved
+F,N,Y,67500.0,Working,Secondary / secondary special,Married,House / apartment,-826,2,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-2969,3,Approved
+F,N,Y,315000.0,State servant,Incomplete higher,Single / not married,With parents,-2086,1,Approved
+F,N,N,292500.0,Commercial associate,Incomplete higher,Married,House / apartment,-1070,2,Approved
+F,N,Y,148500.0,Working,Higher education,Married,House / apartment,-8172,3,Approved
+F,N,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-701,2,Approved
+M,Y,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1384,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Widow,House / apartment,-9447,1,Approved
+M,Y,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1160,4,Approved
+F,N,N,261000.0,State servant,Secondary / secondary special,Married,Rented apartment,-1952,3,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-4816,2,Approved
+F,N,N,112500.0,Commercial associate,Higher education,Married,House / apartment,-1354,2,Approved
+F,Y,N,135000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-1128,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-469,2,Approved
+M,Y,N,360000.0,Working,Secondary / secondary special,Married,House / apartment,-217,4,Approved
+F,N,N,171000.0,Working,Secondary / secondary special,Married,House / apartment,-3273,2,Approved
+F,Y,N,40500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,N,130500.0,Working,Higher education,Married,Rented apartment,-563,3,Approved
+F,N,Y,306000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,N,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,112500.0,Working,Higher education,Separated,House / apartment,-1526,1,Approved
+M,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2092,4,Approved
+M,Y,Y,90000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-1749,2,Approved
+M,N,N,153000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-931,3,Approved
+M,N,Y,180000.0,State servant,Higher education,Married,House / apartment,-5639,4,Approved
+M,Y,N,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1674,5,Approved
+F,N,Y,90000.0,Commercial associate,Higher education,Married,House / apartment,-168,4,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1128,2,Approved
+M,N,Y,247500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,N,Y,112500.0,Working,Incomplete higher,Married,House / apartment,-4029,2,Approved
+M,N,N,67500.0,Working,Secondary / secondary special,Married,House / apartment,-4967,2,Approved
+M,N,Y,360000.0,Working,Secondary / secondary special,Married,House / apartment,-3282,2,Approved
+F,N,N,360000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-339,1,Approved
+F,N,N,315000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-7979,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-9683,1,Approved
+M,Y,Y,135000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-1749,2,Approved
+F,Y,Y,166500.0,Working,Higher education,Married,House / apartment,-577,2,Approved
+M,Y,Y,180000.0,Working,Higher education,Married,House / apartment,-2622,2,Approved
+F,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-1678,3,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,With parents,-976,3,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3608,4,Approved
+F,Y,Y,193500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2057,1,Approved
+M,Y,Y,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1994,3,Approved
+M,N,Y,315000.0,Working,Secondary / secondary special,Married,House / apartment,-1563,4,Approved
+M,Y,Y,405000.0,Working,Higher education,Married,House / apartment,-7494,2,Approved
+F,N,N,405000.0,Pensioner,Higher education,Married,Municipal apartment,365243,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-4523,2,Approved
+F,N,N,270000.0,Working,Secondary / secondary special,Married,With parents,-340,2,Approved
+F,Y,Y,243000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1081,2,Approved
+F,N,N,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-6614,1,Approved
+F,N,Y,337500.0,Working,Secondary / secondary special,Married,House / apartment,-1639,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Widow,House / apartment,-919,1,Approved
+F,N,N,117000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3392,3,Approved
+M,Y,N,202500.0,Working,Secondary / secondary special,Married,House / apartment,-3261,2,Approved
+M,Y,Y,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-3928,3,Approved
+M,Y,N,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,N,135000.0,Commercial associate,Higher education,Married,With parents,-5082,2,Approved
+F,N,Y,216000.0,Working,Secondary / secondary special,Married,House / apartment,-3630,2,Approved
+F,N,Y,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-3591,1,Approved
+M,Y,N,225000.0,Commercial associate,Higher education,Married,House / apartment,-1199,4,Approved
+M,N,Y,81000.0,Commercial associate,Higher education,Separated,House / apartment,-2469,1,Approved
+F,Y,Y,180000.0,Working,Secondary / secondary special,Widow,House / apartment,-4304,1,Approved
+F,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,225000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-2514,3,Approved
+M,N,Y,157500.0,Commercial associate,Higher education,Married,House / apartment,-2187,4,Approved
+F,Y,Y,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-7140,1,Approved
+F,N,N,166500.0,Working,Secondary / secondary special,Married,House / apartment,-96,4,Approved
+F,N,Y,445500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-5176,3,Approved
+F,Y,N,45000.0,Working,Secondary / secondary special,Married,House / apartment,-6761,2,Approved
+M,Y,Y,315000.0,Commercial associate,Higher education,Married,House / apartment,-2356,2,Approved
+M,N,N,450000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2908,3,Approved
+F,N,N,90000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-3333,2,Approved
+M,N,N,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-3596,2,Approved
+M,N,Y,148500.0,Working,Secondary / secondary special,Married,House / apartment,-4606,4,Approved
+F,N,N,135000.0,Working,Incomplete higher,Married,House / apartment,-4030,3,Approved
+F,N,N,144000.0,State servant,Secondary / secondary special,Widow,House / apartment,-5246,1,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3054,1,Approved
+M,Y,N,360000.0,Commercial associate,Incomplete higher,Married,House / apartment,-2906,2,Approved
+M,Y,N,90000.0,Working,Secondary / secondary special,Married,House / apartment,-1915,3,Approved
+F,N,Y,157500.0,Pensioner,Incomplete higher,Widow,House / apartment,365243,1,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1267,1,Approved
+F,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,Y,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1256,2,Approved
+F,N,Y,216000.0,Working,Secondary / secondary special,Married,House / apartment,-1721,3,Approved
+M,N,Y,126000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2317,4,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1518,4,Approved
+M,Y,Y,189000.0,Working,Secondary / secondary special,Married,House / apartment,-7804,2,Approved
+M,Y,Y,337500.0,Working,Secondary / secondary special,Married,Rented apartment,-864,2,Approved
+F,Y,N,44550.0,Working,Secondary / secondary special,Married,House / apartment,-7364,2,Approved
+M,Y,N,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1101,1,Approved
+F,N,N,157500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+M,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-2231,2,Approved
+F,Y,Y,135000.0,Commercial associate,Higher education,Married,With parents,-1327,4,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-355,2,Approved
+F,N,Y,301500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,Y,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1934,2,Approved
+M,Y,Y,90000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,N,N,67500.0,Working,Higher education,Civil marriage,House / apartment,-5179,2,Approved
+M,N,Y,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2326,3,Approved
+F,Y,N,315000.0,Working,Higher education,Civil marriage,House / apartment,-980,3,Approved
+F,N,N,117000.0,Working,Secondary / secondary special,Married,House / apartment,-1224,3,Approved
+F,Y,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-7048,2,Approved
+M,N,N,67500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1678,2,Approved
+F,N,Y,189000.0,Commercial associate,Higher education,Married,House / apartment,-2266,3,Approved
+F,N,Y,202500.0,Commercial associate,Higher education,Married,House / apartment,-73,4,Approved
+M,N,N,157500.0,Working,Higher education,Married,House / apartment,-3443,2,Approved
+F,N,N,225000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2661,3,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-286,2,Approved
+F,Y,Y,202500.0,State servant,Secondary / secondary special,Married,House / apartment,-8044,3,Approved
+F,N,Y,180000.0,Commercial associate,Higher education,Married,House / apartment,-523,2,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,157500.0,Commercial associate,Higher education,Married,House / apartment,-523,2,Approved
+M,Y,Y,180000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,N,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-978,2,Approved
+F,N,Y,81000.0,Working,Secondary / secondary special,Married,House / apartment,-795,4,Approved
+F,N,Y,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2351,4,Approved
+F,N,Y,94500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-1114,2,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3760,2,Approved
+M,Y,Y,450000.0,Working,Higher education,Married,House / apartment,-1327,3,Approved
+F,N,Y,315000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,54000.0,Commercial associate,Higher education,Married,House / apartment,-3322,3,Approved
+M,N,N,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-5145,2,Approved
+M,Y,Y,157500.0,Working,Higher education,Single / not married,With parents,-663,1,Approved
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4119,3,Approved
+F,N,N,225000.0,Pensioner,Secondary / secondary special,Widow,Municipal apartment,365243,1,Approved
+F,N,N,360000.0,Working,Secondary / secondary special,Married,House / apartment,-1719,2,Approved
+F,N,Y,112500.0,State servant,Secondary / secondary special,Widow,House / apartment,-2052,1,Approved
+F,Y,Y,292500.0,Working,Secondary / secondary special,Married,House / apartment,-3641,2,Approved
+M,Y,Y,360000.0,Working,Incomplete higher,Married,House / apartment,-1678,4,Approved
+M,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-481,2,Approved
+F,N,Y,126000.0,Working,Secondary / secondary special,Married,House / apartment,-4603,3,Approved
+M,Y,N,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2484,2,Approved
+F,N,N,270000.0,Working,Incomplete higher,Married,House / apartment,-1904,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-888,2,Approved
+F,Y,Y,216000.0,Working,Higher education,Married,House / apartment,-393,3,Approved
+F,Y,N,337500.0,Working,Higher education,Married,With parents,-1007,2,Approved
+F,N,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-10688,2,Approved
+F,N,N,108000.0,State servant,Secondary / secondary special,Separated,House / apartment,-12332,1,Approved
+F,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1724,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3689,3,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2228,2,Approved
+M,Y,N,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-8479,3,Approved
+M,Y,N,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2180,2,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,270000.0,Working,Secondary / secondary special,Separated,House / apartment,-1362,1,Approved
+F,Y,Y,270000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,N,N,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1876,2,Approved
+F,N,Y,135000.0,Working,Higher education,Married,House / apartment,-3503,2,Approved
+M,Y,N,351000.0,Working,Higher education,Married,House / apartment,-2265,2,Approved
+F,N,Y,202500.0,State servant,Higher education,Separated,House / apartment,-11389,1,Approved
+M,N,Y,189000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-4146,1,Approved
+M,N,N,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-926,3,Approved
+F,Y,Y,144000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5500,2,Approved
+F,N,N,67500.0,Working,Higher education,Married,House / apartment,-5521,2,Approved
+F,N,N,247500.0,Commercial associate,Higher education,Married,House / apartment,-1081,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-658,1,Approved
+M,Y,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1649,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Civil marriage,With parents,-3695,3,Approved
+F,N,N,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-901,2,Approved
+F,N,N,99000.0,Working,Higher education,Separated,House / apartment,-1526,1,Approved
+M,Y,Y,351000.0,Working,Secondary / secondary special,Separated,House / apartment,-1751,1,Approved
+F,Y,Y,175500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1253,3,Approved
+M,Y,Y,306000.0,Working,Higher education,Married,House / apartment,-3663,3,Approved
+M,Y,N,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3334,1,Approved
+F,N,Y,58500.0,Working,Secondary / secondary special,Married,House / apartment,-3149,2,Approved
+F,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-4491,3,Approved
+F,Y,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1375,3,Approved
+F,N,Y,247500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,189000.0,Working,Secondary / secondary special,Married,Municipal apartment,-1162,2,Approved
+F,Y,Y,247500.0,Commercial associate,Higher education,Married,House / apartment,-183,3,Approved
+F,Y,N,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-500,2,Approved
+M,Y,Y,148500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-489,4,Approved
+F,Y,Y,180000.0,Working,Higher education,Married,House / apartment,-2450,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1539,5,Approved
+F,N,Y,121900.5,Working,Higher education,Married,House / apartment,-1556,2,Approved
+F,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-7095,2,Approved
+M,Y,N,180000.0,Commercial associate,Incomplete higher,Civil marriage,With parents,-674,2,Approved
+F,Y,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2605,3,Approved
+M,N,N,450000.0,Commercial associate,Higher education,Married,With parents,-5082,2,Approved
+M,N,Y,225000.0,Working,Higher education,Married,House / apartment,-1999,3,Approved
+F,N,Y,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-555,1,Approved
+M,Y,Y,157500.0,Working,Incomplete higher,Married,House / apartment,-4599,2,Approved
+F,Y,N,238500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-6488,3,Approved
+M,N,Y,261000.0,Working,Secondary / secondary special,Single / not married,With parents,-1054,1,Approved
+M,N,N,180000.0,Working,Secondary / secondary special,Married,With parents,-745,4,Approved
+F,N,N,225000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,112500.0,Pensioner,Higher education,Single / not married,House / apartment,365243,1,Approved
+M,Y,N,180000.0,Working,Higher education,Married,House / apartment,-2265,2,Approved
+F,N,Y,171000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-412,5,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3505,2,Approved
+F,Y,N,202500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,33750.0,Working,Higher education,Separated,House / apartment,-1585,2,Approved
+M,Y,N,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1812,1,Approved
+M,Y,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-6904,2,Approved
+M,N,N,157500.0,Working,Secondary / secondary special,Civil marriage,Rented apartment,-2530,2,Approved
+M,Y,N,67500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-1420,3,Approved
+M,Y,Y,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-314,2,Approved
+M,Y,Y,153000.0,Working,Secondary / secondary special,Married,House / apartment,-2441,2,Approved
+M,Y,Y,180000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,Y,180000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,N,N,121500.0,Working,Secondary / secondary special,Married,House / apartment,-11884,2,Approved
+F,N,Y,112500.0,State servant,Higher education,Married,House / apartment,-4520,3,Approved
+F,Y,N,270000.0,State servant,Secondary / secondary special,Married,House / apartment,-460,2,Approved
+F,N,N,360000.0,Working,Higher education,Single / not married,Office apartment,-3289,1,Approved
+F,N,Y,116100.0,Working,Higher education,Married,House / apartment,-1495,2,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1161,2,Approved
+F,Y,N,450000.0,Working,Higher education,Married,House / apartment,-3504,2,Approved
+M,N,Y,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3093,1,Approved
+M,N,N,405000.0,Working,Higher education,Married,With parents,-2417,2,Approved
+M,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-1463,2,Approved
+M,N,Y,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2554,3,Approved
+M,Y,Y,202500.0,Pensioner,Lower secondary,Married,House / apartment,365243,2,Approved
+F,N,N,297000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,315000.0,Working,Secondary / secondary special,Widow,With parents,-818,1,Approved
+M,Y,Y,202500.0,Commercial associate,Higher education,Civil marriage,House / apartment,-2537,3,Approved
+M,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,202500.0,Working,Incomplete higher,Married,House / apartment,-9359,3,Approved
+M,Y,Y,360000.0,Working,Incomplete higher,Married,House / apartment,-1508,2,Approved
+M,Y,Y,112500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,Y,N,121500.0,Commercial associate,Incomplete higher,Separated,House / apartment,-1344,1,Approved
+F,Y,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-10364,2,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,N,135000.0,Pensioner,Higher education,Single / not married,House / apartment,365243,1,Approved
+F,Y,N,261000.0,Working,Higher education,Married,House / apartment,-2296,2,Approved
+M,Y,N,121500.0,Working,Secondary / secondary special,Separated,With parents,-1626,3,Approved
+F,Y,N,202500.0,Working,Secondary / secondary special,Separated,House / apartment,-2142,1,Approved
+M,N,Y,94500.0,Commercial associate,Higher education,Single / not married,House / apartment,-1928,1,Approved
+F,N,Y,225000.0,State servant,Higher education,Married,House / apartment,-3163,2,Approved
+F,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2896,1,Approved
+F,Y,Y,360000.0,Commercial associate,Higher education,Separated,House / apartment,-1185,1,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Married,With parents,-1670,4,Approved
+M,N,Y,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3670,2,Approved
+F,N,Y,81000.0,Commercial associate,Higher education,Married,House / apartment,-1202,2,Approved
+F,N,Y,360000.0,Working,Secondary / secondary special,Married,House / apartment,-4936,2,Approved
+F,N,Y,315000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,N,Y,126000.0,Working,Secondary / secondary special,Married,House / apartment,-596,4,Approved
+F,N,N,225000.0,State servant,Higher education,Married,House / apartment,-6648,2,Approved
+F,N,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-2197,4,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,40500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-747,2,Approved
+F,Y,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1741,2,Approved
+M,Y,Y,67500.0,Working,Secondary / secondary special,Married,With parents,-1615,2,Approved
+F,N,Y,315000.0,Working,Secondary / secondary special,Separated,House / apartment,-2052,1,Approved
+M,N,Y,270000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,Y,180000.0,Working,Incomplete higher,Married,House / apartment,-1444,2,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2089,3,Approved
+F,Y,Y,252000.0,Working,Higher education,Separated,House / apartment,-5981,2,Approved
+F,N,Y,270000.0,Working,Secondary / secondary special,Married,With parents,-397,4,Approved
+F,N,Y,157500.0,Commercial associate,Higher education,Married,House / apartment,-923,2,Approved
+F,N,Y,270000.0,Working,Higher education,Single / not married,House / apartment,-2592,1,Approved
+M,Y,N,162000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2234,2,Approved
+F,Y,N,315000.0,Working,Higher education,Single / not married,House / apartment,-1618,2,Approved
+M,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-825,3,Approved
+F,Y,Y,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2822,1,Approved
+M,Y,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-923,2,Approved
+M,N,N,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-1600,1,Approved
+F,N,N,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2558,1,Approved
+F,Y,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-991,3,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,202500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,162000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2758,2,Approved
+F,N,N,450000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2988,2,Approved
+F,N,N,270000.0,State servant,Secondary / secondary special,Married,Office apartment,-2904,4,Approved
+M,Y,Y,90000.0,Working,Higher education,Married,House / apartment,-73,2,Approved
+M,Y,Y,67500.0,Working,Secondary / secondary special,Married,House / apartment,-3366,2,Approved
+M,Y,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-3377,2,Approved
+F,N,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-3902,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3202,2,Approved
+F,Y,Y,157500.0,Working,Higher education,Married,House / apartment,-505,2,Approved
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-671,2,Approved
+M,N,Y,418500.0,Working,Secondary / secondary special,Married,House / apartment,-848,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1953,2,Approved
+F,N,N,135000.0,Commercial associate,Higher education,Married,House / apartment,-309,2,Approved
+M,Y,Y,360000.0,Working,Higher education,Married,House / apartment,-552,3,Approved
+F,Y,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1787,2,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2559,2,Approved
+M,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2361,2,Approved
+M,Y,Y,202500.0,Working,Higher education,Married,House / apartment,-3854,2,Approved
+F,N,Y,315000.0,Working,Secondary / secondary special,Married,House / apartment,-1182,2,Approved
+F,N,Y,315000.0,Working,Secondary / secondary special,Widow,House / apartment,-2384,1,Approved
+F,Y,Y,112500.0,State servant,Higher education,Married,House / apartment,-8230,2,Approved
+M,Y,N,83250.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,261000.0,Working,Higher education,Single / not married,Co-op apartment,-531,1,Approved
+M,N,N,247500.0,Working,Higher education,Married,House / apartment,-2493,3,Approved
+M,Y,Y,360000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2362,2,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-962,1,Approved
+M,N,Y,225000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-4034,2,Approved
+F,N,N,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1619,3,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,Y,112500.0,State servant,Higher education,Married,House / apartment,-2143,4,Approved
+M,Y,N,225000.0,Commercial associate,Higher education,Married,House / apartment,-1569,2,Approved
+F,Y,Y,173250.0,Working,Secondary / secondary special,Married,House / apartment,-2393,2,Approved
+M,Y,Y,148500.0,State servant,Higher education,Married,House / apartment,-2565,4,Approved
+F,N,Y,315000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+M,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1101,1,Approved
+M,Y,N,157500.0,Working,Higher education,Married,House / apartment,-727,4,Approved
+F,N,N,76500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-7591,2,Approved
+F,Y,Y,225000.0,Working,Higher education,Married,House / apartment,-505,2,Approved
+M,N,N,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-450,1,Approved
+F,N,Y,216000.0,Working,Secondary / secondary special,Married,House / apartment,-5496,4,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-2319,2,Approved
+F,N,N,211500.0,Working,Higher education,Married,House / apartment,-2257,2,Approved
+F,N,Y,202500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-191,3,Approved
+F,Y,Y,112500.0,Working,Secondary / secondary special,Separated,House / apartment,-1406,1,Approved
+F,Y,Y,112500.0,State servant,Higher education,Married,House / apartment,-3506,2,Approved
+M,Y,N,166500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2865,3,Approved
+F,N,N,72000.0,Commercial associate,Incomplete higher,Married,House / apartment,-2339,2,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1086,4,Approved
+F,N,Y,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-2072,1,Approved
+F,N,N,67500.0,Working,Secondary / secondary special,Married,House / apartment,-7013,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Separated,House / apartment,-3008,3,Approved
+F,N,Y,207000.0,Commercial associate,Higher education,Married,House / apartment,-3435,2,Approved
+F,Y,Y,148500.0,State servant,Secondary / secondary special,Married,House / apartment,-8044,3,Approved
+M,Y,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2932,3,Approved
+F,N,Y,112500.0,Working,Incomplete higher,Civil marriage,House / apartment,-1751,2,Approved
+M,Y,Y,202500.0,Commercial associate,Higher education,Married,House / apartment,-565,4,Approved
+M,N,Y,67500.0,Commercial associate,Secondary / secondary special,Single / not married,With parents,-1282,1,Approved
+F,N,N,67500.0,Working,Secondary / secondary special,Married,House / apartment,-3902,2,Approved
+F,N,Y,306000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3154,2,Approved
+M,Y,Y,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1539,2,Approved
+F,Y,Y,360000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1225,2,Approved
+M,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-619,2,Approved
+F,N,N,450000.0,Working,Lower secondary,Single / not married,House / apartment,-2333,3,Approved
+F,N,N,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-235,3,Approved
+F,N,N,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1869,2,Approved
+F,Y,N,315000.0,State servant,Secondary / secondary special,Married,House / apartment,-11940,2,Approved
+M,N,Y,247500.0,State servant,Higher education,Married,House / apartment,-3515,3,Approved
+M,N,Y,72000.0,State servant,Higher education,Married,House / apartment,-5639,4,Approved
+F,N,Y,81000.0,Working,Secondary / secondary special,Separated,House / apartment,-3291,1,Approved
+F,Y,Y,171000.0,State servant,Secondary / secondary special,Married,House / apartment,-407,3,Approved
+F,Y,Y,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3246,3,Approved
+M,N,Y,135000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,Y,N,202500.0,Commercial associate,Higher education,Married,With parents,-444,3,Approved
+M,N,Y,292500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-226,1,Approved
+F,N,Y,360000.0,Working,Secondary / secondary special,Married,House / apartment,-8033,3,Approved
+F,N,N,315000.0,Working,Secondary / secondary special,Married,House / apartment,-7068,4,Approved
+M,Y,Y,405000.0,Working,Secondary / secondary special,Married,House / apartment,-1923,3,Approved
+F,N,N,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,198000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,202500.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Approved
+M,Y,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-279,4,Approved
+F,N,Y,166500.0,Working,Secondary / secondary special,Married,House / apartment,-2234,2,Approved
+F,N,N,73350.0,Working,Secondary / secondary special,Married,House / apartment,-1661,2,Approved
+M,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1458,3,Approved
+F,N,Y,103500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,202500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+M,Y,N,76500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-896,1,Approved
+M,N,N,225000.0,Working,Secondary / secondary special,Married,With parents,-1328,3,Approved
+F,N,N,126000.0,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-670,1,Approved
+F,N,N,211500.0,Working,Secondary / secondary special,Married,House / apartment,-2533,2,Approved
+F,N,N,157500.0,Working,Higher education,Married,House / apartment,-7400,2,Approved
+M,Y,Y,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1557,1,Approved
+F,Y,Y,225000.0,Commercial associate,Higher education,Married,House / apartment,-979,2,Approved
+M,Y,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,405000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3339,1,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1876,2,Approved
+M,N,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1259,2,Approved
+F,N,N,247500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-1866,1,Approved
+F,N,N,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1570,2,Approved
+M,Y,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-235,2,Approved
+F,Y,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-265,4,Approved
+F,N,Y,135000.0,Pensioner,Higher education,Married,House / apartment,365243,3,Approved
+F,N,Y,67500.0,Working,Secondary / secondary special,Married,House / apartment,-469,2,Approved
+M,N,N,135000.0,Working,Higher education,Single / not married,House / apartment,-1870,2,Approved
+M,Y,N,193500.0,Working,Secondary / secondary special,Married,House / apartment,-2540,4,Approved
+M,Y,N,135000.0,Working,Higher education,Married,House / apartment,-3999,3,Approved
+F,Y,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-1678,3,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2978,2,Approved
+F,N,Y,180000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,N,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3505,5,Approved
+F,N,N,247500.0,Working,Secondary / secondary special,Separated,House / apartment,-187,1,Approved
+M,Y,Y,360000.0,Commercial associate,Incomplete higher,Married,House / apartment,-477,2,Approved
+M,N,Y,193500.0,Working,Secondary / secondary special,Married,House / apartment,-1436,4,Approved
+F,N,N,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,306000.0,State servant,Secondary / secondary special,Married,House / apartment,-8684,2,Approved
+F,N,N,153000.0,Working,Secondary / secondary special,Separated,House / apartment,-1978,1,Approved
+F,N,Y,171000.0,Working,Higher education,Single / not married,House / apartment,-1133,1,Approved
+M,N,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3535,5,Approved
+F,N,N,360000.0,State servant,Incomplete higher,Married,House / apartment,-2985,2,Approved
+F,N,N,157500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-10758,2,Approved
+F,N,Y,112500.0,Pensioner,Incomplete higher,Separated,House / apartment,365243,1,Approved
+M,N,N,292500.0,Working,Higher education,Married,House / apartment,-6273,3,Approved
+F,N,Y,315000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Married,House / apartment,-4288,2,Approved
+M,Y,N,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1526,1,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-89,4,Approved
+F,N,Y,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6930,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1807,1,Approved
+M,Y,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-3143,2,Approved
+M,Y,N,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3850,4,Approved
+M,N,N,135000.0,Commercial associate,Higher education,Married,House / apartment,-1823,2,Approved
+F,N,Y,292500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1649,2,Approved
+F,N,Y,274500.0,Working,Higher education,Married,House / apartment,-4560,4,Approved
+F,N,N,225000.0,Working,Higher education,Married,House / apartment,-785,3,Approved
+M,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2361,2,Approved
+F,N,Y,225000.0,State servant,Incomplete higher,Civil marriage,House / apartment,-3570,3,Approved
+F,N,Y,360000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,126000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2349,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-777,2,Approved
+F,Y,Y,54000.0,Working,Secondary / secondary special,Married,House / apartment,-2299,2,Approved
+F,N,N,76500.0,Working,Secondary / secondary special,Married,Municipal apartment,-11451,2,Approved
+M,Y,Y,247500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-412,1,Approved
+M,N,N,112500.0,Working,Secondary / secondary special,Separated,House / apartment,-742,2,Approved
+F,N,Y,81000.0,Working,Higher education,Married,House / apartment,-5950,4,Approved
+F,N,Y,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-464,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-385,1,Approved
+F,N,N,99000.0,Working,Secondary / secondary special,Married,House / apartment,-2475,2,Approved
+F,N,Y,67500.0,State servant,Secondary / secondary special,Married,House / apartment,-3694,2,Approved
+F,Y,Y,189620.55230667387,Working,Secondary / secondary special,Married,House / apartment,-2051,2,Approved
+M,N,Y,202500.0,Commercial associate,Higher education,Married,House / apartment,-808,2,Approved
+M,Y,Y,58500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3607,2,Approved
+F,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2454,1,Approved
+F,N,N,135000.0,Working,Higher education,Married,With parents,-7614,4,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1070,3,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,Y,144000.0,Working,Secondary / secondary special,Married,House / apartment,-1107,3,Approved
+M,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-2796,2,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-642,2,Approved
+M,Y,Y,81000.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,-2654,2,Approved
+F,Y,Y,193500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1436,2,Approved
+F,N,Y,144000.0,Working,Higher education,Married,House / apartment,-4004,2,Approved
+F,N,Y,292500.0,Working,Higher education,Married,House / apartment,-2207,3,Approved
+M,N,N,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5422,3,Approved
+F,N,Y,315000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-3680,1,Approved
+M,Y,Y,202500.0,State servant,Higher education,Married,House / apartment,-4917,3,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-11448,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-5622,2,Approved
+F,N,Y,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-716,4,Approved
+F,Y,N,270000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,76500.0,Commercial associate,Higher education,Married,House / apartment,-1466,3,Approved
+F,N,Y,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1359,2,Approved
+M,Y,Y,405000.0,Working,Secondary / secondary special,Married,House / apartment,-313,3,Approved
+F,Y,Y,193500.0,Working,Secondary / secondary special,Married,House / apartment,-1753,3,Approved
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5830,2,Approved
+F,N,Y,115200.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,N,Y,56250.0,Working,Secondary / secondary special,Married,House / apartment,-1677,3,Approved
+F,Y,N,180000.0,Working,Incomplete higher,Single / not married,House / apartment,-3078,1,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3061,1,Approved
+M,N,Y,202500.0,State servant,Secondary / secondary special,Separated,Co-op apartment,-8737,1,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,N,Y,202500.0,Working,Higher education,Married,House / apartment,-187,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Separated,Municipal apartment,-625,2,Approved
+F,N,Y,225000.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,Y,Y,198386.44819593136,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,85500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1381,1,Approved
+M,Y,N,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-308,1,Approved
+M,Y,Y,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-932,1,Approved
+F,N,Y,360000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-5437,1,Approved
+F,N,Y,90000.0,Commercial associate,Higher education,Married,House / apartment,-218,2,Approved
+M,Y,N,90000.0,State servant,Higher education,Married,With parents,-1539,4,Approved
+F,Y,N,135000.0,Working,Secondary / secondary special,Married,With parents,-3195,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Widow,House / apartment,-2057,1,Approved
+F,Y,Y,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1198,2,Approved
+M,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1473,3,Approved
+F,N,Y,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,N,202500.0,Working,Higher education,Single / not married,House / apartment,-5483,1,Approved
+M,N,Y,225000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-704,2,Approved
+F,N,Y,108000.0,Working,Secondary / secondary special,Married,House / apartment,-12870,2,Approved
+F,Y,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-227,2,Approved
+F,Y,Y,180000.0,Working,Lower secondary,Married,House / apartment,-622,2,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-5373,1,Approved
+M,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-7128,2,Approved
+M,N,N,90000.0,Working,Higher education,Married,House / apartment,-469,3,Approved
+F,Y,N,90000.0,Working,Secondary / secondary special,Married,House / apartment,-6761,2,Approved
+M,Y,Y,103500.0,State servant,Higher education,Married,House / apartment,-2255,3,Approved
+F,N,Y,72000.0,Working,Higher education,Single / not married,House / apartment,-1133,1,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,Y,495000.0,Working,Secondary / secondary special,Married,House / apartment,-5345,2,Approved
+M,Y,Y,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3574,1,Approved
+F,N,Y,360000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2441,1,Approved
+M,N,Y,135000.0,State servant,Higher education,Married,House / apartment,-164,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-6226,2,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Separated,House / apartment,-4161,1,Approved
+F,Y,N,81000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6678,2,Approved
+F,N,Y,90000.0,Working,Higher education,Married,With parents,-825,2,Approved
+F,N,Y,450000.0,Commercial associate,Secondary / secondary special,Civil marriage,Municipal apartment,-2024,2,Approved
+F,N,Y,360000.0,Working,Secondary / secondary special,Married,House / apartment,-890,2,Approved
+F,N,Y,225000.0,Working,Incomplete higher,Civil marriage,House / apartment,-1751,2,Approved
+F,N,Y,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6075,3,Approved
+M,N,N,202500.0,Working,Higher education,Single / not married,House / apartment,-1774,1,Approved
+M,Y,Y,95850.0,Working,Secondary / secondary special,Single / not married,House / apartment,-189,1,Approved
+F,N,Y,112500.0,Working,Incomplete higher,Single / not married,House / apartment,-7288,1,Approved
+F,N,Y,126000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,Y,99000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-686,3,Approved
+F,Y,Y,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-1220,4,Approved
+F,N,N,180000.0,Commercial associate,Higher education,Married,House / apartment,-727,3,Approved
+F,N,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,Y,N,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3229,2,Approved
+F,N,N,202500.0,Working,Secondary / secondary special,Married,House / apartment,-97,2,Approved
+F,Y,N,180000.0,Working,Higher education,Civil marriage,House / apartment,-980,3,Approved
+M,Y,Y,135000.0,Commercial associate,Incomplete higher,Civil marriage,Office apartment,-3455,3,Approved
+F,N,Y,315000.0,Working,Higher education,Married,House / apartment,-460,2,Approved
+F,N,N,387000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,45000.0,Working,Secondary / secondary special,Married,House / apartment,-3694,3,Approved
+M,N,Y,185400.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-5454,3,Approved
+F,N,Y,76500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+F,N,Y,225000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-13010,1,Approved
+F,N,N,126000.0,Working,Secondary / secondary special,Married,House / apartment,-5507,2,Approved
+F,N,N,135000.0,Working,Higher education,Married,House / apartment,-6640,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-5488,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-221,2,Approved
+M,Y,N,180000.0,Working,Higher education,Married,House / apartment,-127,4,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,270000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-8760,3,Approved
+M,N,Y,135000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,Y,Y,103500.0,Working,Lower secondary,Married,House / apartment,-864,3,Approved
+F,N,Y,130500.0,Working,Secondary / secondary special,Married,House / apartment,-7718,2,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-5190,2,Approved
+M,Y,Y,112500.0,Commercial associate,Higher education,Civil marriage,House / apartment,-613,2,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3123,2,Approved
+F,N,Y,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,67500.0,State servant,Higher education,Married,With parents,-1652,2,Approved
+F,Y,Y,189000.0,State servant,Secondary / secondary special,Married,House / apartment,-8044,3,Approved
+F,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-6879,4,Approved
+F,N,N,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,N,135000.0,Commercial associate,Higher education,Married,House / apartment,-2673,4,Approved
+F,Y,Y,166500.0,Working,Higher education,Married,House / apartment,-420,3,Approved
+F,N,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-777,2,Approved
+F,N,N,337500.0,Working,Secondary / secondary special,Married,House / apartment,-1869,2,Approved
+F,N,N,90000.0,Commercial associate,Higher education,Married,With parents,-413,2,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1072,1,Approved
+F,N,N,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5760,2,Approved
+F,Y,Y,180000.0,Commercial associate,Higher education,Married,House / apartment,-1871,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1707,4,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,135000.0,Working,Higher education,Married,House / apartment,-2796,2,Approved
+F,N,N,135000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+M,Y,N,189620.55230667387,Working,Secondary / secondary special,Civil marriage,House / apartment,-1962,2,Approved
+M,N,Y,126000.0,Commercial associate,Secondary / secondary special,Single / not married,Rented apartment,-1598,1,Approved
+F,N,Y,247500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,184500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1583,2,Approved
+F,Y,Y,165600.0,Working,Secondary / secondary special,Married,House / apartment,-7264,2,Approved
+M,Y,Y,315000.0,Working,Higher education,Married,House / apartment,-536,3,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-4568,2,Approved
+F,N,N,112500.0,Working,Secondary / secondary special,Widow,House / apartment,-1313,2,Approved
+F,N,Y,202500.0,State servant,Secondary / secondary special,Married,House / apartment,-2512,3,Approved
+M,N,Y,72000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-5891,1,Approved
+M,Y,N,202500.0,Working,Secondary / secondary special,Married,House / apartment,-5673,4,Approved
+M,Y,Y,391500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,112500.0,Pensioner,Higher education,Separated,House / apartment,365243,1,Approved
+F,Y,Y,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-3380,3,Approved
+F,Y,Y,112500.0,Commercial associate,Incomplete higher,Married,House / apartment,-3944,2,Approved
+F,N,Y,270000.0,State servant,Higher education,Married,House / apartment,-3654,2,Approved
+F,N,Y,270000.0,Working,Secondary / secondary special,Married,House / apartment,-5488,2,Approved
+F,N,Y,247500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243,3,Approved
+F,Y,Y,360000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,189000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-171,2,Approved
+F,N,Y,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1801,2,Approved
+M,Y,Y,405000.0,Working,Secondary / secondary special,Married,House / apartment,-1266,2,Approved
+F,Y,Y,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-1138,1,Approved
+F,Y,Y,130500.0,Working,Higher education,Married,House / apartment,-3944,2,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,90000.0,Working,Incomplete higher,Widow,House / apartment,-1897,1,Approved
+F,N,N,67500.0,Pensioner,Secondary / secondary special,Separated,Municipal apartment,365243,1,Approved
+F,N,Y,135000.0,Commercial associate,Higher education,Married,House / apartment,-2980,2,Approved
+F,N,Y,247500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+M,Y,Y,157500.0,Working,Higher education,Married,House / apartment,-2796,2,Approved
+F,N,Y,135000.0,Pensioner,Lower secondary,Single / not married,House / apartment,365243,1,Approved
+M,Y,Y,126000.0,Working,Higher education,Married,With parents,-1175,2,Approved
+F,N,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3329,3,Approved
+F,N,Y,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,N,N,247500.0,Commercial associate,Higher education,Married,House / apartment,-1581,3,Approved
+F,N,N,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-10758,2,Approved
+M,Y,N,315000.0,State servant,Secondary / secondary special,Married,House / apartment,-6558,4,Approved
+M,Y,Y,67500.0,Working,Higher education,Married,House / apartment,-4434,2,Approved
+F,N,N,337500.0,Working,Secondary / secondary special,Married,Municipal apartment,-210,2,Approved
+M,N,Y,337500.0,Working,Secondary / secondary special,Married,House / apartment,-3032,3,Approved
+F,N,N,112500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2389,1,Approved
+F,Y,N,157500.0,Working,Higher education,Married,House / apartment,-139,2,Approved
+M,Y,Y,292500.0,Working,Higher education,Married,With parents,-1467,2,Approved
+F,Y,Y,135000.0,Working,Higher education,Married,House / apartment,-2316,2,Approved
+M,Y,Y,450000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-377,1,Approved
+F,N,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-10762,2,Approved
+M,N,N,180000.0,Working,Secondary / secondary special,Married,With parents,-622,2,Approved
+F,N,Y,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2788,2,Approved
+M,Y,Y,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3668,5,Approved
+F,N,Y,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-2340,2,Approved
+F,N,N,135000.0,State servant,Higher education,Married,House / apartment,-5345,4,Approved
+F,Y,N,81000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-9925,1,Approved
+M,Y,N,135000.0,Working,Secondary / secondary special,Married,House / apartment,-918,2,Approved
+F,N,Y,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-4219,1,Approved
+M,Y,N,247500.0,Working,Higher education,Married,House / apartment,-194,3,Approved
+F,N,Y,202500.0,Working,Secondary / secondary special,Married,House / apartment,-3010,2,Approved
+M,Y,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3476,4,Approved
+F,N,N,216000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-370,1,Approved
+M,N,Y,202500.0,State servant,Secondary / secondary special,Married,House / apartment,-232,3,Approved
+F,Y,Y,135000.0,Working,Secondary / secondary special,Single / not married,With parents,-285,1,Approved
+M,Y,Y,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1994,3,Approved
+F,N,N,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,67500.0,Working,Higher education,Married,House / apartment,-1830,2,Approved
+M,Y,Y,130500.0,Working,Higher education,Married,House / apartment,-2609,2,Approved
+F,N,Y,99000.0,Working,Higher education,Married,House / apartment,-3853,2,Approved
+F,Y,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2866,4,Approved
+M,Y,N,247500.0,Working,Secondary / secondary special,Married,House / apartment,-1022,2,Approved
+F,N,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2423,2,Approved
+F,N,Y,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2545,2,Approved
+F,N,Y,405000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,Y,Y,247500.0,Working,Secondary / secondary special,Married,House / apartment,-6230,2,Approved
+M,N,Y,171000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-104,3,Approved
+M,Y,Y,180000.0,Commercial associate,Higher education,Single / not married,House / apartment,-588,1,Approved
+M,Y,Y,337500.0,Working,Lower secondary,Married,With parents,-1866,2,Approved
+M,Y,N,315000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2631,1,Approved
+M,N,Y,247500.0,Working,Secondary / secondary special,Married,House / apartment,-367,3,Approved
+M,Y,Y,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-857,3,Approved
+F,Y,Y,83250.0,Working,Higher education,Married,House / apartment,-4887,4,Approved
+M,N,Y,202500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+F,N,Y,450000.0,Commercial associate,Higher education,Married,House / apartment,-433,4,Approved
+F,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243,2,Approved
+F,N,N,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1904,1,Approved
+F,Y,Y,270000.0,Commercial associate,Higher education,Married,House / apartment,-803,3,Approved
+F,N,N,216000.0,Working,Higher education,Married,House / apartment,-3361,2,Approved
+M,N,Y,114750.0,Working,Secondary / secondary special,Married,House / apartment,-1520,2,Approved
+M,N,Y,99000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,N,47250.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2389,1,Approved
+F,N,Y,49500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1463,2,Approved
+F,Y,Y,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+M,N,Y,450000.0,Working,Secondary / secondary special,Married,House / apartment,-5155,3,Approved
+F,N,N,225000.0,Working,Secondary / secondary special,Married,House / apartment,-712,2,Approved
+F,Y,Y,90000.0,Working,Secondary / secondary special,Married,House / apartment,-3246,3,Approved
+M,N,N,180000.0,State servant,Higher education,Married,House / apartment,-5006,2,Approved
+M,Y,N,103500.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-2993,2,Approved
+M,N,Y,135000.0,Working,Lower secondary,Civil marriage,House / apartment,-2191,2,Approved
+F,Y,N,225000.0,Commercial associate,Higher education,Married,House / apartment,-431,3,Approved
+F,Y,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1064,2,Approved
+M,Y,Y,270000.0,Working,Secondary / secondary special,Married,House / apartment,-828,2,Approved
+F,N,Y,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4874,2,Approved
+M,N,Y,202500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1217,1,Approved
+F,N,N,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,180000.0,Working,Academic degree,Civil marriage,House / apartment,-7557,3,Approved
+F,N,Y,108000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243,2,Approved
+F,N,Y,225000.0,Commercial associate,Incomplete higher,Married,House / apartment,-2616,3,Approved
+F,N,Y,157500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243,1,Approved
+F,N,N,405000.0,State servant,Secondary / secondary special,Married,House / apartment,-5334,2,Approved
+M,Y,N,225000.0,Working,Higher education,Married,House / apartment,-611,2,Approved
+M,N,Y,216000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-140,2,Approved
+F,N,N,135000.0,State servant,Higher education,Civil marriage,House / apartment,-5215,2,Approved
+F,Y,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-438,2,Approved
+F,N,Y,135000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-461,4,Approved
+F,N,N,157500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,45000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243,1,Approved
+F,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1741,2,Approved
+F,N,Y,198000.0,Pensioner,Higher education,Single / not married,House / apartment,365243,1,Approved
+F,N,N,234000.0,Working,Secondary / secondary special,Married,House / apartment,-2533,2,Approved
+F,N,N,157500.0,Working,Higher education,Married,House / apartment,-958,2,Approved
+F,N,N,207000.0,Pensioner,Secondary / secondary special,Widow,Municipal apartment,365243,1,Approved
+F,N,N,198000.0,Working,Secondary / secondary special,Married,House / apartment,-1191,3,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3095,3,Approved
+F,N,Y,180000.0,Working,Higher education,Married,House / apartment,-820,2,Approved
+F,N,N,216000.0,Working,Secondary / secondary special,Married,With parents,-2827,2,Approved
+F,N,Y,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3693,5,Approved
+M,N,Y,94500.0,Working,Incomplete higher,Married,House / apartment,-453,2,Approved
+M,N,Y,69750.0,Working,Higher education,Married,House / apartment,-2262,2,Approved
+M,N,Y,103500.0,Working,Secondary / secondary special,Married,House / apartment,-1473,3,Approved
+M,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-195,1,Approved
+F,Y,Y,112500.0,Working,Higher education,Married,House / apartment,-157,3,Approved
+F,Y,Y,67500.0,Pensioner,Higher education,Married,House / apartment,365243,2,Approved
+M,N,N,112500.0,Working,Secondary / secondary special,Married,House / apartment,-109,3,Approved
+F,Y,N,157500.0,State servant,Incomplete higher,Single / not married,House / apartment,-5206,1,Approved
+F,Y,Y,270000.0,Working,Secondary / secondary special,Married,Municipal apartment,-5862,5,Approved
+M,Y,Y,135000.0,Commercial associate,Higher education,Single / not married,With parents,-2152,1,Approved
+M,N,Y,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-2105,3,Approved
+F,N,N,126000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243,1,Approved
+M,N,Y,175500.0,Commercial associate,Higher education,Married,House / apartment,-1200,2,Approved
+M,Y,Y,148500.0,Commercial associate,Higher education,Married,House / apartment,-1891,4,Approved
+M,Y,Y,126000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3476,2,Approved
+F,N,N,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4662,2,Approved
+F,Y,N,225000.0,Commercial associate,Higher education,Married,House / apartment,-657,2,Approved
+M,N,N,126000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1436,2,Approved
+F,Y,N,157500.0,Pensioner,Higher education,Married,House / apartment,-5521,2,Approved
+F,N,Y,157500.0,Working,Higher education,Married,House / apartment,-686,2,Approved
+F,Y,Y,270000.0,Working,Higher education,Married,House / apartment,-2924,3,Approved
+F,N,Y,180000.0,Working,Higher education,Married,House / apartment,-1648,4,Approved
+M,Y,N,144000.0,State servant,Secondary / secondary special,Married,House / apartment,-3536,3,Approved
+F,N,Y,112500.0,Commercial associate,Higher education,Married,House / apartment,-2182,2,Approved
+F,N,N,225000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-1209,1,Approved
+M,Y,Y,450000.0,Working,Higher education,Married,House / apartment,-2477,4,Approved
+M,Y,N,180000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-645,2,Approved
+F,Y,Y,144000.0,Working,Higher education,Married,House / apartment,-2859,2,Approved
