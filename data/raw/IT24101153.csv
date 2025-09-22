@@ -1,0 +1,1522 @@
+GENDER,Car_Owner,Propert_Owner,Annual_income,Type_Income,EDUCATION,Marital_status,Housing_type,Employed_days,Family_Members,target
+M,Y,Y,0.1391304347826087,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,Y,N,1.4434782608695653,Commercial associate,Higher education,Married,House / apartment,-0.4335634849690929,0.0,Rejected
+F,Y,N,1.4434782608695653,Commercial associate,Higher education,Married,House / apartment,-0.4335634849690929,0.0,Rejected
+F,Y,N,0.20070051866752187,Commercial associate,Higher education,Married,House / apartment,-0.4335634849690929,0.0,Rejected
+F,Y,N,1.4434782608695653,Commercial associate,Higher education,Married,House / apartment,-0.4335634849690929,0.0,Rejected
+F,Y,N,0.20070051866752187,Commercial associate,Higher education,Married,House / apartment,-0.4335634849690929,0.0,Rejected
+F,N,N,1.4434782608695653,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,Y,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4342327938328931,1.0,Rejected
+M,Y,Y,2.747826086956522,Pensioner,Secondary / secondary special,Married,House / apartment,-0.4342327938328931,1.0,Rejected
+M,Y,Y,2.747826086956522,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4342327938328931,-1.0,Rejected
+F,Y,Y,2.747826086956522,Working,Secondary / secondary special,Married,House / apartment,-0.4365899250488852,0.0,Rejected
+F,Y,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4365899250488852,0.0,Rejected
+F,Y,Y,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.4365899250488852,0.0,Rejected
+M,N,N,-0.7304347826086957,Pensioner,Higher education,Married,With parents,-0.4359424414741219,1.0,Rejected
+M,N,Y,2.965217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4311045024042616,0.0,Rejected
+M,N,Y,1.008695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4311045024042616,0.0,Rejected
+F,N,Y,1.008695652173913,Commercial associate,Higher education,Single / not married,House / apartment,-0.4472697664843062,-1.0,Rejected
+F,N,Y,-0.3826086956521739,Commercial associate,Higher education,Single / not married,House / apartment,-0.4472697664843062,-1.0,Rejected
+M,N,Y,-0.3826086956521739,Pensioner,Secondary / secondary special,Married,House / apartment,-0.4412605369027955,0.0,Rejected
+M,N,N,-0.7304347826086957,Working,Higher education,Single / not married,House / apartment,-0.4607796203981869,-1.0,Rejected
+M,Y,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4414787897931651,0.0,Rejected
+M,N,Y,0.3565217391304348,Commercial associate,Higher education,Civil marriage,House / apartment,-0.4372010331419202,0.0,Rejected
+F,N,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43602974263026983,2.0,Rejected
+F,N,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4355132107897283,0.0,Rejected
+F,Y,Y,0.1391304347826087,Commercial associate,Higher education,Married,House / apartment,-0.43064617133448535,0.0,Rejected
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,N,N,0.20070051866752187,Commercial associate,Higher education,Married,House / apartment,-0.43432737008538663,0.0,Rejected
+F,N,Y,0.2320826309823562,Working,Lower secondary,Single / not married,Rented apartment,-0.4640024880793118,0.0,Rejected
+F,N,N,-0.7304347826086957,Working,Higher education,Single / not married,House / apartment,-0.4467168591620364,-1.0,Rejected
+F,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.43209391550727066,1.0,Rejected
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4558325548831417,0.0,Rejected
+M,Y,N,-0.2956521739130435,State servant,Secondary / secondary special,Single / not married,House / apartment,-0.4405475774609213,0.0,Rejected
+M,Y,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.43517855635782826,0.0,Rejected
+F,Y,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,Y,Y,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4386487773147055,0.0,Rejected
+M,Y,Y,-0.8608695652173913,Commercial associate,Higher education,Separated,House / apartment,-0.435520485886074,-1.0,Rejected
+F,Y,N,0.4782608695652174,State servant,Higher education,Married,House / apartment,-0.4829104634816682,2.0,Rejected
+F,N,Y,2.747826086956522,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,Y,1.008695652173913,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.44580747211882965,1.0,Rejected
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Single / not married,House / apartment,-0.44580747211882965,1.0,Rejected
+F,N,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45923002487656245,1.0,Rejected
+M,Y,N,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43774666536784435,1.0,Rejected
+M,Y,N,-0.9478260869565217,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43774666536784435,1.0,Rejected
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.48232118067767027,0.0,Rejected
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.48232118067767027,0.0,Rejected
+M,N,N,-0.0782608695652174,Commercial associate,Incomplete higher,Single / not married,House / apartment,-0.43050794450391794,-1.0,Rejected
+M,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4356005119458762,1.0,Rejected
+M,Y,N,0.05217391304347826,Working,Secondary / secondary special,Married,House / apartment,-0.4356005119458762,1.0,Rejected
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4334034328494885,0.0,Rejected
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4334034328494885,0.0,Rejected
+M,Y,Y,-0.6,Working,Secondary / secondary special,Married,House / apartment,-0.4537882528100128,0.0,Rejected
+M,Y,Y,-0.6,Working,Secondary / secondary special,Married,House / apartment,-0.4537882528100128,0.0,Rejected
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4537882528100128,0.0,Rejected
+F,Y,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44494173565369677,0.0,Rejected
+M,N,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.43990736898250377,1.0,Rejected
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.43990736898250377,-1.0,Rejected
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.49018555982732287,2.0,Rejected
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.49018555982732287,2.0,Rejected
+F,N,Y,0.1391304347826087,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,Y,0.1391304347826087,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Rejected
+M,N,Y,-0.6434782608695652,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,Y,0.3167772772553754,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Rejected
+M,N,N,-0.6434782608695652,Working,Secondary / secondary special,Single / not married,Municipal apartment,-0.4329960274541318,-1.0,Rejected
+M,N,N,-0.6434782608695652,Working,Secondary / secondary special,Single / not married,Municipal apartment,-0.4329960274541318,-1.0,Rejected
+M,N,N,2.1826086956521737,Working,Secondary / secondary special,Single / not married,Municipal apartment,-0.4329960274541318,-1.0,Rejected
+M,N,Y,2.1826086956521737,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,N,Y,2.1826086956521737,Pensioner,Lower secondary,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,N,Y,-0.9695652173913043,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Rejected
+F,N,Y,-0.8956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4407003544841801,1.0,Rejected
+M,N,N,0.5739130434782609,Working,Secondary / secondary special,Single / not married,House / apartment,-0.430296966709894,0.0,Rejected
+M,N,Y,-0.9478260869565217,Working,Secondary / secondary special,Single / not married,House / apartment,-0.430296966709894,0.0,Rejected
+F,Y,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.4582115113881708,0.0,Rejected
+F,N,N,0.20070051866752187,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44072217977321704,0.0,Rejected
+F,Y,N,0.3565217391304348,Working,Higher education,Married,Rented apartment,-0.4502380057933333,1.0,Rejected
+F,Y,Y,-0.0782608695652174,Working,Higher education,Separated,House / apartment,-0.4303187919989309,0.0,Rejected
+F,Y,N,0.3565217391304348,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4480409266969456,0.0,Rejected
+F,Y,Y,1.008695652173913,Commercial associate,Higher education,Married,House / apartment,-0.44184254461044786,0.0,Rejected
+F,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.44184254461044786,0.0,Rejected
+M,N,Y,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.4389616064575686,0.0,Rejected
+F,N,N,0.8782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4655811839863189,2.0,Rejected
+F,N,Y,0.8782608695652174,Working,Incomplete higher,Separated,House / apartment,-0.4547340153349479,1.0,Rejected
+F,N,Y,-0.0782608695652174,Working,Incomplete higher,Separated,House / apartment,-0.4547340153349479,1.0,Rejected
+M,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,With parents,-0.43944176281638186,0.0,Rejected
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Married,With parents,-0.43944176281638186,0.0,Rejected
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Married,With parents,-0.43944176281638186,0.0,Rejected
+M,Y,Y,0.3565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.4385032753877923,0.0,Rejected
+F,Y,N,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.44771354736139113,0.0,Rejected
+M,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4446143563181422,1.0,Rejected
+F,N,Y,1.4434782608695653,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.43555686136780225,0.0,Rejected
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4308789744175463,0.0,Rejected
+M,Y,Y,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.4308789744175463,0.0,Rejected
+F,N,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,N,N,-0.2956521739130435,State servant,Secondary / secondary special,Married,Municipal apartment,-0.479251090019804,1.0,Rejected
+F,N,N,0.7913043478260869,Working,Secondary / secondary special,Widow,Co-op apartment,-0.4335489347764016,-1.0,Rejected
+F,N,N,-0.6,Working,Secondary / secondary special,Widow,Co-op apartment,-0.4335489347764016,-1.0,Rejected
+F,N,Y,-0.7739130434782608,Working,Lower secondary,Widow,House / apartment,-0.44550191807231215,-1.0,Rejected
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.48867233978742675,0.0,Rejected
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43375991257042557,-1.0,Rejected
+M,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Rejected
+M,Y,N,-0.4260869565217391,Commercial associate,Higher education,Single / not married,Municipal apartment,-0.433708986896006,-1.0,Rejected
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.479818547534765,0.0,Rejected
+M,N,N,0.5739130434782609,Working,Secondary / secondary special,Widow,Municipal apartment,-0.4318174618461358,-1.0,Rejected
+F,N,N,0.3167772772553754,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Rejected
+F,Y,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,N,N,0.5739130434782609,Working,Incomplete higher,Married,Rented apartment,-0.4424536527034828,1.0,Rejected
+M,N,N,-0.9478260869565217,Working,Incomplete higher,Married,Rented apartment,-0.4424536527034828,1.0,Rejected
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45418110801267814,0.0,Rejected
+F,N,Y,-0.3391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45418110801267814,0.0,Rejected
+F,N,Y,-0.3391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45418110801267814,0.0,Rejected
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.45418110801267814,0.0,Rejected
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Single / not married,House / apartment,-0.45418110801267814,0.0,Rejected
+M,Y,Y,0.3565217391304348,Working,Higher education,Single / not married,House / apartment,-0.43557868665683924,-1.0,Rejected
+M,Y,Y,0.3565217391304348,Working,Higher education,Single / not married,House / apartment,-0.43557868665683924,-1.0,Rejected
+F,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.483230567720877,4.0,Rejected
+F,N,Y,-0.3826086956521739,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,N,Y,-0.3826086956521739,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,Y,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,-0.4842490812092687,0.0,Rejected
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45789868224530766,1.0,Rejected
+F,N,N,0.3167772772553754,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,N,0.4434782608695652,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Rejected
+F,N,N,-0.0782608695652174,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Rejected
+F,N,N,-0.8173913043478261,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Rejected
+F,N,N,-0.8173913043478261,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Rejected
+F,N,N,-0.5130434782608696,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,2.227877736065395,0.0,Rejected
+M,N,N,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Rejected
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4368591036136744,0.0,Rejected
+F,N,N,-0.5130434782608696,Working,Secondary / secondary special,Separated,House / apartment,-0.430275141420857,0.0,Rejected
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,Y,Y,-0.9043478260869565,Working,Lower secondary,Married,House / apartment,-0.43382538843753643,0.0,Rejected
+F,Y,Y,0.3565217391304348,Working,Lower secondary,Married,House / apartment,-0.43382538843753643,0.0,Rejected
+M,N,Y,-0.16521739130434782,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-0.4409040571818584,-1.0,Rejected
+M,Y,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4411295851685737,1.0,Rejected
+F,N,Y,-0.2956521739130435,Commercial associate,Lower secondary,Civil marriage,With parents,-0.44289015848422214,2.0,Rejected
+M,N,Y,1.008695652173913,Commercial associate,Higher education,Married,House / apartment,-0.4333379569823776,0.0,Rejected
+M,N,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4333379569823776,0.0,Rejected
+M,N,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4333379569823776,0.0,Rejected
+F,N,Y,0.2619260849759659,State servant,Higher education,Single / not married,Municipal apartment,-0.443377589939381,-1.0,Rejected
+F,N,Y,-0.5130434782608696,State servant,Higher education,Single / not married,Municipal apartment,-0.443377589939381,-1.0,Rejected
+M,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4360733932083437,0.0,Rejected
+F,N,Y,-0.5130434782608696,Commercial associate,Higher education,Single / not married,House / apartment,-0.43584786522162844,0.0,Rejected
+F,N,Y,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.43584786522162844,0.0,Rejected
+M,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.46061956827858247,2.0,Rejected
+M,Y,Y,0.29130434782608694,Commercial associate,Higher education,Married,House / apartment,-0.46061956827858247,2.0,Rejected
+M,Y,Y,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.43602974263026983,1.0,Rejected
+F,N,N,2.747826086956522,Commercial associate,Higher education,Separated,House / apartment,-0.432930551587021,-1.0,Rejected
+F,N,Y,2.747826086956522,Commercial associate,Higher education,Separated,House / apartment,-0.432930551587021,-1.0,Rejected
+F,N,Y,-0.5130434782608696,Commercial associate,Higher education,Separated,House / apartment,-0.432930551587021,-1.0,Rejected
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,Municipal apartment,-0.4468914614743322,1.0,Rejected
+F,N,Y,-0.9478260869565217,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Rejected
+F,N,Y,-0.9478260869565217,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Rejected
+M,Y,Y,-0.9478260869565217,Working,Secondary / secondary special,Single / not married,House / apartment,-0.430675271719868,-1.0,Rejected
+F,N,Y,0.48695652173913045,Working,Secondary / secondary special,Married,House / apartment,-0.43753568757382033,1.0,Rejected
+F,N,Y,1.3565217391304347,Working,Secondary / secondary special,Married,House / apartment,-0.442177199042348,0.0,Rejected
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Widow,House / apartment,-0.4359860920521959,-1.0,Rejected
+M,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,Office apartment,-0.4371646576601919,0.0,Rejected
+M,Y,N,-0.5565217391304348,Working,Secondary / secondary special,Married,Office apartment,-0.4371646576601919,0.0,Rejected
+M,Y,N,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4329523768760579,1.0,Rejected
+M,Y,N,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4329523768760579,1.0,Rejected
+M,Y,Y,-0.5565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4469060116670235,0.0,Rejected
+F,N,Y,-0.5565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.43893978116853166,0.0,Rejected
+F,N,Y,2.747826086956522,Pensioner,Higher education,Married,House / apartment,-0.43893978116853166,0.0,Rejected
+F,N,Y,2.747826086956522,Working,Secondary / secondary special,Married,Municipal apartment,-0.4756208169433223,1.0,Approved
+M,Y,N,0.20070051866752187,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4473716178331454,0.0,Approved
+F,N,Y,1.4434782608695653,Commercial associate,Higher education,Civil marriage,House / apartment,-0.43178108636440754,0.0,Approved
+F,N,Y,-0.0782608695652174,State servant,Secondary / secondary special,Married,House / apartment,-0.4978462362792972,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4515184227501685,1.0,Approved
+F,N,Y,-0.8173913043478261,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4510309912950097,1.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4447816835340923,0.0,Approved
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4352658575139761,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,-0.991304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4303260670952766,1.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,-0.5130434782608696,Working,Lower secondary,Married,House / apartment,-0.44160974152738697,1.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4414787897931651,0.0,Approved
+F,N,Y,-1.1652173913043478,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43434192027807794,-1.0,Approved
+F,N,Y,0.20070051866752187,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.43342525813852545,-1.0,Approved
+F,N,N,0.3565217391304348,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.43573873877644365,-1.0,Approved
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,0.3167772772553754,Pensioner,Secondary / secondary special,Married,Rented apartment,2.227877736065395,0.0,Approved
+F,N,N,0.8782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Academic degree,Single / not married,House / apartment,-0.44944502029165695,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.440554852557267,0.0,Approved
+M,Y,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Civil marriage,Rented apartment,-0.4524278097933753,0.0,Approved
+F,N,Y,-0.3826086956521739,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.3826086956521739,Working,Secondary / secondary special,Married,With parents,-0.46715987989332597,0.0,Approved
+F,N,Y,1.6608695652173913,Working,Lower secondary,Widow,House / apartment,-0.4516493744843903,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.43162830934114876,2.0,Approved
+M,N,Y,-0.33043478260869563,Commercial associate,Higher education,Separated,House / apartment,-0.44726249138796054,-1.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.43354165968005587,0.0,Approved
+M,Y,N,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.43536770886281523,0.0,Approved
+F,Y,N,-0.4260869565217391,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4371937580455746,0.0,Approved
+F,Y,N,-0.46956521739130436,Commercial associate,Incomplete higher,Married,House / apartment,-0.4394781382981101,2.0,Approved
+F,N,N,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4824812327972746,0.0,Approved
+M,N,Y,2.7043478260869565,Working,Secondary / secondary special,Married,House / apartment,-0.4420171469227436,1.0,Approved
+F,Y,Y,-0.0782608695652174,Commercial associate,Higher education,Single / not married,House / apartment,-0.4473352423514171,0.0,Approved
+M,Y,Y,-0.5130434782608696,State servant,Secondary / secondary special,Married,Municipal apartment,-0.4356659878129871,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4497069237601005,2.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.4473206921587258,2.0,Approved
+F,N,Y,-0.46956521739130436,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4400455958130711,0.0,Approved
+F,N,Y,0.6608695652173913,Working,Higher education,Single / not married,House / apartment,-0.44226450019849584,0.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.20869565217391303,Working,Secondary / secondary special,Married,Municipal apartment,-0.43960181493598627,0.0,Approved
+F,N,N,0.1391304347826087,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Approved
+M,N,N,0.2320826309823562,Working,Incomplete higher,Married,House / apartment,-0.4312136288494464,2.0,Approved
+M,Y,N,0.48695652173913045,Commercial associate,Higher education,Separated,House / apartment,-0.44638947982648197,-1.0,Approved
+F,N,Y,-0.7304347826086957,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.05217391304347826,Working,Higher education,Married,House / apartment,-0.43229761820494894,0.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4807206594816262,2.0,Approved
+F,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4423008756802241,0.0,Approved
+F,Y,N,0.5739130434782609,Working,Secondary / secondary special,Widow,House / apartment,-0.43908528309544476,-1.0,Approved
+F,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.45634181162733756,0.0,Approved
+F,N,N,-0.9521739130434783,Working,Secondary / secondary special,Married,House / apartment,-0.43692457948078534,0.0,Approved
+F,Y,N,1.008695652173913,State servant,Higher education,Married,House / apartment,-0.44870296046440017,1.0,Approved
+M,Y,Y,-0.8913043478260869,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4482591795873152,0.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-0.4448326092085119,-1.0,Approved
+F,Y,Y,-0.20869565217391303,Commercial associate,Higher education,Single / not married,House / apartment,-0.4473352423514171,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Separated,House / apartment,-0.4404602763047735,-1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.44771354736139113,0.0,Approved
+F,Y,Y,1.2260869565217392,Working,Higher education,Married,House / apartment,-0.44611302616534715,1.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43892523097584035,2.0,Approved
+M,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4661195411158974,0.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Separated,House / apartment,-0.43602974263026983,-1.0,Approved
+M,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.46210368793309603,1.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Higher education,Civil marriage,House / apartment,-0.44059122803899525,0.0,Approved
+M,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4407149046768714,0.0,Approved
+M,Y,N,0.3565217391304348,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,0.26956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4415151652748934,1.0,Approved
+F,N,N,0.2619260849759659,State servant,Secondary / secondary special,Married,House / apartment,-0.49247721517620413,0.0,Approved
+F,Y,Y,-0.5565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.4754025640529526,2.0,Approved
+F,N,Y,1.2260869565217392,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4381904462449292,-1.0,Approved
+M,Y,N,1.008695652173913,Working,Secondary / secondary special,Single / not married,With parents,-0.43316335467008193,-1.0,Approved
+F,N,Y,1.008695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,1.2260869565217392,State servant,Secondary / secondary special,Single / not married,House / apartment,-0.48452553487040356,0.0,Approved
+M,N,Y,1.2260869565217392,State servant,Higher education,Married,House / apartment,-0.47032454680368574,2.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.44222084962042185,0.0,Approved
+F,Y,Y,-0.8608695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.46929875821894845,0.0,Approved
+F,Y,N,0.1391304347826087,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,-0.2956521739130435,Commercial associate,Lower secondary,Married,Rented apartment,-0.443377589939381,0.0,Approved
+F,Y,N,-0.5130434782608696,State servant,Secondary / secondary special,Widow,House / apartment,-0.47207784502298855,-1.0,Approved
+F,Y,Y,1.8782608695652174,Working,Higher education,Married,House / apartment,-0.4326468228295404,2.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4407149046768714,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.46227101514904606,0.0,Approved
+M,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Single / not married,With parents,-0.45337357231831044,-1.0,Approved
+F,Y,Y,-0.4260869565217391,State servant,Secondary / secondary special,Married,House / apartment,-0.45747672665725964,0.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4318029116534445,0.0,Approved
+M,Y,N,-0.2956521739130435,State servant,Higher education,Married,House / apartment,-0.4432902887832331,0.0,Approved
+F,N,N,-0.6,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43369443670331465,1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Higher education,Separated,House / apartment,-0.4335489347764016,-1.0,Approved
+F,N,Y,1.6608695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.1391304347826087,Commercial associate,Higher education,Civil marriage,House / apartment,-0.44328301368688744,1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4401838226436386,1.0,Approved
+F,Y,Y,-0.0782608695652174,State servant,Higher education,Married,House / apartment,-0.43445104672326273,1.0,Approved
+F,N,N,1.8782608695652174,State servant,Secondary / secondary special,Separated,House / apartment,-0.5190167666451522,-1.0,Approved
+M,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,With parents,-0.43382538843753643,0.0,Approved
+F,N,N,1.6608695652173913,Commercial associate,Higher education,Single / not married,House / apartment,-0.46719625537505427,-1.0,Approved
+F,Y,Y,-0.2956521739130435,Pensioner,Higher education,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,1.8782608695652174,Pensioner,Lower secondary,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.20070051866752187,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4749369578868307,-1.0,Approved
+M,Y,N,2.747826086956522,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44910309076341115,0.0,Approved
+F,N,N,1.008695652173913,State servant,Secondary / secondary special,Married,With parents,-0.49741700559490354,0.0,Approved
+F,N,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43472750038439767,0.0,Approved
+F,N,N,1.008695652173913,Working,Secondary / secondary special,Single / not married,With parents,-0.4368591036136744,-1.0,Approved
+M,Y,N,2.747826086956522,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4389179558794947,-1.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Incomplete higher,Married,House / apartment,-0.45445756167381296,0.0,Approved
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.43044974373315276,0.0,Approved
+F,Y,Y,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4471751902318127,0.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Incomplete higher,Separated,House / apartment,-0.44975057433817445,1.0,Approved
+F,N,N,0.7913043478260869,Working,Higher education,Married,House / apartment,-0.48035690466434344,3.0,Approved
+M,Y,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,Rented apartment,-0.4440396237068356,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43066799662352234,0.0,Approved
+F,N,Y,-0.6869565217391305,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4508854893680965,1.0,Approved
+F,N,N,-0.8173913043478261,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.45233323354088184,0.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4664541955477975,1.0,Approved
+M,Y,N,0.3130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4412969123845238,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45617448441138747,1.0,Approved
+F,N,Y,1.4434782608695653,Commercial associate,Higher education,Civil marriage,House / apartment,-0.45619630970042446,2.0,Approved
+F,Y,Y,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.46273662131516796,1.0,Approved
+M,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4420171469227436,1.0,Approved
+M,N,N,0.3565217391304348,Working,Secondary / secondary special,Married,Municipal apartment,-0.4705791751757836,2.0,Approved
+F,N,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44153699056393036,0.0,Approved
+F,N,N,1.3565217391304347,Working,Higher education,Married,House / apartment,-0.4307261973942876,0.0,Approved
+F,N,N,-0.7304347826086957,Commercial associate,Secondary / secondary special,Single / not married,With parents,-0.43315607957373625,-1.0,Approved
+M,Y,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44163884191276953,0.0,Approved
+F,Y,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4450726873879185,0.0,Approved
+F,N,N,0.6608695652173913,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,0.05217391304347826,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,-0.6869565217391305,Working,Secondary / secondary special,Married,House / apartment,-0.4412969123845238,0.0,Approved
+F,N,Y,-0.46956521739130436,State servant,Higher education,Married,House / apartment,-0.5266556178080896,0.0,Approved
+M,N,Y,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4402783988961321,-1.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Higher education,Separated,Rented apartment,-0.43909983328813607,-1.0,Approved
+M,N,Y,-1.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.43952178887618404,0.0,Approved
+F,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.43095172538100285,0.0,Approved
+F,N,Y,-0.7739130434782608,Working,Secondary / secondary special,Widow,House / apartment,-0.5018693645584442,-1.0,Approved
+M,N,N,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.4402492985107495,-1.0,Approved
+M,Y,N,0.008695652173913044,Working,Higher education,Married,House / apartment,-0.4662868683318474,0.0,Approved
+F,Y,N,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.45043443339466593,0.0,Approved
+F,Y,N,0.7913043478260869,Working,Incomplete higher,Married,House / apartment,-0.44540006672347293,2.0,Approved
+M,Y,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.43189021280959233,0.0,Approved
+F,N,N,-0.9043478260869565,Working,Secondary / secondary special,Married,House / apartment,-0.44180616912871956,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Married,Municipal apartment,-0.4560726330625483,0.0,Approved
+F,Y,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43629892119505903,0.0,Approved
+F,N,N,1.008695652173913,Working,Higher education,Separated,House / apartment,-0.45112556754750316,-1.0,Approved
+M,Y,N,0.3565217391304348,State servant,Secondary / secondary special,Married,House / apartment,-0.46040131538821283,0.0,Approved
+F,N,Y,1.8782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.008695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.008695652173913,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4301005391085613,0.0,Approved
+F,N,Y,0.2320826309823562,Working,Secondary / secondary special,Widow,House / apartment,-0.44441792871680963,-1.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4902437605980881,0.0,Approved
+M,N,N,0.3565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.4301005391085613,1.0,Approved
+F,N,Y,-0.6434782608695652,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.034782608695652174,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4612525016606544,0.0,Approved
+F,N,Y,-0.9043478260869565,Commercial associate,Higher education,Married,House / apartment,-0.4302169406500918,1.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Higher education,Separated,With parents,-0.48488201459134067,-1.0,Approved
+F,N,Y,1.4434782608695653,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.45223865728838836,-1.0,Approved
+F,N,Y,0.017391304347826087,Working,Secondary / secondary special,Civil marriage,With parents,-0.4303115169025853,0.0,Approved
+F,Y,N,0.1391304347826087,Working,Higher education,Widow,House / apartment,-0.45856799110910784,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.6434782608695652,Working,Secondary / secondary special,Married,House / apartment,-0.4648609494480991,0.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.12173913043478261,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,N,2.4869565217391303,Working,Secondary / secondary special,Married,House / apartment,-0.5376046378082998,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Separated,House / apartment,-0.453446323281767,-1.0,Approved
+F,N,Y,1.8782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44360311792609625,1.0,Approved
+F,Y,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.43075529777967025,1.0,Approved
+F,N,Y,-0.9478260869565217,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.47384569343498256,2.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,With parents,-0.4301514647829809,1.0,Approved
+M,Y,Y,-0.7304347826086957,Working,Higher education,Married,Office apartment,-0.44839740641788267,1.0,Approved
+F,N,Y,-0.7304347826086957,Working,Higher education,Married,House / apartment,-0.44212627336792837,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4561381089296592,1.0,Approved
+F,N,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45413745743460415,1.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.45047080887639424,1.0,Approved
+F,N,Y,1.4434782608695653,Commercial associate,Secondary / secondary special,Married,With parents,-0.4541229072419129,0.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.437353810165179,-1.0,Approved
+F,N,Y,2.747826086956522,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4877629527442199,0.0,Approved
+F,N,Y,1.008695652173913,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.45554882612566117,0.0,Approved
+F,Y,Y,0.1391304347826087,Working,Incomplete higher,Married,House / apartment,-0.43003506324145035,2.0,Approved
+F,Y,Y,-0.2956521739130435,State servant,Secondary / secondary special,Married,House / apartment,-0.45280611480334937,0.0,Approved
+M,Y,N,0.7478260869565218,Working,Higher education,Married,Rented apartment,-0.4307771230687072,1.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.5130434782608696,State servant,Secondary / secondary special,Married,House / apartment,-0.44153699056393036,0.0,Approved
+F,N,N,0.6608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.4408604066037845,1.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45532329813894584,0.0,Approved
+F,N,N,-0.4260869565217391,Working,Secondary / secondary special,Married,House / apartment,-0.43464747432459544,1.0,Approved
+M,N,Y,-0.4260869565217391,State servant,Secondary / secondary special,Separated,Co-op apartment,-0.4928627952825238,-1.0,Approved
+M,Y,Y,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44106410930146284,0.0,Approved
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.7304347826086957,Working,Higher education,Married,House / apartment,-0.4408749567964758,1.0,Approved
+F,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4364225978329352,0.0,Approved
+F,Y,Y,0.7913043478260869,Working,Higher education,Single / not married,House / apartment,-0.4323703691684055,1.0,Approved
+F,N,Y,-0.8608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.43406546661694306,0.0,Approved
+F,Y,Y,-0.7739130434782608,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.45587620546121566,-1.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.43847417500240976,0.0,Approved
+F,N,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4827431362657182,0.0,Approved
+F,Y,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,1.1391304347826088,Commercial associate,Higher education,Civil marriage,House / apartment,-0.4570183955874834,0.0,Approved
+F,N,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,0.20070051866752187,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43795764316186825,1.0,Approved
+M,Y,Y,0.8347826086956521,Working,Secondary / secondary special,Married,House / apartment,-0.45291524124853416,0.0,Approved
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4412969123845238,0.0,Approved
+F,N,Y,1.4434782608695653,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4851439180597842,-1.0,Approved
+F,N,N,2.747826086956522,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43914348386621,2.0,Approved
+F,N,Y,0.1391304347826087,State servant,Secondary / secondary special,Married,House / apartment,-0.4563272614346462,0.0,Approved
+F,N,Y,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.43739746074325286,1.0,Approved
+M,Y,Y,3.1826086956521737,Working,Secondary / secondary special,Married,House / apartment,-0.4329960274541318,1.0,Approved
+M,Y,N,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44910309076341115,0.0,Approved
+F,Y,Y,1.3565217391304347,Working,Secondary / secondary special,Married,House / apartment,-0.43651717408542867,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.44595297404574274,2.0,Approved
+F,N,Y,0.1391304347826087,Working,Higher education,Separated,House / apartment,-0.5211192694890463,-1.0,Approved
+F,N,N,-1.2521739130434784,Working,Secondary / secondary special,Married,With parents,-0.4356223372349131,0.0,Approved
+F,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4451163379659925,2.0,Approved
+F,N,N,1.2260869565217392,Working,Secondary / secondary special,Single / not married,Municipal apartment,-0.46812019261095233,0.0,Approved
+F,Y,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45501774409242846,0.0,Approved
+F,Y,Y,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.4613616281058392,1.0,Approved
+M,Y,Y,1.2260869565217392,Working,Higher education,Married,House / apartment,-0.43229761820494894,0.0,Approved
+M,N,Y,1.4434782608695653,Working,Incomplete higher,Married,House / apartment,-0.4325958971551208,0.0,Approved
+M,Y,N,-0.2956521739130435,Working,Incomplete higher,Married,With parents,-0.4362843710023677,0.0,Approved
+F,Y,Y,1.6608695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4635732573949182,-1.0,Approved
+F,Y,Y,1.8782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4435958428297506,1.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.447800848517539,1.0,Approved
+F,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.4394344877200361,1.0,Approved
+F,Y,Y,-0.0782608695652174,Commercial associate,Higher education,Married,House / apartment,-0.4326468228295404,1.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4455528437467317,0.0,Approved
+M,Y,N,-0.25217391304347825,Working,Higher education,Married,House / apartment,-0.441165960650302,2.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.44107865949415415,0.0,Approved
+F,Y,Y,-0.30869565217391304,Working,Higher education,Separated,House / apartment,-0.4728126297538996,0.0,Approved
+F,N,N,2.5304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.45223865728838836,0.0,Approved
+M,Y,Y,-0.8173913043478261,Commercial associate,Higher education,Married,House / apartment,-0.44881208690958496,0.0,Approved
+F,N,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.45434843522862817,1.0,Approved
+F,N,N,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.44625125299591456,0.0,Approved
+M,N,Y,-0.2956521739130435,Working,Incomplete higher,Married,House / apartment,-0.4323048933012947,0.0,Approved
+F,N,Y,-0.6869565217391305,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,0.1391304347826087,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-0.47764329372741426,1.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43297420216509486,2.0,Approved
+F,N,N,0.8347826086956521,Working,Higher education,Civil marriage,With parents,-0.4307625728760159,0.0,Approved
+F,N,N,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.46956521739130436,Commercial associate,Higher education,Married,House / apartment,-0.45311166884986687,0.0,Approved
+M,Y,Y,0.7913043478260869,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,With parents,-0.43993646936788633,1.0,Approved
+M,Y,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.44828100487635225,0.0,Approved
+M,Y,N,0.1391304347826087,State servant,Secondary / secondary special,Married,House / apartment,-0.4330906037066254,0.0,Approved
+M,Y,N,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43891068078314904,0.0,Approved
+M,Y,N,-0.2956521739130435,State servant,Higher education,Married,House / apartment,-0.4472479411952692,1.0,Approved
+F,N,Y,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.434509247494028,2.0,Approved
+F,Y,Y,0.3565217391304348,Working,Incomplete higher,Married,House / apartment,-0.43003506324145035,2.0,Approved
+F,Y,Y,-0.7304347826086957,Working,Incomplete higher,Married,House / apartment,-0.44117323574664763,0.0,Approved
+F,N,N,0.7913043478260869,Working,Higher education,Married,House / apartment,-0.4337671876667712,2.0,Approved
+F,N,Y,-0.6434782608695652,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44315206195266565,-1.0,Approved
+F,N,N,0.7913043478260869,State servant,Secondary / secondary special,Widow,House / apartment,-0.4318538373278641,-1.0,Approved
+F,N,N,0.3565217391304348,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4824812327972746,-1.0,Approved
+M,Y,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.4260869565217391,Working,Secondary / secondary special,Married,House / apartment,-0.4821174779799919,1.0,Approved
+M,Y,Y,-0.0782608695652174,Commercial associate,Higher education,Married,With parents,-0.43385448882291905,2.0,Approved
+M,Y,Y,-0.4260869565217391,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.47915651376731044,0.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4326322726368491,3.0,Approved
+F,Y,Y,0.1391304347826087,State servant,Higher education,Married,House / apartment,-0.44114413536126507,1.0,Approved
+F,Y,Y,-0.20869565217391303,State servant,Secondary / secondary special,Married,House / apartment,-0.4736347156409586,2.0,Approved
+M,Y,Y,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.4346401992282498,0.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Lower secondary,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4340800168096343,1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.44894303864380675,0.0,Approved
+M,N,N,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.43570236329471534,1.0,Approved
+F,N,N,0.9217391304347826,Working,Higher education,Single / not married,With parents,-0.430442468636807,-1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4302824165172026,1.0,Approved
+F,Y,Y,0.3565217391304348,Working,Higher education,Widow,House / apartment,-0.4401910977399842,-1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.43851055048413806,0.0,Approved
+F,N,Y,-0.6,State servant,Higher education,Single / not married,Municipal apartment,-0.443377589939381,-1.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4330469531285514,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.436742702072144,0.0,Approved
+M,N,Y,0.6391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.444788958630438,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Incomplete higher,Single / not married,House / apartment,-0.4334834589092907,-1.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.4530316427900647,-1.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Incomplete higher,Married,With parents,-0.4324285699391708,0.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Incomplete higher,Married,House / apartment,-0.44535641614539906,3.0,Approved
+M,Y,Y,-0.46956521739130436,Working,Lower secondary,Married,With parents,-0.44287560829153083,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4625329186174896,0.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4315482832813466,0.0,Approved
+F,N,Y,-0.6,Working,Higher education,Married,House / apartment,-0.4335052841983277,0.0,Approved
+M,Y,Y,1.4434782608695653,Working,Higher education,Married,House / apartment,-0.4795566440663215,0.0,Approved
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.44334848955399836,1.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.48774112745518294,1.0,Approved
+F,N,N,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4457201709626818,1.0,Approved
+M,N,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,N,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.45677104231173116,3.0,Approved
+F,Y,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,0.2320826309823562,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4303187919989309,1.0,Approved
+F,N,Y,0.7913043478260869,Working,Incomplete higher,Married,House / apartment,-0.4626420450626745,0.0,Approved
+F,N,Y,0.008695652173913044,Working,Secondary / secondary special,Married,House / apartment,-0.46133980281680226,1.0,Approved
+M,Y,N,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4345892735538302,2.0,Approved
+F,N,Y,-0.7217391304347827,Working,Secondary / secondary special,Married,House / apartment,-0.45698202010575517,1.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4461494016470754,0.0,Approved
+F,N,Y,-1.1565217391304348,Working,Higher education,Married,House / apartment,-0.4398855436934667,1.0,Approved
+M,N,N,-0.3826086956521739,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4687458508966787,1.0,Approved
+M,N,Y,-0.6,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4335271094873646,-1.0,Approved
+M,Y,N,-0.44782608695652176,Working,Incomplete higher,Married,House / apartment,-0.4357969395472089,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Incomplete higher,Married,House / apartment,-0.44283195771345685,2.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Higher education,Separated,House / apartment,-0.47525706212603963,-1.0,Approved
+M,N,Y,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.4365753748561939,0.0,Approved
+F,Y,Y,1.008695652173913,Working,Higher education,Separated,House / apartment,-0.4303187919989309,0.0,Approved
+F,Y,Y,-0.034782608695652174,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.008695652173913,Working,Higher education,Separated,House / apartment,-0.46397338769392926,0.0,Approved
+F,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4457347211553731,1.0,Approved
+F,N,Y,-1.0347826086956522,Working,Secondary / secondary special,Married,House / apartment,-0.43907800799909913,0.0,Approved
+F,N,N,-0.6869565217391305,Commercial associate,Higher education,Married,With parents,-0.4634204803716595,0.0,Approved
+M,N,N,1.008695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4896108272160162,-1.0,Approved
+F,Y,N,1.008695652173913,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.6434782608695652,Working,Secondary / secondary special,Married,House / apartment,-0.44422877621182255,0.0,Approved
+F,N,N,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.465704860624195,2.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43601519243757847,-1.0,Approved
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Single / not married,Municipal apartment,-0.4379794684509053,-1.0,Approved
+F,Y,Y,0.4434782608695652,Commercial associate,Higher education,Married,House / apartment,-0.4754025640529526,2.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.43506942991264336,0.0,Approved
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.20869565217391303,Working,Secondary / secondary special,Married,With parents,-0.468971378883394,0.0,Approved
+F,N,Y,-0.20869565217391303,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,1.008695652173913,State servant,Higher education,Civil marriage,House / apartment,-0.42994048698895687,1.0,Approved
+F,N,Y,-0.16521739130434782,Commercial associate,Secondary / secondary special,Widow,House / apartment,-0.46927693292991146,-1.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Higher education,Single / not married,House / apartment,-0.4336144106435124,-1.0,Approved
+F,N,Y,-0.7304347826086957,State servant,Secondary / secondary special,Married,House / apartment,-0.4563272614346462,0.0,Approved
+F,N,Y,-0.16521739130434782,Working,Higher education,Married,House / apartment,-0.464337142511212,0.0,Approved
+F,N,Y,-0.6434782608695652,Pensioner,Higher education,Single / not married,Municipal apartment,2.227877736065395,-1.0,Approved
+F,N,N,1.4434782608695653,Working,Higher education,Separated,House / apartment,-0.45112556754750316,-1.0,Approved
+F,N,Y,-0.034782608695652174,State servant,Secondary / secondary special,Married,House / apartment,-0.4978462362792972,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.44083858131474757,0.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.2260869565217392,Working,Secondary / secondary special,Separated,House / apartment,-0.4446070812217966,-1.0,Approved
+F,N,Y,-0.9478260869565217,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43680817793925486,-1.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4998541628706979,0.0,Approved
+M,Y,N,-0.2956521739130435,State servant,Higher education,Married,House / apartment,-0.4432902887832331,0.0,Approved
+F,N,Y,-0.9478260869565217,Working,Higher education,Single / not married,House / apartment,-0.43752841247747465,0.0,Approved
+M,N,Y,-0.20869565217391303,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.43784851671668346,0.0,Approved
+F,Y,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4902292104053968,0.0,Approved
+M,Y,Y,-0.5130434782608696,State servant,Secondary / secondary special,Married,House / apartment,-0.4452982153746338,0.0,Approved
+M,N,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,With parents,-0.4432102627234309,1.0,Approved
+M,Y,Y,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.43603701772661546,2.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4474807442783302,1.0,Approved
+M,Y,N,0.5739130434782609,Working,Higher education,Married,House / apartment,-0.4486083842119067,0.0,Approved
+M,N,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43784124162033783,2.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.43097355067003984,0.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.43629892119505903,0.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4458583977932492,1.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4452836651819425,2.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.44725521629161485,0.0,Approved
+F,N,Y,1.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.5125855814755935,0.0,Approved
+F,Y,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4360806683046894,0.0,Approved
+M,Y,N,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.45080546330829435,0.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.43908528309544476,0.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.4338035631484995,0.0,Approved
+M,Y,N,0.26956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45685106837153333,2.0,Approved
+F,Y,Y,-0.6,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4384159742316445,1.0,Approved
+M,Y,N,-0.7304347826086957,State servant,Secondary / secondary special,Married,House / apartment,-0.4528861408631516,0.0,Approved
+F,N,N,0.3130434782608696,State servant,Secondary / secondary special,Married,With parents,-0.4307261973942876,0.0,Approved
+M,N,N,0.3565217391304348,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-0.43146825722154436,-1.0,Approved
+M,Y,Y,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.4420171469227436,1.0,Approved
+M,Y,Y,-0.9043478260869565,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43020239045740044,1.0,Approved
+F,N,N,0.3565217391304348,Working,Secondary / secondary special,Separated,House / apartment,-0.4589972217935015,0.0,Approved
+F,N,Y,0.7913043478260869,State servant,Higher education,Married,House / apartment,-0.43971094138117106,0.0,Approved
+F,Y,N,-0.0782608695652174,Commercial associate,Secondary / secondary special,Civil marriage,With parents,-0.46807654203287846,0.0,Approved
+M,N,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43851055048413806,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Separated,With parents,-0.43669905149407,0.0,Approved
+F,N,Y,2.747826086956522,Working,Secondary / secondary special,Married,House / apartment,-0.4375065871884377,0.0,Approved
+M,N,N,0.1391304347826087,Working,Higher education,Civil marriage,House / apartment,-0.45176577602592083,2.0,Approved
+F,N,Y,-0.5565217391304348,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43434192027807794,-1.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Separated,House / apartment,-0.4415879162383499,13.0,Approved
+M,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.45114739283654015,0.0,Approved
+M,N,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4586843926506383,0.0,Approved
+M,Y,Y,0.20070051866752187,Commercial associate,Higher education,Single / not married,House / apartment,-0.4335780351617842,-1.0,Approved
+F,Y,N,0.5739130434782609,Working,Higher education,Married,Municipal apartment,-0.4313518556800139,0.0,Approved
+F,N,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4619727361988742,0.0,Approved
+M,Y,Y,-0.9043478260869565,Working,Higher education,Married,House / apartment,-0.43770301478977036,0.0,Approved
+F,Y,Y,0.5739130434782609,State servant,Secondary / secondary special,Married,House / apartment,-0.4381758960522379,2.0,Approved
+F,N,N,-0.0782608695652174,Pensioner,Higher education,Single / not married,Municipal apartment,2.227877736065395,-1.0,Approved
+F,Y,N,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4340800168096343,0.0,Approved
+F,N,Y,2.747826086956522,State servant,Higher education,Married,House / apartment,-0.43805221941436184,0.0,Approved
+M,Y,N,0.48695652173913045,Working,Secondary / secondary special,Separated,House / apartment,-0.4344801471086454,-1.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4499906525175811,0.0,Approved
+F,Y,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,1.4434782608695653,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4586261918798731,0.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4502380057933333,0.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.6608695652173913,Working,Higher education,Married,House / apartment,-0.47799249835200575,2.0,Approved
+F,N,N,-0.6434782608695652,Commercial associate,Incomplete higher,Married,With parents,-0.4493795444245461,1.0,Approved
+F,N,N,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.44772082245773676,1.0,Approved
+M,Y,Y,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,With parents,-0.4412750870954868,0.0,Approved
+F,Y,N,0.3130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.513269440532085,0.0,Approved
+F,Y,N,-0.7304347826086957,Working,Higher education,Single / not married,With parents,-0.4686439995478395,0.0,Approved
+F,Y,Y,0.7913043478260869,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.43929626088946877,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4517948764113034,0.0,Approved
+M,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4318538373278641,0.0,Approved
+F,Y,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4466077327168516,2.0,Approved
+F,N,N,0.5739130434782609,Working,Secondary / secondary special,Married,Municipal apartment,-0.43861967692932285,0.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.486075130392028,0.0,Approved
+M,Y,N,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.45114011774019447,2.0,Approved
+F,Y,N,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4353022329957043,0.0,Approved
+M,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4447816835340923,1.0,Approved
+F,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44426515169355085,-1.0,Approved
+M,N,N,-0.5130434782608696,State servant,Incomplete higher,Single / not married,House / apartment,-0.4410204587233889,-1.0,Approved
+M,N,Y,-0.46956521739130436,Working,Secondary / secondary special,Married,House / apartment,-0.43404364132790607,1.0,Approved
+M,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.44775719793946506,-1.0,Approved
+M,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.43651717408542867,2.0,Approved
+M,Y,N,-0.2956521739130435,State servant,Secondary / secondary special,Married,House / apartment,-0.4462585280922602,0.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.7478260869565218,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.4260869565217391,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4635659822985726,1.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.437964918258214,1.0,Approved
+F,Y,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,N,0.5739130434782609,State servant,Secondary / secondary special,Married,House / apartment,-0.43775394046419,1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43601519243757847,-1.0,Approved
+M,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45767315425859234,1.0,Approved
+F,N,Y,1.6608695652173913,Pensioner,Lower secondary,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.6,Working,Higher education,Married,House / apartment,-0.4308935246102376,1.0,Approved
+F,N,Y,-0.6434782608695652,Working,Incomplete higher,Married,House / apartment,-0.4309226249956203,0.0,Approved
+F,N,N,-0.9478260869565217,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.43584786522162844,1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.45137292082325536,0.0,Approved
+F,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.45351907424522353,1.0,Approved
+M,Y,N,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.43100992615176814,1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4547849410093674,0.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Higher education,Married,House / apartment,-0.438932506072186,2.0,Approved
+F,N,Y,0.5739130434782609,State servant,Higher education,Married,House / apartment,-0.4519403783382165,2.0,Approved
+F,N,Y,-0.7739130434782608,Working,Secondary / secondary special,Married,House / apartment,-0.4508272885973313,0.0,Approved
+F,N,Y,-0.2956521739130435,State servant,Secondary / secondary special,Married,House / apartment,-0.43100265105542246,0.0,Approved
+F,N,N,-0.4434782608695652,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43453107278306496,1.0,Approved
+F,N,N,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.12173913043478261,Working,Secondary / secondary special,Married,House / apartment,-0.4308789744175463,0.0,Approved
+F,N,Y,0.48695652173913045,Commercial associate,Incomplete higher,Married,House / apartment,-0.44833193055077175,1.0,Approved
+F,N,N,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.44625125299591456,0.0,Approved
+F,N,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.46138345339487624,0.0,Approved
+F,N,Y,-0.5565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4408458564110932,2.0,Approved
+F,N,Y,1.008695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,-0.8608695652173913,Working,Secondary / secondary special,Single / not married,With parents,-0.44048210159381046,-1.0,Approved
+F,Y,Y,-0.9297391304347826,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4397036662848254,-1.0,Approved
+M,N,Y,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.4433266642649614,-1.0,Approved
+F,Y,Y,-0.46956521739130436,Working,Incomplete higher,Civil marriage,House / apartment,-0.4493286187501265,1.0,Approved
+F,N,N,0.3565217391304348,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.4356077870422218,1.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44482533411216624,-1.0,Approved
+M,Y,N,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.4326468228295404,2.0,Approved
+F,N,Y,-0.8173913043478261,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,3.0,Approved
+F,Y,N,-0.0782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45281338989969505,0.0,Approved
+M,N,N,0.5739130434782609,Commercial associate,Higher education,Single / not married,House / apartment,-0.4402492985107495,-1.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4299914126633765,-1.0,Approved
+M,N,Y,-0.6,Working,Higher education,Married,House / apartment,-0.45614538402600485,1.0,Approved
+F,N,N,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.5011054794421504,0.0,Approved
+F,N,Y,-1.2347826086956522,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4655229832155537,0.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45400650570038237,2.0,Approved
+M,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43265409792588605,-1.0,Approved
+F,Y,N,0.1391304347826087,State servant,Incomplete higher,Single / not married,House / apartment,-0.4671744300860173,-1.0,Approved
+F,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45238415921530145,2.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.43462564903555845,1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.44771354736139113,2.0,Approved
+F,N,N,2.139130434782609,Commercial associate,Higher education,Separated,With parents,-0.43244312013186204,-1.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4445925310291053,1.0,Approved
+M,N,N,0.5739130434782609,Working,Secondary / secondary special,Single / not married,House / apartment,-0.47719223775398373,0.0,Approved
+M,Y,Y,-0.3826086956521739,Commercial associate,Higher education,Married,House / apartment,-0.4304351935404614,0.0,Approved
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4452982153746338,1.0,Approved
+M,N,Y,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.4690223045578136,1.0,Approved
+F,N,N,0.5739130434782609,State servant,Secondary / secondary special,Single / not married,House / apartment,-0.4408604066037845,-1.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4475316699527498,-1.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Incomplete higher,Married,House / apartment,-0.4540137807967281,0.0,Approved
+F,Y,N,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.4568874438532617,2.0,Approved
+F,N,N,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45279883970700374,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4472261159062323,0.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.44153699056393036,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.45355544972695183,0.0,Approved
+M,Y,N,0.4,Working,Secondary / secondary special,Civil marriage,Office apartment,-0.4519258281455252,0.0,Approved
+F,Y,Y,1.008695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,1.0,Approved
+F,N,N,1.4434782608695653,State servant,Secondary / secondary special,Married,House / apartment,-0.4508782142717509,0.0,Approved
+F,Y,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.5130434782608696,State servant,Secondary / secondary special,Married,House / apartment,-0.45617448441138747,0.0,Approved
+F,Y,Y,-0.4260869565217391,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.4457201709626818,-1.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,0.5739130434782609,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.44914674134148513,1.0,Approved
+F,N,N,-0.0782608695652174,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,0.5739130434782609,Pensioner,Lower secondary,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Separated,House / apartment,-0.435520485886074,-1.0,Approved
+F,N,N,0.5739130434782609,Working,Secondary / secondary special,Separated,House / apartment,-0.4595719544048082,-1.0,Approved
+M,Y,Y,1.008695652173913,Commercial associate,Higher education,Married,House / apartment,-0.4365753748561939,2.0,Approved
+F,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4902437605980881,0.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4838198505248751,0.0,Approved
+F,N,N,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,2.747826086956522,Working,Higher education,Married,House / apartment,-0.4604376908699411,0.0,Approved
+M,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4721578710827907,-1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43373081218504295,-1.0,Approved
+F,N,Y,1.6608695652173913,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4466222829095429,-1.0,Approved
+M,Y,Y,-0.6869565217391305,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44103500891608016,-1.0,Approved
+M,N,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45500319389973704,0.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.47453682758781973,0.0,Approved
+F,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.45020890540795067,1.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,1.008695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,-0.5130434782608696,Working,Higher education,Married,With parents,-0.44133328786625203,1.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Higher education,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,N,-1.0782608695652174,Working,Higher education,Civil marriage,House / apartment,-0.44700058791951697,0.0,Approved
+F,N,N,0.22608695652173913,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-0.46228556534173737,-1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43752841247747465,0.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4330906037066254,0.0,Approved
+F,N,N,-0.4260869565217391,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.433097878802971,0.0,Approved
+F,Y,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44580747211882965,0.0,Approved
+F,N,N,-0.4260869565217391,Working,Secondary / secondary special,Separated,House / apartment,-0.4351058053943717,-1.0,Approved
+M,Y,Y,0.5739130434782609,State servant,Secondary / secondary special,Married,House / apartment,-0.4483610309361544,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44103500891608016,-1.0,Approved
+M,Y,Y,1.4434782608695653,State servant,Higher education,Married,House / apartment,-0.43035516748065916,1.0,Approved
+M,N,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4586843926506383,0.0,Approved
+M,Y,Y,-0.7304347826086957,Working,Higher education,Civil marriage,House / apartment,-0.4341236673877083,0.0,Approved
+F,Y,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4460257250091993,0.0,Approved
+M,N,Y,-1.1652173913043478,Working,Higher education,Single / not married,House / apartment,-0.45223865728838836,-1.0,Approved
+F,N,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.4424827530888655,0.0,Approved
+M,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.44813550294943916,0.0,Approved
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43024604103547437,0.0,Approved
+M,Y,N,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.46608316563416907,0.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43509125520168035,0.0,Approved
+M,N,Y,-0.6434782608695652,Working,Secondary / secondary special,Married,House / apartment,-0.48270676078398994,0.0,Approved
+F,N,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44914674134148513,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.437521137381129,2.0,Approved
+M,Y,Y,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.46884770224551786,0.0,Approved
+M,Y,Y,0.1391304347826087,State servant,Higher education,Married,House / apartment,-0.44652770665704944,0.0,Approved
+F,N,Y,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.44304293550748086,2.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Separated,House / apartment,-0.4388670302050751,-1.0,Approved
+F,Y,N,-0.5565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.44150789017854775,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.45068178667041825,0.0,Approved
+F,Y,Y,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.44105683420511715,1.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4904474632957664,-1.0,Approved
+F,N,N,1.2260869565217392,Working,Secondary / secondary special,Married,House / apartment,-0.4545885134080348,2.0,Approved
+F,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4544211861920847,0.0,Approved
+M,Y,N,-0.2956521739130435,Commercial associate,Incomplete higher,Married,House / apartment,-0.45672011663731155,1.0,Approved
+F,N,Y,1.4434782608695653,Working,Higher education,Married,House / apartment,-0.4391871344442839,1.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4510528165840466,0.0,Approved
+F,N,Y,1.617391304347826,Working,Secondary / secondary special,Married,House / apartment,-0.4461857771288037,0.0,Approved
+F,N,Y,0.05217391304347826,Working,Secondary / secondary special,Married,House / apartment,-0.4603431146174476,1.0,Approved
+F,N,Y,-0.3391304347826087,Working,Secondary / secondary special,Married,With parents,-0.4393835620456166,1.0,Approved
+F,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4339927156534865,0.0,Approved
+M,Y,Y,0.3565217391304348,State servant,Higher education,Single / not married,House / apartment,-0.4357460138727893,-1.0,Approved
+M,N,N,-0.3826086956521739,Commercial associate,Higher education,Married,House / apartment,-0.44256277914866765,0.0,Approved
+M,Y,N,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4654211318667145,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44289015848422214,-1.0,Approved
+F,Y,Y,-0.5782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4563345365309919,1.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43907800799909913,0.0,Approved
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,1.8782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44062760352072355,-1.0,Approved
+F,N,N,-0.0782608695652174,Commercial associate,Higher education,Married,House / apartment,-0.45666191586654636,0.0,Approved
+F,Y,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4563345365309919,0.0,Approved
+M,Y,Y,-0.5130434782608696,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-0.4510746418730836,0.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4437122443712811,3.0,Approved
+M,N,N,-0.9478260869565217,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.43004233833779604,0.0,Approved
+M,N,N,1.008695652173913,Working,Incomplete higher,Civil marriage,With parents,-0.4313955062580878,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4449199103646598,0.0,Approved
+M,Y,Y,-0.20869565217391303,Working,Higher education,Married,House / apartment,-0.4795566440663215,0.0,Approved
+M,Y,Y,0.4,State servant,Secondary / secondary special,Married,House / apartment,-0.4578841320526163,1.0,Approved
+F,Y,Y,0.1391304347826087,Working,Higher education,Widow,House / apartment,-0.4401910977399842,-1.0,Approved
+F,N,N,0.3565217391304348,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43238491936109685,-1.0,Approved
+M,N,Y,0.3565217391304348,Working,Secondary / secondary special,Separated,House / apartment,-0.43707735650404406,-1.0,Approved
+M,N,Y,0.1391304347826087,State servant,Secondary / secondary special,Married,Rented apartment,-0.446200327321495,0.0,Approved
+M,Y,N,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.4451163379659925,0.0,Approved
+F,N,Y,-0.0782608695652174,State servant,Incomplete higher,Married,House / apartment,-0.45354089953426047,0.0,Approved
+F,N,Y,0.5739130434782609,State servant,Higher education,Single / not married,With parents,-0.4333234067896863,0.0,Approved
+F,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Separated,House / apartment,-0.43202843964015974,-1.0,Approved
+M,N,N,-0.6,Working,Secondary / secondary special,Separated,House / apartment,-0.4755116904981375,-1.0,Approved
+M,Y,N,-0.7304347826086957,Working,Secondary / secondary special,Separated,House / apartment,-0.4369827802515506,0.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.9478260869565217,Commercial associate,Secondary / secondary special,Married,With parents,-0.4378266914276465,1.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,2.0956521739130434,Working,Secondary / secondary special,Married,House / apartment,-0.4632240527703268,0.0,Approved
+M,Y,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4342327938328931,1.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.2260869565217392,Working,Secondary / secondary special,Married,House / apartment,-0.46227101514904606,0.0,Approved
+F,N,N,0.5739130434782609,State servant,Higher education,Married,House / apartment,-0.4699462417937117,0.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.8608695652173913,Working,Secondary / secondary special,Separated,House / apartment,-0.4395290639725297,-1.0,Approved
+F,Y,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4945287923456787,0.0,Approved
+M,N,Y,2.747826086956522,Working,Secondary / secondary special,Married,House / apartment,-0.47920743944173005,3.0,Approved
+F,N,Y,-0.7304347826086957,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,1.3565217391304347,Working,Secondary / secondary special,Married,House / apartment,-0.4318174618461358,0.0,Approved
+F,N,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Widow,House / apartment,-0.439943744464232,-1.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.430442468636807,0.0,Approved
+M,Y,N,0.26956521739130435,Working,Secondary / secondary special,Married,With parents,-0.4333816075604515,2.0,Approved
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45593440623198084,0.0,Approved
+F,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.43297420216509486,0.0,Approved
+M,Y,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Incomplete higher,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4423008756802241,0.0,Approved
+M,Y,Y,-0.25217391304347825,Working,Higher education,Married,House / apartment,-0.47850903019254715,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Higher education,Single / not married,House / apartment,-0.5064162997744783,-1.0,Approved
+M,Y,N,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.45839338879681213,1.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45810966003933157,2.0,Approved
+F,Y,N,-0.3826086956521739,Commercial associate,Higher education,Married,House / apartment,-0.44432335246431615,1.0,Approved
+M,Y,Y,0.26956521739130435,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.5130434782608696,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,2.227877736065395,-1.0,Approved
+M,Y,N,1.6608695652173913,Working,Higher education,Married,With parents,-0.44550191807231215,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Higher education,Civil marriage,House / apartment,-0.4380667696070531,0.0,Approved
+M,Y,N,0.26956521739130435,Working,Secondary / secondary special,Married,Municipal apartment,-0.43755751286285727,2.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4670580285444868,0.0,Approved
+M,Y,N,1.4434782608695653,Working,Higher education,Married,House / apartment,-0.4563636369163745,0.0,Approved
+F,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Widow,House / apartment,-0.4484556071886479,-1.0,Approved
+F,N,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,1.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4365753748561939,2.0,Approved
+M,Y,N,-0.0782608695652174,Commercial associate,Higher education,Single / not married,House / apartment,-0.43044974373315276,-1.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Higher education,Married,With parents,-0.45310439375352124,1.0,Approved
+F,N,N,1.4434782608695653,State servant,Higher education,Married,House / apartment,-0.4474880193746758,1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4607796203981869,0.0,Approved
+F,N,Y,-0.6434782608695652,State servant,Secondary / secondary special,Civil marriage,House / apartment,-0.47319093476387364,0.0,Approved
+F,N,N,1.008695652173913,Working,Incomplete higher,Civil marriage,House / apartment,-0.43132275529463127,0.0,Approved
+M,Y,N,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.45157662352093375,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,Office apartment,-0.48864323940204407,0.0,Approved
+M,Y,Y,-0.23043478260869565,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.448601109115561,2.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.44350854167360276,0.0,Approved
+F,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4690004792687766,0.0,Approved
+M,N,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44382864591281157,0.0,Approved
+F,N,Y,1.008695652173913,Commercial associate,Higher education,Married,House / apartment,-0.45429023445786293,0.0,Approved
+F,N,N,0.3565217391304348,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4402420234144038,1.0,Approved
+M,Y,N,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-0.4489139382584242,0.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Higher education,Married,House / apartment,2.227877736065395,1.0,Approved
+F,N,Y,-0.6434782608695652,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Higher education,Single / not married,House / apartment,-0.5292237268181057,-1.0,Approved
+F,N,N,1.3565217391304347,Commercial associate,Higher education,Single / not married,With parents,-0.43095172538100285,-1.0,Approved
+M,Y,Y,-0.16521739130434782,Working,Secondary / secondary special,Married,House / apartment,-0.4302605912281657,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.47746869141511855,2.0,Approved
+F,N,N,0.1391304347826087,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,0.1391304347826087,Commercial associate,Higher education,Married,House / apartment,-0.44734979254410845,1.0,Approved
+M,N,N,-0.0782608695652174,State servant,Secondary / secondary special,Married,House / apartment,-0.449801500012594,0.0,Approved
+M,Y,Y,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.5159175756019033,0.0,Approved
+F,Y,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.43713555727480935,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.4966531204786098,0.0,Approved
+F,Y,Y,-0.6,Commercial associate,Secondary / secondary special,Married,Office apartment,-0.44586567288959483,0.0,Approved
+F,Y,Y,0.3130434782608696,Working,Higher education,Widow,House / apartment,-0.4401910977399842,-1.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4469205618597148,0.0,Approved
+F,N,Y,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.43530950809205,0.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.45090003956078784,1.0,Approved
+F,N,Y,1.4434782608695653,State servant,Incomplete higher,Single / not married,With parents,-0.44447612948757487,-1.0,Approved
+F,N,N,1.2260869565217392,Commercial associate,Incomplete higher,Married,House / apartment,-0.43708463160038974,0.0,Approved
+F,N,Y,-0.16521739130434782,Working,Higher education,Married,House / apartment,-0.4887523658472289,1.0,Approved
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4344001210488432,0.0,Approved
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4393690118529253,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Widow,House / apartment,-0.49802811368793853,-1.0,Approved
+M,Y,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43773939027149866,2.0,Approved
+F,N,N,0.9217391304347826,State servant,Secondary / secondary special,Married,Rented apartment,-0.44350126657725714,1.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.464337142511212,0.0,Approved
+F,N,N,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4391507589625557,0.0,Approved
+F,Y,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-0.4375065871884377,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4327122986966513,0.0,Approved
+M,Y,N,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4308789744175463,2.0,Approved
+F,N,N,0.05217391304347826,Working,Secondary / secondary special,Married,House / apartment,-0.45311166884986687,0.0,Approved
+F,Y,N,-1.208695652173913,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,N,-0.3391304347826087,Working,Higher education,Married,Rented apartment,-0.4333961577531429,1.0,Approved
+F,N,Y,1.3565217391304347,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.5130434782608696,Working,Higher education,Separated,House / apartment,-0.44040207553400823,-1.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.44451978006564874,2.0,Approved
+M,Y,Y,-0.7304347826086957,State servant,Secondary / secondary special,Civil marriage,House / apartment,-0.44202442201908926,0.0,Approved
+M,N,N,-0.12173913043478261,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4360733932083437,1.0,Approved
+M,N,Y,0.1391304347826087,State servant,Higher education,Married,House / apartment,-0.47032454680368574,2.0,Approved
+M,Y,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4414787897931651,3.0,Approved
+F,N,Y,-0.7304347826086957,Commercial associate,Higher education,Married,House / apartment,-0.4305224946966093,2.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4375065871884377,0.0,Approved
+M,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Incomplete higher,Married,House / apartment,-0.45861164168718177,0.0,Approved
+M,N,N,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.46543568205940583,0.0,Approved
+M,N,Y,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4531771447169778,0.0,Approved
+F,N,N,1.8782608695652174,Commercial associate,Incomplete higher,Single / not married,House / apartment,-0.43176653617171623,-1.0,Approved
+F,N,N,1.4434782608695653,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.48734827225251753,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.49974503642551305,-1.0,Approved
+M,Y,Y,-0.2956521739130435,State servant,Secondary / secondary special,Civil marriage,House / apartment,-0.44202442201908926,0.0,Approved
+F,Y,Y,0.008695652173913044,Working,Higher education,Married,House / apartment,-0.433498009101982,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.44837558112884573,0.0,Approved
+F,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,Rented apartment,-0.44150789017854775,1.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,With parents,-0.4364007725438982,1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45554882612566117,2.0,Approved
+F,Y,Y,0.26956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44426515169355085,-1.0,Approved
+M,Y,Y,0.7913043478260869,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44380682062377463,1.0,Approved
+M,N,Y,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.4406712540987974,2.0,Approved
+M,Y,Y,2.3130434782608695,Working,Higher education,Married,House / apartment,-0.4838198505248751,0.0,Approved
+F,N,N,2.3130434782608695,Pensioner,Higher education,Married,Municipal apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.46220553928193514,0.0,Approved
+F,N,N,1.008695652173913,Working,Secondary / secondary special,Married,With parents,-0.43177381126806186,0.0,Approved
+F,Y,Y,0.7478260869565218,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4371646576601919,0.0,Approved
+F,N,N,-0.5130434782608696,Working,Secondary / secondary special,Single / not married,House / apartment,-0.477417765740699,-1.0,Approved
+F,N,Y,1.6608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44122416142106724,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Widow,House / apartment,-0.4359860920521959,-1.0,Approved
+F,N,N,-0.46956521739130436,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45397740531499975,1.0,Approved
+M,Y,N,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.45302436769371907,0.0,Approved
+M,Y,Y,1.008695652173913,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4578768569562706,1.0,Approved
+M,Y,N,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,-0.2956521739130435,Commercial associate,Higher education,Married,With parents,-0.46627231813915615,0.0,Approved
+F,N,Y,0.48695652173913045,Working,Secondary / secondary special,Married,House / apartment,-0.45570887824526557,0.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.45542514948778506,-1.0,Approved
+M,Y,N,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.43802311902897917,2.0,Approved
+M,N,Y,-0.8173913043478261,Commercial associate,Higher education,Separated,House / apartment,-0.44726249138796054,-1.0,Approved
+F,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Widow,House / apartment,-0.46061229318223684,-1.0,Approved
+F,N,Y,1.2260869565217392,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.5739130434782609,State servant,Secondary / secondary special,Civil marriage,House / apartment,-0.447589870723515,1.0,Approved
+M,N,Y,-0.0782608695652174,Commercial associate,Higher education,Married,House / apartment,-0.44521091421848596,2.0,Approved
+F,Y,Y,-0.0782608695652174,Commercial associate,Higher education,Single / not married,House / apartment,-0.4812444664185134,-1.0,Approved
+F,N,N,0.008695652173913044,Working,Secondary / secondary special,Married,House / apartment,-0.4299986877597221,2.0,Approved
+F,N,Y,2.7043478260869565,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4669561771956477,1.0,Approved
+F,Y,N,-1.1652173913043478,Working,Secondary / secondary special,Married,House / apartment,-0.4784872049035102,0.0,Approved
+M,Y,Y,1.4434782608695653,Commercial associate,Higher education,Married,House / apartment,-0.4464404055009016,0.0,Approved
+M,N,N,2.747826086956522,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.450456258683703,1.0,Approved
+F,N,N,-0.7304347826086957,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4535481746306062,0.0,Approved
+M,N,N,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.4554615249695133,0.0,Approved
+M,N,Y,-0.16521739130434782,Working,Secondary / secondary special,Married,House / apartment,-0.4628093722786245,2.0,Approved
+F,N,N,-0.2956521739130435,Working,Incomplete higher,Married,House / apartment,-0.45861891678352745,1.0,Approved
+F,N,N,-0.20869565217391303,State servant,Secondary / secondary special,Widow,House / apartment,-0.46746543393984347,-1.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4515184227501685,-1.0,Approved
+M,Y,N,1.8782608695652174,Commercial associate,Incomplete higher,Married,House / apartment,-0.4504417084910116,0.0,Approved
+M,Y,N,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4432320880124679,1.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Incomplete higher,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4385178255804837,-1.0,Approved
+F,N,Y,1.2260869565217392,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4384377995206815,0.0,Approved
+F,N,Y,0.48695652173913045,Working,Secondary / secondary special,Married,House / apartment,-0.44182071932141087,1.0,Approved
+M,N,Y,-0.3826086956521739,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.446156676743421,2.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.440343874763243,2.0,Approved
+M,Y,Y,0.22608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.486075130392028,0.0,Approved
+M,Y,Y,1.6608695652173913,Working,Secondary / secondary special,Married,Rented apartment,-0.43558596175318487,0.0,Approved
+F,Y,N,-1.1695652173913043,Working,Secondary / secondary special,Married,House / apartment,-0.48287408799993997,0.0,Approved
+M,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Single / not married,House / apartment,-0.437310159587105,-1.0,Approved
+F,N,N,-0.0782608695652174,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.44553101845769477,0.0,Approved
+F,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Married,With parents,-0.43895433136122297,2.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43188293771324665,0.0,Approved
+F,N,Y,1.3130434782608695,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4433703148430353,0.0,Approved
+M,Y,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.9478260869565217,Working,Higher education,Civil marriage,House / apartment,-0.46697800248468463,0.0,Approved
+M,N,Y,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44622215261053194,1.0,Approved
+F,Y,N,1.4434782608695653,Working,Higher education,Civil marriage,House / apartment,-0.4364298729292808,1.0,Approved
+F,N,N,-0.46956521739130436,Working,Secondary / secondary special,Married,House / apartment,-0.43820499643762056,1.0,Approved
+F,Y,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4805751575547131,0.0,Approved
+M,N,N,-0.9478260869565217,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44150789017854775,0.0,Approved
+F,N,Y,0.22608695652173913,Commercial associate,Higher education,Married,House / apartment,-0.44578564682979266,1.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.4298313605437721,2.0,Approved
+M,N,N,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.45434843522862817,0.0,Approved
+F,N,N,0.5739130434782609,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4486593098863262,1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4313809560653965,0.0,Approved
+F,Y,Y,0.3565217391304348,State servant,Secondary / secondary special,Married,House / apartment,-0.4878211535149852,1.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Higher education,Married,House / apartment,-0.43310515389931664,0.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Higher education,Married,House / apartment,-0.43310515389931664,0.0,Approved
+M,Y,Y,0.1391304347826087,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.43641532273658956,0.0,Approved
+F,N,Y,-0.8173913043478261,Working,Secondary / secondary special,Married,House / apartment,-0.43508398010533467,2.0,Approved
+F,N,Y,-0.7304347826086957,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4464040300191733,2.0,Approved
+F,N,Y,-0.6869565217391305,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4374047358395985,0.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45665464077020074,0.0,Approved
+M,Y,Y,2.747826086956522,Working,Higher education,Married,House / apartment,-0.43895433136122297,1.0,Approved
+F,N,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-1.0782608695652174,Commercial associate,Higher education,Married,House / apartment,-0.453468148570804,1.0,Approved
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.46673064920893237,0.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Higher education,Single / not married,With parents,-0.4341236673877083,-1.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4592664003582907,1.0,Approved
+F,N,N,0.5739130434782609,Pensioner,Secondary / secondary special,Widow,Municipal apartment,2.227877736065395,-1.0,Approved
+F,N,N,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.44180616912871956,0.0,Approved
+F,N,Y,-0.5130434782608696,State servant,Secondary / secondary special,Widow,House / apartment,-0.44422877621182255,-1.0,Approved
+F,Y,Y,1.2260869565217392,Working,Secondary / secondary special,Married,House / apartment,-0.45578890430506774,0.0,Approved
+M,Y,Y,1.8782608695652174,Working,Incomplete higher,Married,House / apartment,-0.44150789017854775,2.0,Approved
+M,Y,Y,0.5739130434782609,Working,Higher education,Married,Rented apartment,-0.43279959985279914,0.0,Approved
+F,N,Y,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.4627875469895876,1.0,Approved
+M,Y,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4473716178331454,0.0,Approved
+F,N,N,1.008695652173913,Working,Incomplete higher,Married,House / apartment,-0.44315206195266565,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4357605640654806,0.0,Approved
+F,Y,Y,0.48695652173913045,Working,Higher education,Married,House / apartment,-0.4321593913743816,1.0,Approved
+F,Y,N,1.6608695652173913,Working,Higher education,Married,With parents,-0.43662630053061346,0.0,Approved
+F,N,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.5070565082528959,0.0,Approved
+F,N,N,-0.5565217391304348,State servant,Secondary / secondary special,Separated,House / apartment,-0.5190167666451522,-1.0,Approved
+F,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.44184254461044786,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4561381089296592,1.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4455091931686578,0.0,Approved
+M,Y,N,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.49098582042534494,1.0,Approved
+M,Y,N,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44515998854406635,0.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,1.008695652173913,Working,Secondary / secondary special,Separated,House / apartment,-0.4392089597333209,-1.0,Approved
+F,Y,Y,1.008695652173913,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.4429483592549874,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4547849410093674,0.0,Approved
+M,Y,N,1.791304347826087,Working,Higher education,Married,House / apartment,-0.445778371733447,0.0,Approved
+F,N,Y,0.3565217391304348,State servant,Higher education,Separated,House / apartment,-0.5121563507911998,-1.0,Approved
+M,N,Y,0.22608695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4594628279596234,-1.0,Approved
+M,N,N,1.008695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43603701772661546,1.0,Approved
+F,Y,Y,-0.20869565217391303,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.46931330841163976,0.0,Approved
+F,N,N,-0.9478260869565217,Working,Higher education,Married,House / apartment,-0.4694660854348985,0.0,Approved
+F,N,N,0.7913043478260869,Commercial associate,Higher education,Married,House / apartment,-0.4371646576601919,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43408729190598005,-1.0,Approved
+M,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4412969123845238,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Civil marriage,With parents,-0.4561817595077331,1.0,Approved
+F,N,N,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,1.4434782608695653,Working,Secondary / secondary special,Married,Rented apartment,-0.43585514031797407,0.0,Approved
+F,N,N,-0.6434782608695652,Working,Higher education,Separated,House / apartment,-0.44040207553400823,-1.0,Approved
+M,Y,Y,1.791304347826087,Working,Secondary / secondary special,Separated,House / apartment,-0.4420389722117805,-1.0,Approved
+F,Y,Y,0.09565217391304348,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4384159742316445,1.0,Approved
+M,Y,Y,1.3565217391304347,Working,Higher education,Married,House / apartment,-0.4559489564246722,1.0,Approved
+M,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.45355544972695183,-1.0,Approved
+F,N,Y,-1.0347826086956522,Working,Secondary / secondary special,Married,House / apartment,-0.4522095569030057,0.0,Approved
+F,N,Y,1.2260869565217392,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.4619727361988742,1.0,Approved
+F,Y,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4393035359858144,1.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.22608695652173913,Working,Secondary / secondary special,Married,Municipal apartment,-0.43775394046419,0.0,Approved
+F,Y,Y,0.7913043478260869,Commercial associate,Higher education,Married,House / apartment,-0.4306316211417941,1.0,Approved
+F,Y,N,-0.7304347826086957,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4329378266833666,0.0,Approved
+M,Y,Y,-0.16521739130434782,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43285780062356444,2.0,Approved
+F,Y,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.4471242645573931,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4404966517865017,3.0,Approved
+F,N,Y,-0.4222173913043478,Working,Higher education,Married,House / apartment,-0.44062032842437787,0.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4809170870829589,0.0,Approved
+M,Y,N,0.1391304347826087,Commercial associate,Incomplete higher,Civil marriage,With parents,-0.4342036934475105,0.0,Approved
+F,Y,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4482519044909696,1.0,Approved
+M,N,N,2.747826086956522,Commercial associate,Higher education,Married,With parents,-0.46627231813915615,0.0,Approved
+M,N,Y,0.5739130434782609,Working,Higher education,Married,House / apartment,-0.4438431961055029,1.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4333379569823776,-1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Incomplete higher,Married,House / apartment,-0.4627584466042049,0.0,Approved
+F,Y,N,0.7043478260869566,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.47650110360114656,1.0,Approved
+M,N,Y,0.9217391304347826,Working,Secondary / secondary special,Single / not married,With parents,-0.43696823005885926,-1.0,Approved
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,With parents,-0.434720225288052,2.0,Approved
+F,N,N,0.5739130434782609,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Higher education,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,N,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.445778371733447,0.0,Approved
+F,N,Y,0.05217391304347826,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43229761820494894,3.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45479949120205876,0.0,Approved
+F,Y,N,0.3565217391304348,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-1.2739130434782608,Working,Higher education,Separated,House / apartment,-0.4408313062184019,0.0,Approved
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4424827530888655,-1.0,Approved
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.47952754368093886,0.0,Approved
+M,N,N,-0.0782608695652174,Working,Secondary / secondary special,Civil marriage,Rented apartment,-0.4477062722650455,0.0,Approved
+M,Y,N,-0.9478260869565217,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.43963091532136883,1.0,Approved
+M,Y,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43158465876307484,0.0,Approved
+M,Y,Y,-0.12173913043478261,Working,Secondary / secondary special,Married,House / apartment,-0.44705878869028226,0.0,Approved
+M,Y,Y,0.1391304347826087,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.1391304347826087,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,-0.4260869565217391,Working,Secondary / secondary special,Married,House / apartment,-0.5157575234822989,0.0,Approved
+F,N,Y,-0.5130434782608696,State servant,Higher education,Married,House / apartment,-0.4621837139928982,1.0,Approved
+F,Y,N,1.008695652173913,State servant,Secondary / secondary special,Married,House / apartment,-0.4326468228295404,0.0,Approved
+F,N,N,1.8782608695652174,Working,Higher education,Single / not married,Office apartment,-0.45322807039139734,-1.0,Approved
+F,N,Y,-0.4782608695652174,Working,Higher education,Married,House / apartment,-0.44017654754729296,0.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.43774666536784435,0.0,Approved
+F,Y,N,2.747826086956522,Working,Higher education,Married,House / apartment,-0.45479221610571313,0.0,Approved
+M,N,Y,0.5739130434782609,Working,Secondary / secondary special,Single / not married,House / apartment,-0.451802151507649,-1.0,Approved
+M,N,N,2.3130434782608695,Working,Higher education,Married,With parents,-0.44688418637798655,0.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.439943744464232,0.0,Approved
+M,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.44788087457734116,1.0,Approved
+M,Y,Y,0.3565217391304348,Pensioner,Lower secondary,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,1.2695652173913043,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,1.4434782608695653,Working,Secondary / secondary special,Widow,With parents,-0.4352513073212848,-1.0,Approved
+M,Y,Y,0.3565217391304348,Commercial associate,Higher education,Civil marriage,House / apartment,-0.44775719793946506,1.0,Approved
+M,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Incomplete higher,Married,House / apartment,-0.497387905209521,1.0,Approved
+M,Y,Y,1.8782608695652174,Working,Incomplete higher,Married,House / apartment,-0.44027112379978645,0.0,Approved
+M,Y,Y,-0.5130434782608696,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,N,-0.4260869565217391,Commercial associate,Incomplete higher,Separated,House / apartment,-0.43907800799909913,-1.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.5046993770369038,0.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Higher education,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,N,0.9217391304347826,Working,Higher education,Married,House / apartment,-0.4460038997201623,0.0,Approved
+M,Y,N,-0.4260869565217391,Working,Secondary / secondary special,Separated,With parents,-0.4411295851685737,1.0,Approved
+F,Y,N,0.3565217391304348,Working,Secondary / secondary special,Separated,House / apartment,-0.44488353488293153,-1.0,Approved
+M,N,Y,-0.6869565217391305,Commercial associate,Higher education,Single / not married,House / apartment,-0.4433266642649614,-1.0,Approved
+F,N,Y,0.5739130434782609,State servant,Higher education,Married,House / apartment,-0.4523114082518449,0.0,Approved
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4503689575275551,-1.0,Approved
+F,Y,Y,1.8782608695652174,Commercial associate,Higher education,Separated,House / apartment,-0.43792126768014,-1.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Married,With parents,-0.44144968940778245,2.0,Approved
+M,N,Y,0.7913043478260869,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45599988209909176,0.0,Approved
+F,N,Y,-0.8173913043478261,Commercial associate,Higher education,Married,House / apartment,-0.43804494431801616,0.0,Approved
+F,N,Y,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4652101540726905,0.0,Approved
+F,N,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.43363623593254946,2.0,Approved
+F,N,N,0.5739130434782609,State servant,Higher education,Married,House / apartment,-0.47766511901645126,0.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4452836651819425,2.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-1.208695652173913,Commercial associate,Secondary / secondary special,Separated,House / apartment,-0.4347347754807433,0.0,Approved
+F,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.44196622124832396,0.0,Approved
+M,Y,Y,-0.9478260869565217,Working,Secondary / secondary special,Married,With parents,-0.44104955910877147,0.0,Approved
+F,N,Y,1.4434782608695653,Working,Secondary / secondary special,Separated,House / apartment,-0.44422877621182255,-1.0,Approved
+M,N,Y,1.008695652173913,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Incomplete higher,Married,House / apartment,-0.43980551763366454,0.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4444979547766118,1.0,Approved
+F,Y,Y,0.8347826086956521,Working,Higher education,Separated,House / apartment,-0.4728126297538996,0.0,Approved
+F,N,Y,1.008695652173913,Working,Secondary / secondary special,Married,With parents,-0.43218849175976415,2.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Higher education,Married,House / apartment,-0.43601519243757847,0.0,Approved
+F,N,Y,1.008695652173913,Working,Higher education,Single / not married,House / apartment,-0.4481573282384761,-1.0,Approved
+M,Y,N,-0.034782608695652174,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4455528437467317,0.0,Approved
+F,Y,N,1.4434782608695653,Working,Higher education,Single / not married,House / apartment,-0.4410713843978085,0.0,Approved
+M,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4353022329957043,1.0,Approved
+F,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4498306003979767,-1.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43601519243757847,0.0,Approved
+M,N,N,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.4409404326635867,-1.0,Approved
+F,N,N,0.5739130434782609,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.44790997496272383,-1.0,Approved
+F,Y,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.43650989898908304,1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.034782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4493649942318548,0.0,Approved
+F,N,N,2.747826086956522,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4510382663913553,0.0,Approved
+F,N,N,1.008695652173913,State servant,Secondary / secondary special,Married,Office apartment,-0.4504271582983203,2.0,Approved
+M,Y,Y,-0.7304347826086957,Working,Higher education,Married,House / apartment,-0.4298313605437721,0.0,Approved
+M,Y,Y,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.4537882528100128,0.0,Approved
+M,Y,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.453868278869815,0.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.45768770445128365,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4525951370093254,0.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.43297420216509486,0.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.43418186815847354,0.0,Approved
+M,N,Y,2.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.4354695602116544,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.44350854167360276,0.0,Approved
+F,N,N,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.4315482832813466,0.0,Approved
+M,Y,Y,1.8782608695652174,Working,Higher education,Married,House / apartment,-0.43331613169334066,1.0,Approved
+F,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4423008756802241,0.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.44791725005906946,0.0,Approved
+M,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.44647678098262983,0.0,Approved
+M,Y,Y,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.45733849982669217,0.0,Approved
+F,N,Y,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.43789944239110307,0.0,Approved
+F,N,Y,1.4434782608695653,Working,Secondary / secondary special,Widow,House / apartment,-0.44664410819857986,-1.0,Approved
+F,Y,Y,-0.5130434782608696,State servant,Higher education,Married,House / apartment,-0.4891743214352769,0.0,Approved
+M,Y,N,-0.7956521739130434,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.9217391304347826,Working,Higher education,Single / not married,Co-op apartment,-0.43316335467008193,-1.0,Approved
+M,N,N,0.7913043478260869,Working,Higher education,Married,House / apartment,-0.4474370937002563,1.0,Approved
+M,Y,Y,1.8782608695652174,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.44648405607897546,0.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43629892119505903,-1.0,Approved
+M,N,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.45864801716891,0.0,Approved
+F,N,N,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44107865949415415,1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.5130434782608696,State servant,Higher education,Married,House / apartment,-0.44489080997927716,2.0,Approved
+M,Y,N,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.4407149046768714,0.0,Approved
+F,Y,Y,0.07391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4467095840656908,0.0,Approved
+M,Y,Y,-0.16521739130434782,State servant,Higher education,Married,House / apartment,-0.4479609006371434,2.0,Approved
+F,N,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.437310159587105,-1.0,Approved
+M,Y,N,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.4345892735538302,2.0,Approved
+F,N,N,-0.8608695652173913,State servant,Secondary / secondary special,Single / not married,House / apartment,-0.48452553487040356,0.0,Approved
+F,Y,Y,0.5739130434782609,Working,Higher education,Married,House / apartment,-0.43297420216509486,0.0,Approved
+M,N,N,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4325740718660839,-1.0,Approved
+F,N,Y,0.48695652173913045,Working,Secondary / secondary special,Married,House / apartment,-0.46928420802625714,2.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.44617122693611233,0.0,Approved
+F,N,N,0.4434782608695652,Working,Higher education,Married,House / apartment,-0.4457201709626818,0.0,Approved
+F,N,Y,0.3565217391304348,State servant,Secondary / secondary special,Civil marriage,House / apartment,-0.43068982191255933,1.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Separated,House / apartment,-0.4395290639725297,-1.0,Approved
+F,Y,Y,-0.5130434782608696,State servant,Higher education,Married,House / apartment,-0.45480676629840444,0.0,Approved
+M,Y,N,0.008695652173913044,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4501434295408398,1.0,Approved
+F,N,N,-0.9043478260869565,Commercial associate,Incomplete higher,Married,House / apartment,-0.4463167288630254,0.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4372010331419202,2.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Higher education,Single / not married,House / apartment,-0.44437427813873565,-1.0,Approved
+F,N,N,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.4803205291826152,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Separated,House / apartment,-0.4511837683182684,1.0,Approved
+F,N,Y,0.4,Commercial associate,Higher education,Married,House / apartment,-0.45429023445786293,0.0,Approved
+F,Y,Y,-0.16521739130434782,State servant,Secondary / secondary special,Married,House / apartment,-0.4878211535149852,1.0,Approved
+M,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.45063086099599864,1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Incomplete higher,Civil marriage,House / apartment,-0.4420389722117805,0.0,Approved
+M,Y,Y,0.3565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.43341070794583414,2.0,Approved
+M,N,Y,-0.9478260869565217,Commercial associate,Secondary / secondary special,Single / not married,With parents,-0.4386269520256685,-1.0,Approved
+F,N,N,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.45768770445128365,0.0,Approved
+F,N,Y,1.3565217391304347,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.452245932384734,0.0,Approved
+M,Y,Y,-0.7304347826086957,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4404966517865017,0.0,Approved
+F,Y,Y,1.8782608695652174,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4382122715339662,0.0,Approved
+M,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.4338035631484995,0.0,Approved
+F,N,N,2.747826086956522,Working,Lower secondary,Single / not married,House / apartment,-0.44627307828495155,1.0,Approved
+F,N,N,-0.9478260869565217,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43100992615176814,1.0,Approved
+F,N,N,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44289743358056777,0.0,Approved
+F,Y,N,1.4434782608695653,State servant,Secondary / secondary special,Married,House / apartment,-0.5161649288776555,0.0,Approved
+M,N,Y,0.7913043478260869,State servant,Higher education,Married,House / apartment,-0.4548722421655153,1.0,Approved
+M,N,Y,-0.9043478260869565,State servant,Higher education,Married,House / apartment,-0.47032454680368574,2.0,Approved
+F,N,Y,-0.8173913043478261,Working,Secondary / secondary special,Separated,House / apartment,-0.4532426205840887,-1.0,Approved
+F,Y,Y,0.05217391304347826,State servant,Secondary / secondary special,Married,House / apartment,-0.4322612427232207,1.0,Approved
+F,Y,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.45291524124853416,1.0,Approved
+M,N,Y,-0.2956521739130435,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,0.3565217391304348,Commercial associate,Higher education,Married,With parents,-0.4325304212880099,1.0,Approved
+M,N,Y,1.2260869565217392,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4309444502846572,-1.0,Approved
+F,N,Y,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.48774112745518294,1.0,Approved
+F,N,N,1.4434782608695653,Working,Secondary / secondary special,Married,House / apartment,-0.4807206594816262,2.0,Approved
+M,Y,Y,2.3130434782608695,Working,Secondary / secondary special,Married,House / apartment,-0.4432902887832331,1.0,Approved
+F,N,N,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.3130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.43133003039097695,2.0,Approved
+F,N,Y,0.008695652173913044,Working,Secondary / secondary special,Married,House / apartment,-0.4455528437467317,0.0,Approved
+F,N,N,-0.8913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.44138421354067164,0.0,Approved
+M,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43990736898250377,1.0,Approved
+F,N,Y,-0.6,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,N,-0.8608695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4358187648362458,-1.0,Approved
+M,N,N,0.5739130434782609,Working,Secondary / secondary special,Married,With parents,-0.4389616064575686,1.0,Approved
+F,N,N,-0.3826086956521739,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-0.4341745930621279,-1.0,Approved
+F,N,N,0.4434782608695652,Working,Secondary / secondary special,Married,House / apartment,-0.44772809755408244,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.48313599146838354,0.0,Approved
+M,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44062760352072355,-1.0,Approved
+F,Y,Y,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.4364225978329352,0.0,Approved
+M,Y,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,2.3130434782608695,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4535918252086801,-1.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4429483592549874,0.0,Approved
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.43845962480971845,0.0,Approved
+F,N,N,0.7913043478260869,Working,Secondary / secondary special,Single / not married,Municipal apartment,-0.44287560829153083,-1.0,Approved
+F,N,N,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44072217977321704,0.0,Approved
+M,Y,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43100992615176814,0.0,Approved
+F,Y,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4312281790421378,2.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Higher education,Married,House / apartment,2.227877736065395,1.0,Approved
+F,N,Y,-0.9478260869565217,Working,Secondary / secondary special,Married,House / apartment,-0.4327122986966513,0.0,Approved
+M,N,N,-0.2956521739130435,Working,Higher education,Single / not married,House / apartment,-0.4429047086769134,0.0,Approved
+M,Y,N,0.26956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.44777902322850205,2.0,Approved
+M,Y,N,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.45839338879681213,1.0,Approved
+F,Y,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.44150789017854775,1.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.45096551542789876,0.0,Approved
+F,N,Y,0.1391304347826087,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.45479949120205876,3.0,Approved
+F,N,N,0.7913043478260869,Working,Secondary / secondary special,Separated,House / apartment,-0.43066072152717666,-1.0,Approved
+M,Y,Y,1.8782608695652174,Commercial associate,Incomplete higher,Married,House / apartment,-0.4327704994674166,0.0,Approved
+M,N,Y,0.26956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.43974731686289936,2.0,Approved
+F,N,N,-0.9478260869565217,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,1.3565217391304347,State servant,Secondary / secondary special,Married,House / apartment,-0.49247721517620413,0.0,Approved
+F,N,N,-0.12173913043478261,Working,Secondary / secondary special,Separated,House / apartment,-0.4436904190822441,-1.0,Approved
+F,N,Y,0.05217391304347826,Working,Higher education,Single / not married,House / apartment,-0.43754296267016596,-1.0,Approved
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.45501774409242846,3.0,Approved
+F,N,N,1.8782608695652174,State servant,Incomplete higher,Married,House / apartment,-0.45101644110231837,0.0,Approved
+F,N,N,-0.0782608695652174,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.5075657649970917,0.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Incomplete higher,Separated,House / apartment,2.227877736065395,-1.0,Approved
+M,N,N,1.2260869565217392,Working,Higher education,Married,House / apartment,-0.4749369578868307,1.0,Approved
+F,N,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4604958916407063,0.0,Approved
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44040207553400823,-1.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.42994776208530255,2.0,Approved
+F,N,Y,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4797166961859259,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4424463776071372,-1.0,Approved
+M,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4521659063249318,0.0,Approved
+M,Y,N,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4573093994413096,2.0,Approved
+M,N,N,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.44256277914866765,0.0,Approved
+F,N,Y,1.2260869565217392,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4412969123845238,0.0,Approved
+F,N,Y,1.0521739130434782,Working,Higher education,Married,House / apartment,-0.4624747178467244,2.0,Approved
+F,N,N,0.5739130434782609,Working,Higher education,Married,House / apartment,-0.4350112291418781,1.0,Approved
+M,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.44647678098262983,0.0,Approved
+F,N,Y,0.5739130434782609,State servant,Incomplete higher,Civil marriage,House / apartment,-0.45527237246452634,1.0,Approved
+F,N,Y,1.8782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.3826086956521739,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44638947982648197,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.43495302837111294,0.0,Approved
+F,Y,Y,-1.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4460257250091993,0.0,Approved
+F,N,N,-0.8608695652173913,Working,Secondary / secondary special,Married,Municipal apartment,-0.5126074067646305,0.0,Approved
+M,Y,Y,0.7913043478260869,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43229761820494894,-1.0,Approved
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Separated,House / apartment,-0.434698399999015,0.0,Approved
+F,N,Y,-0.8173913043478261,Working,Higher education,Married,House / apartment,-0.4725871017671843,2.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.432675923214923,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4321011906036163,-1.0,Approved
+F,N,N,-0.6434782608695652,Working,Secondary / secondary special,Married,House / apartment,-0.44730614196603447,0.0,Approved
+F,N,Y,-0.9478260869565217,State servant,Secondary / secondary special,Married,House / apartment,-0.45617448441138747,0.0,Approved
+F,Y,Y,0.2320826309823562,Working,Secondary / secondary special,Married,House / apartment,-0.4442215011154769,0.0,Approved
+M,N,Y,0.3565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.43517855635782826,0.0,Approved
+M,Y,Y,-1.0347826086956522,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4555415510293155,0.0,Approved
+F,N,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44715336494277574,-1.0,Approved
+F,N,N,-0.2956521739130435,Working,Higher education,Married,With parents,-0.4846928620863536,2.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.43708463160038974,1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.20869565217391303,Working,Secondary / secondary special,Married,House / apartment,-0.437353810165179,1.0,Approved
+M,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.4496414478929896,0.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4339708903644495,0.0,Approved
+M,Y,Y,-0.8173913043478261,Commercial associate,Secondary / secondary special,Married,Rented apartment,-0.4486083842119067,0.0,Approved
+F,Y,Y,0.26956521739130435,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.43974731686289936,0.0,Approved
+F,N,Y,-0.20869565217391303,Working,Higher education,Married,House / apartment,-0.45842976427854043,0.0,Approved
+F,N,Y,1.2260869565217392,Working,Higher education,Married,House / apartment,-0.44535641614539906,1.0,Approved
+M,N,N,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4687458508966787,1.0,Approved
+F,N,Y,1.4434782608695653,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.2956521739130435,Commercial associate,Higher education,Single / not married,House / apartment,-0.4560726330625483,-1.0,Approved
+M,Y,Y,0.3565217391304348,State servant,Higher education,Married,House / apartment,-0.4650719272421231,1.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.5125855814755935,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4702008701658096,0.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.434509247494028,2.0,Approved
+F,Y,N,1.008695652173913,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.8608695652173913,Commercial associate,Higher education,Married,House / apartment,-0.43996556975326895,1.0,Approved
+F,N,Y,1.2260869565217392,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4391871344442839,0.0,Approved
+M,Y,Y,2.3130434782608695,Working,Secondary / secondary special,Married,House / apartment,-0.43157738366672915,1.0,Approved
+F,Y,Y,0.26956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4420535224044718,1.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.47171409020570576,0.0,Approved
+F,N,Y,-0.48695652173913045,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,-1.0565217391304347,Working,Secondary / secondary special,Married,House / apartment,-0.44150061508220206,1.0,Approved
+F,Y,N,0.1391304347826087,Working,Incomplete higher,Single / not married,House / apartment,-0.4516930250624643,-1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4515693484245881,-1.0,Approved
+M,N,Y,0.3565217391304348,State servant,Secondary / secondary special,Separated,Co-op apartment,-0.4928627952825238,-1.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,0.3565217391304348,Working,Higher education,Married,House / apartment,-0.43066072152717666,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Separated,Municipal apartment,-0.43384721372657337,0.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,0.3167772772553754,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.7739130434782608,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43934718656388827,-1.0,Approved
+M,Y,N,1.008695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4315410081850009,-1.0,Approved
+M,Y,Y,-0.0782608695652174,Commercial associate,Higher education,Single / not married,House / apartment,-0.4360806683046894,-1.0,Approved
+F,N,Y,1.8782608695652174,State servant,Secondary / secondary special,Single / not married,House / apartment,-0.4688549773418635,-1.0,Approved
+F,N,Y,-0.7304347826086957,Commercial associate,Higher education,Married,House / apartment,-0.430886249513892,0.0,Approved
+M,Y,N,-0.7304347826086957,State servant,Higher education,Married,With parents,-0.4404966517865017,2.0,Approved
+F,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Married,With parents,-0.45254421133490585,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Widow,House / apartment,-0.44426515169355085,-1.0,Approved
+F,Y,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4380158439326335,0.0,Approved
+M,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.44001649542768856,1.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,N,0.3565217391304348,Working,Higher education,Single / not married,House / apartment,-0.4691896317737636,-1.0,Approved
+M,N,Y,0.5739130434782609,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.43442194633788017,0.0,Approved
+F,N,Y,-0.5565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.5229307684791143,0.0,Approved
+F,Y,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.43095172538100285,0.0,Approved
+F,Y,Y,0.1391304347826087,Working,Lower secondary,Married,House / apartment,-0.43382538843753643,0.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,Rented apartment,-0.4683893711757416,-1.0,Approved
+M,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4811571652623655,0.0,Approved
+M,N,N,-0.7304347826086957,Working,Higher education,Married,House / apartment,-0.4327122986966513,1.0,Approved
+F,Y,N,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4784872049035102,0.0,Approved
+M,Y,Y,-0.6,State servant,Higher education,Married,House / apartment,-0.44570562076999043,1.0,Approved
+F,N,Y,-0.9043478260869565,Working,Higher education,Single / not married,House / apartment,-0.43754296267016596,-1.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,3.1826086956521737,Working,Secondary / secondary special,Married,House / apartment,-0.46818566847806325,0.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4553014728499089,-1.0,Approved
+F,N,Y,1.8782608695652174,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.44705878869028226,-1.0,Approved
+M,N,Y,-0.2956521739130435,State servant,Higher education,Married,House / apartment,-0.43049339431122663,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.474595028358585,0.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Separated,House / apartment,-0.4595719544048082,-1.0,Approved
+F,Y,N,-0.8173913043478261,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.47788337190682084,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Higher education,Married,With parents,-0.4353022329957043,0.0,Approved
+F,N,Y,2.747826086956522,Commercial associate,Secondary / secondary special,Civil marriage,Municipal apartment,-0.4440250735141443,0.0,Approved
+F,N,Y,1.8782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4357751142581719,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Incomplete higher,Civil marriage,House / apartment,-0.4420389722117805,0.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4734964888103912,1.0,Approved
+M,N,N,0.3565217391304348,Working,Higher education,Single / not married,House / apartment,-0.4422062994277306,-1.0,Approved
+M,Y,Y,-0.6739130434782609,Working,Secondary / secondary special,Single / not married,House / apartment,-0.430675271719868,-1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Incomplete higher,Single / not married,House / apartment,-0.48232118067767027,-1.0,Approved
+F,N,Y,-0.3826086956521739,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,Y,-0.6434782608695652,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-0.43429099460365833,1.0,Approved
+F,Y,Y,-0.5130434782608696,State servant,Secondary / secondary special,Married,House / apartment,-0.4381758960522379,2.0,Approved
+F,N,N,0.1391304347826087,Commercial associate,Higher education,Married,House / apartment,-0.4345892735538302,1.0,Approved
+F,N,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,Y,N,0.5739130434782609,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4527915646106581,0.0,Approved
+F,N,N,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4300059628560678,0.0,Approved
+F,Y,N,0.1391304347826087,Working,Higher education,Civil marriage,House / apartment,-0.4364298729292808,1.0,Approved
+M,Y,Y,-0.2956521739130435,Commercial associate,Incomplete higher,Civil marriage,Office apartment,-0.454435736384776,1.0,Approved
+F,N,Y,1.4434782608695653,Working,Higher education,Married,House / apartment,-0.4326468228295404,0.0,Approved
+F,N,N,2.139130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-1.1652173913043478,Working,Secondary / secondary special,Married,House / apartment,-0.45617448441138747,1.0,Approved
+M,N,Y,0.19130434782608696,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.46897865397973965,1.0,Approved
+F,N,Y,-0.8608695652173913,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.5739130434782609,State servant,Secondary / secondary special,Single / not married,House / apartment,-0.523949281967506,-1.0,Approved
+F,N,N,-0.3826086956521739,Working,Secondary / secondary special,Married,House / apartment,-0.4693642340860594,0.0,Approved
+F,N,N,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.477606918245686,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4692260072554919,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4309080748029289,0.0,Approved
+M,Y,N,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.43022421574643743,2.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,1.008695652173913,State servant,Secondary / secondary special,Civil marriage,House / apartment,-0.49303012249847383,1.0,Approved
+M,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.6,Working,Lower secondary,Married,House / apartment,-0.43558596175318487,1.0,Approved
+F,N,Y,-0.3391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4854494721063017,0.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.4670580285444868,0.0,Approved
+M,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Civil marriage,House / apartment,-0.43375991257042557,0.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4520204043980187,0.0,Approved
+F,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.9478260869565217,State servant,Higher education,Married,With parents,-0.4413187376735607,0.0,Approved
+F,Y,Y,0.22608695652173913,State servant,Secondary / secondary special,Married,House / apartment,-0.4878211535149852,1.0,Approved
+F,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.47934566627229747,2.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,N,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.44874661104247415,2.0,Approved
+F,Y,Y,0.008695652173913044,Working,Higher education,Married,House / apartment,-0.43235581897571423,1.0,Approved
+F,N,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.43495302837111294,0.0,Approved
+F,N,N,1.6608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44289743358056777,0.0,Approved
+F,N,N,-0.7304347826086957,Commercial associate,Higher education,Married,With parents,-0.4323048933012947,0.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.437099181793081,-1.0,Approved
+F,N,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.47120483346150993,0.0,Approved
+F,Y,Y,0.1391304347826087,Commercial associate,Higher education,Married,House / apartment,-0.4429119837732591,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4417188679725717,2.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4496414478929896,0.0,Approved
+F,N,N,-0.2956521739130435,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,N,0.2320826309823562,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4435740175407137,0.0,Approved
+M,N,Y,-0.3826086956521739,Commercial associate,Secondary / secondary special,Single / not married,Rented apartment,-0.44092588247089537,-1.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.1826086956521739,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4408167560257105,0.0,Approved
+F,Y,Y,0.0,Working,Secondary / secondary special,Married,House / apartment,-0.4821465783653745,0.0,Approved
+M,Y,Y,1.4434782608695653,Working,Higher education,Married,House / apartment,-0.4331997301518101,1.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4625329186174896,0.0,Approved
+F,N,N,-0.5130434782608696,Working,Secondary / secondary special,Widow,House / apartment,-0.4388524800123838,0.0,Approved
+F,N,Y,0.3565217391304348,State servant,Secondary / secondary special,Married,House / apartment,-0.4475753205308237,1.0,Approved
+M,N,Y,-0.9043478260869565,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4721578710827907,-1.0,Approved
+M,Y,N,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.470571900079438,2.0,Approved
+M,Y,Y,2.1826086956521737,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Higher education,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.0782608695652174,State servant,Secondary / secondary special,Married,House / apartment,-0.45389010415885195,1.0,Approved
+F,Y,Y,-0.5130434782608696,Commercial associate,Incomplete higher,Married,House / apartment,-0.45799325849780115,0.0,Approved
+F,N,Y,1.008695652173913,State servant,Higher education,Married,House / apartment,-0.45588348055756134,0.0,Approved
+F,N,Y,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.4692260072554919,0.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,2.227877736065395,1.0,Approved
+F,Y,Y,1.8782608695652174,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.22608695652173913,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.43054431998564624,0.0,Approved
+F,N,Y,-0.0782608695652174,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4424027270290633,0.0,Approved
+M,Y,Y,2.3130434782608695,Working,Secondary / secondary special,Married,House / apartment,-0.43851055048413806,0.0,Approved
+F,Y,Y,-0.0782608695652174,Commercial associate,Higher education,Single / not married,House / apartment,-0.43757933815189426,-1.0,Approved
+F,Y,Y,-0.3391304347826087,Working,Higher education,Married,House / apartment,-0.45799325849780115,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.7304347826086957,Working,Incomplete higher,Widow,House / apartment,-0.4431011362782461,-1.0,Approved
+F,N,N,-0.9478260869565217,Pensioner,Secondary / secondary special,Separated,Municipal apartment,2.227877736065395,-1.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Higher education,Married,House / apartment,-0.45098006562059006,0.0,Approved
+F,N,Y,0.7913043478260869,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.4496414478929896,0.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Lower secondary,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+M,Y,Y,-0.3826086956521739,Working,Higher education,Married,With parents,-0.43784851671668346,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45351907424522353,1.0,Approved
+F,N,Y,-0.5130434782608696,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,0.7913043478260869,Commercial associate,Higher education,Married,House / apartment,-0.4408022058330192,1.0,Approved
+F,N,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.5075657649970917,0.0,Approved
+M,Y,N,1.4434782608695653,State servant,Secondary / secondary special,Married,House / apartment,-0.47701036034534233,2.0,Approved
+M,Y,Y,-0.9478260869565217,Working,Higher education,Married,House / apartment,-0.4615580557071719,0.0,Approved
+F,N,N,1.6608695652173913,Working,Secondary / secondary special,Married,Municipal apartment,-0.4308280487431267,0.0,Approved
+M,N,Y,1.6608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.4513583706305641,1.0,Approved
+F,N,N,-0.5130434782608696,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4466804836803082,-1.0,Approved
+F,Y,N,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.4303115169025853,0.0,Approved
+M,Y,Y,1.2260869565217392,Working,Higher education,Married,With parents,-0.4399728448496146,0.0,Approved
+F,Y,Y,-0.2956521739130435,Working,Higher education,Married,House / apartment,-0.4461494016470754,0.0,Approved
+M,Y,Y,2.747826086956522,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Single / not married,House / apartment,-0.43204298983285105,-1.0,Approved
+F,N,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.5075948653824744,0.0,Approved
+M,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,With parents,-0.43382538843753643,0.0,Approved
+F,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44958324712222436,0.0,Approved
+M,Y,Y,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.45598533190640045,3.0,Approved
+F,N,Y,-0.5130434782608696,State servant,Secondary / secondary special,Married,House / apartment,-0.4463240039593711,0.0,Approved
+F,N,N,-0.2956521739130435,State servant,Higher education,Married,House / apartment,-0.46818566847806325,2.0,Approved
+F,Y,N,-0.8173913043478261,Working,Secondary / secondary special,Single / not married,House / apartment,-0.5015056097411614,-1.0,Approved
+M,Y,N,-0.2956521739130435,Working,Secondary / secondary special,Married,House / apartment,-0.4359788169558502,0.0,Approved
+F,N,Y,1.008695652173913,Working,Secondary / secondary special,Single / not married,House / apartment,-0.45999390999285616,-1.0,Approved
+M,Y,N,0.7913043478260869,Working,Higher education,Married,House / apartment,-0.43071164720159627,1.0,Approved
+F,N,Y,0.3565217391304348,Working,Secondary / secondary special,Married,House / apartment,-0.4511983185109597,0.0,Approved
+M,Y,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.4545885134080348,2.0,Approved
+F,N,N,0.48695652173913045,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.43199206415843144,-1.0,Approved
+M,N,Y,0.3565217391304348,State servant,Secondary / secondary special,Married,House / apartment,-0.4309881008627312,1.0,Approved
+F,Y,Y,-0.2956521739130435,Working,Secondary / secondary special,Single / not married,With parents,-0.4313736809690508,-1.0,Approved
+M,Y,Y,0.7913043478260869,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.44380682062377463,1.0,Approved
+F,N,N,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,-0.9478260869565217,Working,Higher education,Married,House / apartment,-0.4426137048230872,0.0,Approved
+M,Y,Y,-0.3391304347826087,Working,Higher education,Married,House / apartment,-0.44828100487635225,0.0,Approved
+F,N,Y,-0.6434782608695652,Working,Higher education,Married,House / apartment,-0.45733122473034654,0.0,Approved
+F,Y,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4501507046371855,2.0,Approved
+M,Y,N,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.4367354269757983,0.0,Approved
+F,N,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4469278369560604,0.0,Approved
+F,N,Y,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.44781539871023035,0.0,Approved
+F,N,Y,2.3130434782608695,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,Y,Y,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.4746241287439676,0.0,Approved
+M,N,Y,0.05217391304347826,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4300568885304874,1.0,Approved
+M,Y,Y,0.1391304347826087,Commercial associate,Higher education,Single / not married,House / apartment,-0.4335780351617842,-1.0,Approved
+M,Y,Y,1.6608695652173913,Working,Lower secondary,Married,With parents,-0.44287560829153083,0.0,Approved
+M,Y,N,1.4434782608695653,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.44844105699595666,-1.0,Approved
+M,N,Y,0.7913043478260869,Working,Secondary / secondary special,Married,House / apartment,-0.4319702388693945,1.0,Approved
+M,Y,Y,0.1391304347826087,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43553503607876526,1.0,Approved
+F,Y,Y,-0.7956521739130434,Working,Higher education,Married,House / apartment,-0.46485367435175345,2.0,Approved
+M,N,Y,0.3565217391304348,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+F,N,Y,2.747826086956522,Commercial associate,Higher education,Married,House / apartment,-0.4324503952282077,2.0,Approved
+F,N,Y,-0.2956521739130435,Pensioner,Secondary / secondary special,Married,Municipal apartment,2.227877736065395,0.0,Approved
+F,N,N,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.44315206195266565,-1.0,Approved
+F,Y,Y,1.008695652173913,Commercial associate,Higher education,Married,House / apartment,-0.43514218087609996,1.0,Approved
+F,N,N,0.48695652173913045,Working,Higher education,Married,House / apartment,-0.4537518773282845,0.0,Approved
+M,N,Y,-0.49130434782608695,Working,Secondary / secondary special,Married,House / apartment,-0.4403584249559343,0.0,Approved
+M,N,Y,-0.6434782608695652,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,N,-1.1434782608695653,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.4466804836803082,-1.0,Approved
+F,N,Y,-1.1217391304347826,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.439943744464232,0.0,Approved
+F,Y,Y,0.5739130434782609,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,Y,2.747826086956522,Working,Secondary / secondary special,Married,House / apartment,-0.4668034001723889,1.0,Approved
+F,N,N,0.5739130434782609,Working,Secondary / secondary special,Married,House / apartment,-0.4344801471086454,0.0,Approved
+F,Y,Y,-0.7304347826086957,Working,Secondary / secondary special,Married,House / apartment,-0.45291524124853416,1.0,Approved
+M,N,N,0.1391304347826087,State servant,Higher education,Married,House / apartment,-0.4657194108168864,0.0,Approved
+M,Y,N,-0.6,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-0.4510746418730836,0.0,Approved
+M,N,Y,-0.2956521739130435,Working,Lower secondary,Civil marriage,House / apartment,-0.44524001460386853,0.0,Approved
+F,Y,N,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.4324358450355164,1.0,Approved
+F,Y,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4370409810223158,0.0,Approved
+M,Y,Y,1.008695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.4353240582847413,0.0,Approved
+F,N,Y,1.008695652173913,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4647590980992599,0.0,Approved
+M,N,Y,0.3565217391304348,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-0.43815407076320095,-1.0,Approved
+F,N,N,0.1391304347826087,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.1391304347826087,Working,Academic degree,Civil marriage,House / apartment,-0.4842781815946513,1.0,Approved
+F,N,Y,-0.5565217391304348,Pensioner,Secondary / secondary special,Married,House / apartment,2.227877736065395,0.0,Approved
+F,N,Y,0.5739130434782609,Commercial associate,Incomplete higher,Married,House / apartment,-0.44833193055077175,1.0,Approved
+F,N,Y,-0.0782608695652174,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,2.3130434782608695,State servant,Secondary / secondary special,Married,House / apartment,-0.468105642418261,0.0,Approved
+M,Y,N,0.5739130434782609,Working,Higher education,Married,House / apartment,-0.43374536237773426,0.0,Approved
+M,N,Y,0.48695652173913045,Commercial associate,Incomplete higher,Single / not married,House / apartment,-0.4303187919989309,0.0,Approved
+F,N,N,-0.2956521739130435,State servant,Higher education,Civil marriage,House / apartment,-0.46723990595312814,0.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.432486770709936,0.0,Approved
+F,N,Y,-0.2956521739130435,Commercial associate,Secondary / secondary special,Widow,House / apartment,-0.43265409792588605,2.0,Approved
+F,N,N,-0.0782608695652174,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-1.1652173913043478,Pensioner,Secondary / secondary special,Widow,House / apartment,2.227877736065395,-1.0,Approved
+F,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.44196622124832396,0.0,Approved
+F,N,Y,0.3130434782608696,Pensioner,Higher education,Single / not married,House / apartment,2.227877736065395,-1.0,Approved
+F,N,N,0.6608695652173913,Working,Secondary / secondary special,Married,House / apartment,-0.44772809755408244,0.0,Approved
+F,N,N,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.4362698208096764,0.0,Approved
+F,N,N,0.4,Pensioner,Secondary / secondary special,Widow,Municipal apartment,2.227877736065395,-1.0,Approved
+F,N,N,0.3130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.437964918258214,1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Married,House / apartment,-0.45181670170034033,1.0,Approved
+F,N,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.4352658575139761,0.0,Approved
+F,N,N,0.48695652173913045,Working,Secondary / secondary special,Married,With parents,-0.4498669758797049,0.0,Approved
+F,N,Y,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.4561672093150418,3.0,Approved
+M,N,Y,-0.6869565217391305,Working,Incomplete higher,Married,House / apartment,-0.4325958971551208,0.0,Approved
+M,N,Y,-0.9260869565217391,Working,Higher education,Married,House / apartment,-0.44575654644441004,0.0,Approved
+M,N,Y,-0.6,Working,Secondary / secondary special,Married,House / apartment,-0.44001649542768856,1.0,Approved
+M,Y,Y,-0.0782608695652174,Working,Secondary / secondary special,Single / not married,House / apartment,-0.4307189222979419,-1.0,Approved
+F,Y,Y,-0.5130434782608696,Working,Higher education,Married,House / apartment,-0.430442468636807,1.0,Approved
+F,Y,Y,-0.9478260869565217,Pensioner,Higher education,Married,House / apartment,2.227877736065395,0.0,Approved
+M,N,N,-0.5130434782608696,Working,Secondary / secondary special,Married,House / apartment,-0.43009326401221565,1.0,Approved
+F,Y,N,-0.0782608695652174,State servant,Incomplete higher,Single / not married,House / apartment,-0.4671744300860173,-1.0,Approved
+F,Y,Y,1.008695652173913,Working,Secondary / secondary special,Married,Municipal apartment,-0.4719468932887667,3.0,Approved
+M,Y,Y,-0.2956521739130435,Commercial associate,Higher education,Single / not married,With parents,-0.4449562858463881,-1.0,Approved
+M,N,Y,-0.5130434782608696,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-0.4446143563181422,1.0,Approved
+F,N,N,-0.3826086956521739,Pensioner,Secondary / secondary special,Separated,House / apartment,2.227877736065395,-1.0,Approved
+M,N,Y,0.09565217391304348,Commercial associate,Higher education,Married,House / apartment,-0.4380303941253248,0.0,Approved
+M,Y,Y,-0.16521739130434782,Commercial associate,Higher education,Married,House / apartment,-0.44305748570017217,2.0,Approved
+M,Y,Y,-0.3826086956521739,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.4545885134080348,0.0,Approved
+F,N,N,0.1391304347826087,Working,Secondary / secondary special,Married,House / apartment,-0.4632167776739811,0.0,Approved
+F,Y,N,0.5739130434782609,Commercial associate,Higher education,Married,House / apartment,-0.4340800168096343,0.0,Approved
+M,N,N,-0.3826086956521739,Commercial associate,Secondary / secondary special,Married,House / apartment,-0.43974731686289936,0.0,Approved
+F,Y,N,-0.0782608695652174,Pensioner,Higher education,Married,House / apartment,-0.4694660854348985,0.0,Approved
+F,N,Y,-0.0782608695652174,Working,Higher education,Married,House / apartment,-0.43429099460365833,0.0,Approved
+F,Y,Y,1.008695652173913,Working,Higher education,Married,House / apartment,-0.4505726602252334,1.0,Approved
+F,N,Y,0.1391304347826087,Working,Higher education,Married,House / apartment,-0.44128963728817805,2.0,Approved
+M,Y,N,-0.20869565217391303,State servant,Secondary / secondary special,Married,House / apartment,-0.4550250191887741,1.0,Approved
+F,N,Y,-0.5130434782608696,Commercial associate,Higher education,Married,House / apartment,-0.4451745387367577,0.0,Approved
+F,N,N,0.5739130434782609,Commercial associate,Incomplete higher,Single / not married,House / apartment,-0.4380958699924357,-1.0,Approved
+M,Y,Y,2.747826086956522,Working,Higher education,Married,House / apartment,-0.4473206921587258,2.0,Approved
+M,Y,N,0.1391304347826087,Working,Secondary / secondary special,Civil marriage,House / apartment,-0.4339927156534865,0.0,Approved
+F,Y,Y,-0.20869565217391303,Working,Higher education,Married,House / apartment,-0.4500997789627659,0.0,Approved
